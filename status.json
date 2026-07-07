@@ -1,53 +1,53 @@
 {
-  "roi": 8.5,
-  "cycle": 120,
-  "trades": 3968,
-  "wr": 28.8,
+  "roi": 21.59,
+  "cycle": 105,
+  "trades": 3218,
+  "wr": 40.5,
   "grids": {
     "VVV": {
-      "center": 11.518,
-      "pnl": 31.38
+      "center": 10.402,
+      "pnl": 58.29
     },
     "LIT": {
-      "center": 2.4111,
-      "pnl": -12.9
+      "center": 2.5783,
+      "pnl": 21.01
     },
     "GRASS": {
-      "center": 0.47754,
-      "pnl": -26.22
+      "center": 0.50211,
+      "pnl": 1.05
     },
     "WLD": {
-      "center": 0.40276,
-      "pnl": 54.6
+      "center": 0.3909,
+      "pnl": 58.41
     },
     "XPL": {
-      "center": 0.10327,
-      "pnl": 16.29
+      "center": 0.10652,
+      "pnl": 26.96
     },
     "EIGEN": {
-      "center": 0.2209,
-      "pnl": 41.43
+      "center": 0.2223,
+      "pnl": 38.37
     },
     "PUMP": {
-      "center": 0.001559,
-      "pnl": -19.62
+      "center": 0.001643,
+      "pnl": 11.79
     }
   },
   "pesos": {
-    "VVV": 0.05,
-    "LIT": 0.05,
-    "GRASS": 0.05,
-    "WLD": 0.14930555555555555,
-    "XPL": 0.38402777777777775,
-    "EIGEN": 0.2666666666666666,
-    "PUMP": 0.05
+    "VVV": 0.16535048802129546,
+    "LIT": 0.16535048802129546,
+    "GRASS": 0.12786157941437445,
+    "WLD": 0.06787932564330079,
+    "XPL": 0.16535048802129546,
+    "EIGEN": 0.14285714285714285,
+    "PUMP": 0.16535048802129546
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "VVV": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0064
+      "funding": 0.0058
     },
     "LIT": {
       "nivel": "VERDE",
@@ -62,7 +62,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.001
     },
     "XPL": {
       "nivel": "VERDE",
@@ -83,14 +83,14 @@
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 17.64,
-      "mov": 0.35
+      "vol_ratio": 17.86,
+      "mov": 0.36
     },
     {
       "coin": "BANANA",
-      "vol_ratio": 12.72,
+      "vol_ratio": 12.57,
       "mov": 0.25
     }
   ],
-  "updated": "2026-07-07T14:38:41.098334+00:00"
+  "updated": "2026-07-07T14:41:50.970000+00:00"
 }
