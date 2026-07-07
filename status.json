@@ -1,72 +1,72 @@
 {
-  "roi": 8.4,
-  "cycle": 110,
-  "trades": 3618,
-  "wr": 29.3,
+  "roi": 18.2,
+  "cycle": 100,
+  "trades": 3110,
+  "wr": 38.4,
   "grids": {
     "VVV": {
-      "center": 11.518,
-      "pnl": 35.45
+      "center": 10.97,
+      "pnl": 54.83
     },
     "LIT": {
-      "center": 2.4111,
-      "pnl": -8.4
+      "center": 2.6041,
+      "pnl": 16.26
     },
     "GRASS": {
-      "center": 0.47754,
-      "pnl": -21.72
+      "center": 0.52893,
+      "pnl": -3.7
     },
     "WLD": {
-      "center": 0.40276,
-      "pnl": 51.3
+      "center": 0.3909,
+      "pnl": 53.34
     },
     "XPL": {
-      "center": 0.10327,
-      "pnl": 7.53
+      "center": 0.10652,
+      "pnl": 19.36
     },
     "EIGEN": {
-      "center": 0.2209,
-      "pnl": 35.4
+      "center": 0.2286,
+      "pnl": 33.94
     },
     "PUMP": {
-      "center": 0.001559,
-      "pnl": -15.51
+      "center": 0.001643,
+      "pnl": 7.99
     }
   },
   "pesos": {
-    "VVV": 0.05,
-    "LIT": 0.05,
-    "GRASS": 0.05,
-    "WLD": 0.34999999999999987,
-    "XPL": 0.05,
-    "EIGEN": 0.4,
-    "PUMP": 0.05
+    "VVV": 0.16535048802129546,
+    "LIT": 0.16535048802129546,
+    "GRASS": 0.12786157941437445,
+    "WLD": 0.06787932564330079,
+    "XPL": 0.16535048802129546,
+    "EIGEN": 0.14285714285714285,
+    "PUMP": 0.16535048802129546
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0026
+      "funding": 0.0029
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0057
+      "funding": 0.0049
     },
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0012
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "EIGEN": {
@@ -83,9 +83,9 @@
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 19.52,
+      "vol_ratio": 19.51,
       "mov": 0.39
     }
   ],
-  "updated": "2026-07-07T13:46:37.225584+00:00"
+  "updated": "2026-07-07T13:50:52.151719+00:00"
 }
