@@ -1,46 +1,46 @@
 {
-  "roi": 37.84,
-  "cycle": 119,
-  "trades": 3693,
-  "wr": 48.1,
+  "roi": 12.48,
+  "cycle": 148,
+  "trades": 4948,
+  "wr": 29.7,
   "grids": {
     "VVV": {
-      "center": 11.147,
-      "pnl": 78.65
+      "center": 11.518,
+      "pnl": 23.15
     },
     "LIT": {
-      "center": 2.5783,
-      "pnl": 53.57
+      "center": 2.4111,
+      "pnl": -25.5
     },
     "GRASS": {
-      "center": 0.50095,
-      "pnl": 21.97
+      "center": 0.47754,
+      "pnl": -38.82
     },
     "WLD": {
-      "center": 0.3909,
-      "pnl": 79.58
+      "center": 0.40276,
+      "pnl": 67.35
     },
     "XPL": {
-      "center": 0.10652,
-      "pnl": 50.8
+      "center": 0.10327,
+      "pnl": 47.37
     },
     "EIGEN": {
-      "center": 0.2287,
-      "pnl": 63.07
+      "center": 0.2209,
+      "pnl": 72.51
     },
     "PUMP": {
-      "center": 0.001643,
-      "pnl": 30.79
+      "center": 0.001559,
+      "pnl": -21.3
     }
   },
   "pesos": {
-    "VVV": 0.14285714285714285,
-    "LIT": 0.14285714285714285,
-    "GRASS": 0.14285714285714285,
-    "WLD": 0.14285714285714285,
-    "XPL": 0.14285714285714285,
-    "EIGEN": 0.14285714285714285,
-    "PUMP": 0.14285714285714285
+    "VVV": 0.05,
+    "LIT": 0.05,
+    "GRASS": 0.05,
+    "WLD": 0.2091836734693877,
+    "XPL": 0.29540816326530606,
+    "EIGEN": 0.29540816326530606,
+    "PUMP": 0.05
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
@@ -52,12 +52,12 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0029
+      "funding": 0.0027
     },
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0046
+      "funding": 0.0045
     },
     "WLD": {
       "nivel": "VERDE",
@@ -83,14 +83,14 @@
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 11.57,
+      "vol_ratio": 11.61,
       "mov": 0.23
     },
     {
       "coin": "BANANA",
-      "vol_ratio": 1.9,
+      "vol_ratio": 1.88,
       "mov": 0.04
     }
   ],
-  "updated": "2026-07-07T17:04:54.955345+00:00"
+  "updated": "2026-07-07T17:05:19.099105+00:00"
 }
