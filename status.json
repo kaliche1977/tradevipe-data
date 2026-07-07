@@ -1,63 +1,63 @@
 {
-  "roi": 12.28,
-  "cycle": 147,
-  "trades": 4913,
-  "wr": 29.6,
+  "roi": 37.84,
+  "cycle": 119,
+  "trades": 3693,
+  "wr": 48.1,
   "grids": {
     "VVV": {
-      "center": 11.518,
-      "pnl": 23.21
+      "center": 11.147,
+      "pnl": 78.65
     },
     "LIT": {
-      "center": 2.4111,
-      "pnl": -25.05
+      "center": 2.5783,
+      "pnl": 53.57
     },
     "GRASS": {
-      "center": 0.47754,
-      "pnl": -38.37
+      "center": 0.50095,
+      "pnl": 21.97
     },
     "WLD": {
-      "center": 0.40276,
-      "pnl": 66.63
+      "center": 0.3909,
+      "pnl": 79.58
     },
     "XPL": {
-      "center": 0.10327,
-      "pnl": 46.26
+      "center": 0.10652,
+      "pnl": 50.8
     },
     "EIGEN": {
-      "center": 0.2209,
-      "pnl": 71.4
+      "center": 0.2287,
+      "pnl": 63.07
     },
     "PUMP": {
-      "center": 0.001559,
-      "pnl": -21.24
+      "center": 0.001643,
+      "pnl": 30.79
     }
   },
   "pesos": {
-    "VVV": 0.05,
-    "LIT": 0.05,
-    "GRASS": 0.05,
-    "WLD": 0.2091836734693877,
-    "XPL": 0.29540816326530606,
-    "EIGEN": 0.29540816326530606,
-    "PUMP": 0.05
+    "VVV": 0.14285714285714285,
+    "LIT": 0.14285714285714285,
+    "GRASS": 0.14285714285714285,
+    "WLD": 0.14285714285714285,
+    "XPL": 0.14285714285714285,
+    "EIGEN": 0.14285714285714285,
+    "PUMP": 0.14285714285714285
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "VVV": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
+      "score": 0,
+      "funding": 0.0029
     },
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0067
+      "funding": 0.0046
     },
     "WLD": {
       "nivel": "VERDE",
@@ -66,12 +66,12 @@
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "EIGEN": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "PUMP": {
@@ -83,14 +83,14 @@
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 12.1,
-      "mov": 0.24
+      "vol_ratio": 11.57,
+      "mov": 0.23
     },
     {
       "coin": "BANANA",
-      "vol_ratio": 1.12,
-      "mov": 0.02
+      "vol_ratio": 1.9,
+      "mov": 0.04
     }
   ],
-  "updated": "2026-07-07T17:00:05.984346+00:00"
+  "updated": "2026-07-07T17:04:54.955345+00:00"
 }
