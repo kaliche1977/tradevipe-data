@@ -1,53 +1,53 @@
 {
-  "roi": 30.51,
-  "cycle": 113,
-  "trades": 3486,
-  "wr": 45.1,
+  "roi": 10.51,
+  "cycle": 137,
+  "trades": 4563,
+  "wr": 29.1,
   "grids": {
     "VVV": {
-      "center": 10.793,
-      "pnl": 69.74
+      "center": 11.518,
+      "pnl": 24.46
     },
     "LIT": {
-      "center": 2.5783,
-      "pnl": 38.53
+      "center": 2.4111,
+      "pnl": -20.55
     },
     "GRASS": {
-      "center": 0.50211,
-      "pnl": 14.52
+      "center": 0.47754,
+      "pnl": -33.87
     },
     "WLD": {
-      "center": 0.3909,
-      "pnl": 69.18
+      "center": 0.40276,
+      "pnl": 60.21
     },
     "XPL": {
-      "center": 0.10652,
-      "pnl": 40.43
+      "center": 0.10327,
+      "pnl": 35.16
     },
     "EIGEN": {
-      "center": 0.2287,
-      "pnl": 50.17
+      "center": 0.2209,
+      "pnl": 60.3
     },
     "PUMP": {
-      "center": 0.001643,
-      "pnl": 22.56
+      "center": 0.001559,
+      "pnl": -20.64
     }
   },
   "pesos": {
-    "VVV": 0.14285714285714285,
-    "LIT": 0.14285714285714285,
-    "GRASS": 0.14285714285714285,
-    "WLD": 0.14285714285714285,
-    "XPL": 0.14285714285714285,
-    "EIGEN": 0.14285714285714285,
-    "PUMP": 0.14285714285714285
+    "VVV": 0.05,
+    "LIT": 0.05,
+    "GRASS": 0.05,
+    "WLD": 0.1341176470588235,
+    "XPL": 0.3329411764705882,
+    "EIGEN": 0.3329411764705882,
+    "PUMP": 0.05
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0006
     },
     "LIT": {
       "nivel": "VERDE",
@@ -57,7 +57,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.008
+      "funding": 0.0071
     },
     "WLD": {
       "nivel": "VERDE",
@@ -83,14 +83,14 @@
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 20.28,
-      "mov": 0.41
+      "vol_ratio": 19.8,
+      "mov": 0.4
     },
     {
       "coin": "BANANA",
-      "vol_ratio": 2.93,
-      "mov": 0.06
+      "vol_ratio": 2.42,
+      "mov": 0.05
     }
   ],
-  "updated": "2026-07-07T16:03:40.164798+00:00"
+  "updated": "2026-07-07T16:07:55.301597+00:00"
 }
