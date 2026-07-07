@@ -1,36 +1,36 @@
 {
-  "roi": 8.98,
-  "cycle": 105,
-  "trades": 3443,
-  "wr": 30.1,
+  "roi": 8.87,
+  "cycle": 106,
+  "trades": 3478,
+  "wr": 29.9,
   "grids": {
     "VVV": {
       "center": 11.518,
-      "pnl": 37.48
+      "pnl": 37.08
     },
     "LIT": {
       "center": 2.4111,
-      "pnl": -6.15
+      "pnl": -6.6
     },
     "GRASS": {
       "center": 0.47754,
-      "pnl": -19.47
+      "pnl": -19.92
     },
     "WLD": {
       "center": 0.40276,
-      "pnl": 49.65
+      "pnl": 49.98
     },
     "XPL": {
       "center": 0.10327,
-      "pnl": 7.83
+      "pnl": 7.77
     },
     "EIGEN": {
       "center": 0.2209,
-      "pnl": 33.75
+      "pnl": 34.08
     },
     "PUMP": {
       "center": 0.001559,
-      "pnl": -13.26
+      "pnl": -13.71
     }
   },
   "pesos": {
@@ -47,7 +47,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0033
+      "funding": 0.0031
     },
     "LIT": {
       "nivel": "VERDE",
@@ -57,12 +57,12 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0048
+      "funding": 0.0056
     },
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0015
     },
     "XPL": {
       "nivel": "VERDE",
@@ -83,9 +83,9 @@
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 21.21,
+      "vol_ratio": 21.06,
       "mov": 0.42
     }
   ],
-  "updated": "2026-07-07T13:20:32.963892+00:00"
+  "updated": "2026-07-07T13:25:44.884898+00:00"
 }
