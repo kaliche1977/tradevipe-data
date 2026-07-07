@@ -1,57 +1,57 @@
 {
-  "roi": 8.97,
-  "cycle": 124,
-  "trades": 4108,
-  "wr": 28.9,
+  "roi": 23.83,
+  "cycle": 107,
+  "trades": 3286,
+  "wr": 41.7,
   "grids": {
     "VVV": {
-      "center": 11.518,
-      "pnl": 29.75
+      "center": 10.402,
+      "pnl": 61.35
     },
     "LIT": {
-      "center": 2.4111,
-      "pnl": -14.7
+      "center": 2.5783,
+      "pnl": 25.02
     },
     "GRASS": {
-      "center": 0.47754,
-      "pnl": -28.02
+      "center": 0.50211,
+      "pnl": 4.39
     },
     "WLD": {
-      "center": 0.40276,
-      "pnl": 55.92
+      "center": 0.3909,
+      "pnl": 61.08
     },
     "XPL": {
-      "center": 0.10327,
-      "pnl": 20.73
+      "center": 0.10652,
+      "pnl": 30.3
     },
     "EIGEN": {
-      "center": 0.2209,
-      "pnl": 45.87
+      "center": 0.2223,
+      "pnl": 41.72
     },
     "PUMP": {
-      "center": 0.001559,
-      "pnl": -19.86
+      "center": 0.001643,
+      "pnl": 14.46
     }
   },
   "pesos": {
-    "VVV": 0.05,
-    "LIT": 0.05,
-    "GRASS": 0.05,
-    "WLD": 0.14930555555555555,
-    "XPL": 0.38402777777777775,
-    "EIGEN": 0.2666666666666666,
-    "PUMP": 0.05
+    "VVV": 0.16535048802129546,
+    "LIT": 0.16535048802129546,
+    "GRASS": 0.12786157941437445,
+    "WLD": 0.06787932564330079,
+    "XPL": 0.16535048802129546,
+    "EIGEN": 0.14285714285714285,
+    "PUMP": 0.16535048802129546
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0044
+      "funding": 0.0013
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "GRASS": {
@@ -62,7 +62,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0013
     },
     "XPL": {
       "nivel": "VERDE",
@@ -83,14 +83,14 @@
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 17.98,
-      "mov": 0.36
+      "vol_ratio": 16.27,
+      "mov": 0.33
     },
     {
       "coin": "BANANA",
-      "vol_ratio": 11.21,
-      "mov": 0.22
+      "vol_ratio": 5.43,
+      "mov": 0.11
     }
   ],
-  "updated": "2026-07-07T14:59:27.579590+00:00"
+  "updated": "2026-07-07T15:02:11.155150+00:00"
 }
