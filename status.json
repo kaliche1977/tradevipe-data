@@ -1,72 +1,72 @@
 {
-  "roi": 75.15,
-  "cycle": 280,
-  "trades": 9602,
-  "wr": 39.7,
+  "roi": 169.32,
+  "cycle": 209,
+  "trades": 6272,
+  "wr": 69.0,
   "grids": {
     "VVV": {
-      "center": 11.518,
-      "pnl": -27.25
+      "center": 10.896,
+      "pnl": 291.09
     },
     "LIT": {
-      "center": 2.4111,
-      "pnl": 1.78
+      "center": 2.4461,
+      "pnl": 240.13
     },
     "GRASS": {
-      "center": 0.47754,
-      "pnl": 153.35
+      "center": 0.39491,
+      "pnl": 271.35
     },
     "WLD": {
-      "center": 0.40276,
-      "pnl": 98.33
+      "center": 0.37893,
+      "pnl": 248.82
     },
     "XPL": {
-      "center": 0.10327,
-      "pnl": 265.06
+      "center": 0.097282,
+      "pnl": 259.55
     },
     "EIGEN": {
-      "center": 0.2209,
-      "pnl": 171.86
+      "center": 0.222,
+      "pnl": 224.04
     },
     "PUMP": {
-      "center": 0.001559,
-      "pnl": 88.35
+      "center": 0.001563,
+      "pnl": 158.26
     }
   },
   "pesos": {
-    "VVV": 0.05,
-    "LIT": 0.18784046692607004,
-    "GRASS": 0.05,
-    "WLD": 0.05,
-    "XPL": 0.17140077821011673,
-    "EIGEN": 0.18784046692607004,
-    "PUMP": 0.30291828793774317
+    "VVV": 0.14285714285714285,
+    "LIT": 0.14285714285714285,
+    "GRASS": 0.14285714285714285,
+    "WLD": 0.14285714285714285,
+    "XPL": 0.14285714285714285,
+    "EIGEN": 0.14285714285714285,
+    "PUMP": 0.14285714285714285
   },
-  "alerta_nivel": "AMBER",
+  "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "VVV": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
+      "score": 0,
+      "funding": 0.0011
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "GRASS": {
-      "nivel": "AMBER",
-      "score": 3,
+      "nivel": "VERDE",
+      "score": 1,
       "funding": 0.0013
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 2,
-      "funding": 0.0007
+      "score": 0,
+      "funding": 0.004
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "EIGEN": {
@@ -76,16 +76,21 @@
     },
     "PUMP": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 6.4,
-      "mov": 0.13
+      "vol_ratio": 6.85,
+      "mov": 0.14
+    },
+    {
+      "coin": "BANANA",
+      "vol_ratio": 1.1,
+      "mov": 0.02
     }
   ],
-  "updated": "2026-07-08T01:58:58.348317+00:00"
+  "updated": "2026-07-08T02:00:49.649240+00:00"
 }
