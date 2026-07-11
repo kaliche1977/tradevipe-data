@@ -2,7 +2,7 @@
   "capital": 1047.4,
   "capital_inicial": 1000.0,
   "roi": 4.74,
-  "cycle": 19,
+  "cycle": 20,
   "trades": 1447,
   "wr": 35.7,
   "grids": {},
@@ -33,7 +33,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0047
+      "funding": 0.007
     },
     "LIT": {
       "nivel": "VERDE",
@@ -68,21 +68,21 @@
     "UNI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.0013
     },
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.001
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0013
     },
     "LDO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "AAVE": {
@@ -98,17 +98,17 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0028
+      "funding": 0.0073
     },
     "JTO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0002
     },
     "BNB": {
       "nivel": "VERDE",
@@ -137,7 +137,7 @@
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kBONK": {
@@ -153,7 +153,7 @@
     "ETHFI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0119
+      "funding": 0.0115
     },
     "ENA": {
       "nivel": "VERDE",
@@ -164,8 +164,8 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 5.61,
-      "mov": 0.11
+      "vol_ratio": 4.32,
+      "mov": 0.09
     }
   ],
   "modo_real": false,
@@ -234,9 +234,14 @@
       "t": 1783767591713,
       "capital": 1047.4,
       "roi": 4.74
+    },
+    {
+      "t": 1783768512456,
+      "capital": 1047.4,
+      "roi": 4.74
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-11T10:59:52.243522+00:00"
+  "updated": "2026-07-11T11:15:13.304745+00:00"
 }
