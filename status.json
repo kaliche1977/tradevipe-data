@@ -2,7 +2,7 @@
   "capital": 1047.4,
   "capital_inicial": 1000.0,
   "roi": 4.74,
-  "cycle": 7,
+  "cycle": 8,
   "trades": 1447,
   "wr": 35.7,
   "grids": {},
@@ -38,7 +38,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0022
+      "funding": 0.0038
     },
     "XRP": {
       "nivel": "VERDE",
@@ -53,7 +53,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0033
+      "funding": 0.0016
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -68,7 +68,7 @@
     "UNI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0027
+      "funding": 0.0031
     },
     "WLD": {
       "nivel": "VERDE",
@@ -82,7 +82,7 @@
     },
     "LDO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "AAVE": {
@@ -93,7 +93,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0014
     },
     "XMR": {
       "nivel": "VERDE",
@@ -108,7 +108,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0039
+      "funding": 0.0031
     },
     "BNB": {
       "nivel": "VERDE",
@@ -153,19 +153,19 @@
     "ETHFI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0081
+      "funding": 0.0073
     },
     "ENA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0004
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.66,
-      "mov": 0.03
+      "vol_ratio": 1.94,
+      "mov": 0.04
     }
   ],
   "modo_real": false,
@@ -174,9 +174,14 @@
       "t": 1783758929231,
       "capital": 1047.4,
       "roi": 4.74
+    },
+    {
+      "t": 1783759575955,
+      "capital": 1047.4,
+      "roi": 4.74
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-11T08:35:30.105875+00:00"
+  "updated": "2026-07-11T08:46:16.723428+00:00"
 }
