@@ -2,7 +2,7 @@
   "capital": 1047.4,
   "capital_inicial": 1000.0,
   "roi": 4.74,
-  "cycle": 25,
+  "cycle": 26,
   "trades": 1447,
   "wr": 35.7,
   "grids": {},
@@ -18,7 +18,7 @@
     "ETH": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0009
     },
     "HYPE": {
       "nivel": "VERDE",
@@ -28,12 +28,12 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0045
+      "funding": 0.0043
     },
     "LIT": {
       "nivel": "VERDE",
@@ -98,7 +98,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0032
     },
     "JTO": {
       "nivel": "VERDE",
@@ -108,7 +108,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0
     },
     "BNB": {
       "nivel": "VERDE",
@@ -147,13 +147,13 @@
     },
     "KAITO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "ETHFI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0072
+      "funding": 0.0078
     },
     "ENA": {
       "nivel": "VERDE",
@@ -258,9 +258,14 @@
       "t": 1783772311618,
       "capital": 1047.4,
       "roi": 4.74
+    },
+    {
+      "t": 1783773013700,
+      "capital": 1047.4,
+      "roi": 4.74
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-11T12:18:32.434057+00:00"
+  "updated": "2026-07-11T12:30:19.848025+00:00"
 }
