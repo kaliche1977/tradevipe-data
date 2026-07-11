@@ -2,7 +2,7 @@
   "capital": 1047.4,
   "capital_inicial": 1000.0,
   "roi": 4.74,
-  "cycle": 35,
+  "cycle": 36,
   "trades": 1447,
   "wr": 35.7,
   "grids": {},
@@ -53,7 +53,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0023
+      "funding": 0.0018
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -73,7 +73,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0025
+      "funding": 0.0026
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -98,7 +98,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0082
+      "funding": 0.0079
     },
     "JTO": {
       "nivel": "VERDE",
@@ -153,7 +153,7 @@
     "ETHFI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0052
+      "funding": 0.0044
     },
     "ENA": {
       "nivel": "VERDE",
@@ -161,7 +161,13 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [],
+  "watchlist": [
+    {
+      "coin": "CASHCAT",
+      "vol_ratio": 1.65,
+      "mov": 0.03
+    }
+  ],
   "modo_real": false,
   "historial": [
     {
@@ -308,9 +314,14 @@
       "t": 1783780551768,
       "capital": 1047.4,
       "roi": 4.74
+    },
+    {
+      "t": 1783781489666,
+      "capital": 1047.4,
+      "roi": 4.74
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-11T14:35:53.336087+00:00"
+  "updated": "2026-07-11T14:51:30.251295+00:00"
 }
