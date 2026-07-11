@@ -1,15 +1,15 @@
 {
-  "capital": 1042.21,
+  "capital": 1041.97,
   "capital_inicial": 1000.0,
-  "roi": 4.22,
-  "cycle": 78,
-  "trades": 1587,
+  "roi": 4.2,
+  "cycle": 79,
+  "trades": 1589,
   "wr": 34.6,
   "grids": {
     "VVV": {
       "center": 10.524,
       "pnl": -5.08,
-      "size_usd": 141.35,
+      "size_usd": 121.16,
       "activas": 0,
       "tp": 5,
       "sl": 43,
@@ -18,28 +18,28 @@
     },
     "GRASS": {
       "center": 0.40739,
-      "pnl": -1.23,
-      "size_usd": 141.35,
-      "activas": 0,
+      "pnl": -1.35,
+      "size_usd": 242.31,
+      "activas": 1,
       "tp": 5,
-      "sl": 21,
-      "long": 26,
+      "sl": 22,
+      "long": 27,
       "short": 0
     },
     "kBONK": {
       "center": 0.004096,
-      "pnl": 3.58,
-      "size_usd": 141.35,
+      "pnl": 3.46,
+      "size_usd": 121.16,
       "activas": 0,
       "tp": 10,
-      "sl": 3,
-      "long": 13,
+      "sl": 4,
+      "long": 14,
       "short": 0
     },
     "ETHFI": {
       "center": 0.42481,
       "pnl": -1.97,
-      "size_usd": 141.35,
+      "size_usd": 121.16,
       "activas": 0,
       "tp": 12,
       "sl": 38,
@@ -49,7 +49,7 @@
     "KAITO": {
       "center": 0.66534,
       "pnl": 0,
-      "size_usd": 282.7,
+      "size_usd": 242.31,
       "activas": 1,
       "tp": 0,
       "sl": 3,
@@ -60,23 +60,23 @@
   "bloqueados": [
     {
       "coin": "ETHFI",
-      "horas_restantes": 7.1,
+      "horas_restantes": 6.9,
       "wr_reciente": 50.0
     },
     {
       "coin": "VVV",
-      "horas_restantes": 7.1,
+      "horas_restantes": 6.9,
       "wr_reciente": 50.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.8,
-      "wr_reciente": 30.0
+      "horas_restantes": 8.0,
+      "wr_reciente": 20.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 3.8,
-      "wr_reciente": 70.0
+      "horas_restantes": 4.0,
+      "wr_reciente": 60.0
     }
   ],
   "pesos": {},
@@ -95,7 +95,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.001
     },
     "SOL": {
       "nivel": "VERDE",
@@ -104,13 +104,13 @@
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.004
+      "funding": 0.0016
     },
     "XRP": {
       "nivel": "VERDE",
@@ -130,11 +130,11 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0026
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "UNI": {
@@ -145,12 +145,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.0057
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0003
+      "score": 0,
+      "funding": 0.0002
     },
     "LDO": {
       "nivel": "VERDE",
@@ -179,8 +179,8 @@
     },
     "ADA": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0007
+      "score": 0,
+      "funding": 0.0012
     },
     "BNB": {
       "nivel": "VERDE",
@@ -189,7 +189,7 @@
     },
     "AVAX": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "VVV": {
@@ -215,7 +215,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.002
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -229,15 +229,15 @@
     },
     "ENA": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 5.98,
-      "mov": 0.12
+      "vol_ratio": 5.45,
+      "mov": 0.11
     }
   ],
   "modo_real": false,
@@ -601,9 +601,14 @@
       "t": 1783810208985,
       "capital": 1042.21,
       "roi": 4.22
+    },
+    {
+      "t": 1783810830887,
+      "capital": 1041.97,
+      "roi": 4.2
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-11T22:50:09.544794+00:00"
+  "updated": "2026-07-11T23:00:36.490510+00:00"
 }
