@@ -1,29 +1,29 @@
 {
-  "capital": 1043.4,
+  "capital": 1042.74,
   "capital_inicial": 1000.0,
-  "roi": 4.34,
-  "cycle": 61,
-  "trades": 1529,
-  "wr": 34.9,
+  "roi": 4.27,
+  "cycle": 62,
+  "trades": 1533,
+  "wr": 34.8,
   "grids": {
     "VVV": {
       "center": 10.524,
-      "pnl": -3.9,
+      "pnl": -4.16,
       "size_usd": 159.21,
       "activas": 0,
       "tp": 0,
-      "sl": 25,
+      "sl": 27,
       "long": 0,
-      "short": 25
+      "short": 27
     },
     "GRASS": {
       "center": 0.40739,
-      "pnl": -1.03,
+      "pnl": -1.16,
       "size_usd": 159.21,
       "activas": 0,
       "tp": 2,
-      "sl": 11,
-      "long": 13,
+      "sl": 12,
+      "long": 14,
       "short": 0
     },
     "kBONK": {
@@ -38,13 +38,13 @@
     },
     "ETHFI": {
       "center": 0.42481,
-      "pnl": -2.48,
+      "pnl": -2.74,
       "size_usd": 318.42,
       "activas": 1,
       "tp": 5,
-      "sl": 26,
+      "sl": 27,
       "long": 0,
-      "short": 31
+      "short": 32
     }
   },
   "bloqueados": [
@@ -65,7 +65,7 @@
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.2,
       "wr_reciente": 0.0
     }
   ],
@@ -74,7 +74,7 @@
   "alerta_detalles": {
     "BTC": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "ETH": {
@@ -135,7 +135,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0023
+      "funding": 0.0025
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -226,8 +226,8 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 3.41,
-      "mov": 0.07
+      "vol_ratio": 3.19,
+      "mov": 0.06
     }
   ],
   "modo_real": false,
@@ -506,9 +506,14 @@
       "t": 1783795186698,
       "capital": 1043.4,
       "roi": 4.34
+    },
+    {
+      "t": 1783795484809,
+      "capital": 1042.74,
+      "roi": 4.27
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-11T18:39:47.257804+00:00"
+  "updated": "2026-07-11T18:44:45.411500+00:00"
 }
