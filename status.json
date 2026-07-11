@@ -2,7 +2,7 @@
   "capital": 1047.4,
   "capital_inicial": 1000.0,
   "roi": 4.74,
-  "cycle": 30,
+  "cycle": 31,
   "trades": 1447,
   "wr": 35.7,
   "grids": {},
@@ -33,7 +33,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0034
+      "funding": 0.0031
     },
     "LIT": {
       "nivel": "VERDE",
@@ -98,7 +98,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0027
+      "funding": 0.0019
     },
     "JTO": {
       "nivel": "VERDE",
@@ -153,7 +153,7 @@
     "ETHFI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.007
+      "funding": 0.0068
     },
     "ENA": {
       "nivel": "VERDE",
@@ -283,9 +283,14 @@
       "t": 1783775561914,
       "capital": 1047.4,
       "roi": 4.74
+    },
+    {
+      "t": 1783776190166,
+      "capital": 1047.4,
+      "roi": 4.74
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-11T13:12:42.655529+00:00"
+  "updated": "2026-07-11T13:23:10.972471+00:00"
 }
