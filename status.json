@@ -2,7 +2,7 @@
   "capital": 988.4,
   "capital_inicial": 1000.0,
   "roi": -1.16,
-  "cycle": 38,
+  "cycle": 39,
   "trades": 821,
   "wr": 22.8,
   "grids": {},
@@ -73,12 +73,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0022
+      "funding": 0.0025
     },
     "DOGE": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "LDO": {
       "nivel": "VERDE",
@@ -106,13 +106,13 @@
       "funding": 0.0013
     },
     "ADA": {
-      "nivel": "AMBER",
-      "score": 3,
-      "funding": 0.0016
-    },
-    "BNB": {
       "nivel": "VERDE",
       "score": 1,
+      "funding": 0.0015
+    },
+    "BNB": {
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.001
     },
     "AVAX": {
@@ -143,7 +143,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0008
+      "funding": 0.0013
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -164,7 +164,7 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 3.8,
+      "vol_ratio": 3.92,
       "mov": 0.08
     }
   ],
@@ -739,9 +739,14 @@
       "t": 1783819849975,
       "capital": 988.4,
       "roi": -1.16
+    },
+    {
+      "t": 1783820112921,
+      "capital": 988.4,
+      "roi": -1.16
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T01:30:50.586101+00:00"
+  "updated": "2026-07-12T01:35:19.409900+00:00"
 }
