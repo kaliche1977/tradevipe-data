@@ -2,7 +2,7 @@
   "capital": 988.4,
   "capital_inicial": 1000.0,
   "roi": -1.16,
-  "cycle": 63,
+  "cycle": 64,
   "trades": 821,
   "wr": 22.8,
   "grids": {},
@@ -32,8 +32,8 @@
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0018
+      "score": 1,
+      "funding": 0.0016
     },
     "LIT": {
       "nivel": "VERDE",
@@ -118,7 +118,7 @@
     "AVAX": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
@@ -864,9 +864,14 @@
       "t": 1783827265355,
       "capital": 988.4,
       "roi": -1.16
+    },
+    {
+      "t": 1783827412394,
+      "capital": 988.4,
+      "roi": -1.16
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T03:34:26.097105+00:00"
+  "updated": "2026-07-12T03:36:53.424190+00:00"
 }
