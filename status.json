@@ -2,7 +2,7 @@
   "capital": 988.4,
   "capital_inicial": 1000.0,
   "roi": -1.16,
-  "cycle": 28,
+  "cycle": 29,
   "trades": 821,
   "wr": 22.8,
   "grids": {},
@@ -16,18 +16,18 @@
       "funding": 0.0013
     },
     "ETH": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "HYPE": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0017
+      "score": 0,
+      "funding": 0.0013
     },
     "SOL": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "ZEC": {
@@ -58,11 +58,11 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "UNI": {
@@ -78,11 +78,11 @@
     "DOGE": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0001
+      "funding": 0.0003
     },
     "LDO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "AAVE": {
@@ -106,14 +106,14 @@
       "funding": 0.0013
     },
     "ADA": {
-      "nivel": "AMBER",
-      "score": 3,
-      "funding": 0.0016
+      "nivel": "VERDE",
+      "score": 1,
+      "funding": 0.0026
     },
     "BNB": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0009
     },
     "AVAX": {
       "nivel": "AMBER",
@@ -131,8 +131,8 @@
       "funding": 0.0013
     },
     "TAO": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "GRASS": {
@@ -143,7 +143,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0022
+      "funding": 0.0003
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -152,20 +152,20 @@
     },
     "ETHFI": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "ENA": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.68,
-      "mov": 0.03
+      "vol_ratio": 5.72,
+      "mov": 0.11
     }
   ],
   "modo_real": false,
@@ -689,9 +689,14 @@
       "t": 1783817599489,
       "capital": 988.4,
       "roi": -1.16
+    },
+    {
+      "t": 1783818306677,
+      "capital": 988.4,
+      "roi": -1.16
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T00:53:20.614492+00:00"
+  "updated": "2026-07-12T01:05:07.381462+00:00"
 }
