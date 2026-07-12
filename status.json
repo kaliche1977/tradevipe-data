@@ -1,19 +1,19 @@
 {
-  "capital": 983.32,
+  "capital": 983.22,
   "capital_inicial": 1000.0,
-  "roi": -1.67,
-  "cycle": 32,
-  "trades": 928,
+  "roi": -1.68,
+  "cycle": 33,
+  "trades": 929,
   "wr": 24.1,
   "grids": {
     "VVV": {
       "center": 10.869,
-      "pnl": -0.57,
+      "pnl": -0.67,
       "size_usd": 123.42,
       "activas": 1,
       "tp": 5,
-      "sl": 14,
-      "long": 19,
+      "sl": 15,
+      "long": 20,
       "short": 0
     },
     "kBONK": {
@@ -55,7 +55,7 @@
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.8,
+      "horas_restantes": 3.6,
       "wr_reciente": 10.0
     }
   ],
@@ -84,7 +84,7 @@
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "LIT": {
@@ -95,7 +95,7 @@
     "XRP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0003
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -150,7 +150,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0034
+      "funding": 0.0039
     },
     "JTO": {
       "nivel": "VERDE",
@@ -175,7 +175,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -195,7 +195,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0009
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -1180,9 +1180,14 @@
       "t": 1783872535685,
       "capital": 983.32,
       "roi": -1.67
+    },
+    {
+      "t": 1783873169233,
+      "capital": 983.22,
+      "roi": -1.68
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T16:08:56.437560+00:00"
+  "updated": "2026-07-12T16:19:30.196789+00:00"
 }
