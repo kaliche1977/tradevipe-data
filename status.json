@@ -2,7 +2,7 @@
   "capital": 988.4,
   "capital_inicial": 1000.0,
   "roi": -1.16,
-  "cycle": 62,
+  "cycle": 63,
   "trades": 821,
   "wr": 22.8,
   "grids": {},
@@ -33,7 +33,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0019
+      "funding": 0.0018
     },
     "LIT": {
       "nivel": "VERDE",
@@ -98,7 +98,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0008
+      "funding": 0.0006
     },
     "JTO": {
       "nivel": "VERDE",
@@ -108,12 +108,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0026
+      "funding": 0.0025
     },
     "BNB": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0004
+      "funding": 0.0005
     },
     "AVAX": {
       "nivel": "AMBER",
@@ -131,8 +131,8 @@
       "funding": 0.0013
     },
     "TAO": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "GRASS": {
@@ -164,8 +164,8 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.24,
-      "mov": 0.04
+      "vol_ratio": 2.31,
+      "mov": 0.05
     }
   ],
   "modo_real": false,
@@ -859,9 +859,14 @@
       "t": 1783827118395,
       "capital": 988.4,
       "roi": -1.16
+    },
+    {
+      "t": 1783827265355,
+      "capital": 988.4,
+      "roi": -1.16
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T03:31:59.341632+00:00"
+  "updated": "2026-07-12T03:34:26.097105+00:00"
 }
