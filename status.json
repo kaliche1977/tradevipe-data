@@ -2,7 +2,7 @@
   "capital": 988.4,
   "capital_inicial": 1000.0,
   "roi": -1.16,
-  "cycle": 85,
+  "cycle": 86,
   "trades": 821,
   "wr": 22.8,
   "grids": {},
@@ -17,7 +17,7 @@
     },
     "ETH": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "HYPE": {
@@ -38,11 +38,11 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0096
+      "funding": 0.0088
     },
     "XRP": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.001
     },
     "NEAR": {
@@ -58,7 +58,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0004
     },
     "XPL": {
       "nivel": "VERDE",
@@ -73,7 +73,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.0013
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -103,22 +103,22 @@
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0003
     },
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0001
     },
     "BNB": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0004
     },
     "AVAX": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "VVV": {
       "nivel": "VERDE",
@@ -143,7 +143,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0001
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -968,9 +968,14 @@
       "t": 1783835014528,
       "capital": 988.4,
       "roi": -1.16
+    },
+    {
+      "t": 1783835638029,
+      "capital": 988.4,
+      "roi": -1.16
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T05:43:35.151388+00:00"
+  "updated": "2026-07-12T05:53:58.779052+00:00"
 }
