@@ -2,7 +2,7 @@
   "capital": 996.38,
   "capital_inicial": 1000.0,
   "roi": -0.36,
-  "cycle": 5,
+  "cycle": 6,
   "trades": 800,
   "wr": 27.3,
   "grids": {
@@ -60,7 +60,7 @@
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 4.0,
+      "horas_restantes": 3.8,
       "wr_reciente": 0.0
     }
   ],
@@ -160,12 +160,12 @@
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0014
     },
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "BNB": {
       "nivel": "VERDE",
@@ -175,7 +175,7 @@
     "AVAX": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
@@ -221,11 +221,6 @@
   "watchlist": [],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783762101938,
-      "capital": 1047.4,
-      "roi": 4.74
-    },
     {
       "t": 1783762821519,
       "capital": 1047.4,
@@ -1220,9 +1215,14 @@
       "t": 1783880713967,
       "capital": 996.38,
       "roi": -0.36
+    },
+    {
+      "t": 1783881350057,
+      "capital": 996.38,
+      "roi": -0.36
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T18:25:15.244233+00:00"
+  "updated": "2026-07-12T18:35:50.973031+00:00"
 }
