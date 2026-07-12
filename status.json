@@ -2,7 +2,7 @@
   "capital": 988.4,
   "capital_inicial": 1000.0,
   "roi": -1.16,
-  "cycle": 53,
+  "cycle": 54,
   "trades": 821,
   "wr": 22.8,
   "grids": {},
@@ -11,8 +11,8 @@
   "alerta_nivel": "AMBER",
   "alerta_detalles": {
     "BTC": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "ETH": {
@@ -33,7 +33,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0034
+      "funding": 0.0033
     },
     "LIT": {
       "nivel": "VERDE",
@@ -78,7 +78,7 @@
     "DOGE": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0005
+      "funding": 0.0004
     },
     "LDO": {
       "nivel": "VERDE",
@@ -103,12 +103,12 @@
     "JTO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0009
+      "funding": 0.001
     },
     "ADA": {
-      "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0005
+      "nivel": "AMBER",
+      "score": 3,
+      "funding": 0.0006
     },
     "BNB": {
       "nivel": "AMBER",
@@ -118,7 +118,7 @@
     "AVAX": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0009
+      "funding": 0.0008
     },
     "VVV": {
       "nivel": "VERDE",
@@ -164,8 +164,8 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.93,
-      "mov": 0.06
+      "vol_ratio": 2.62,
+      "mov": 0.05
     }
   ],
   "modo_real": false,
@@ -814,9 +814,14 @@
       "t": 1783823244917,
       "capital": 988.4,
       "roi": -1.16
+    },
+    {
+      "t": 1783823533828,
+      "capital": 988.4,
+      "roi": -1.16
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T02:27:33.605596+00:00"
+  "updated": "2026-07-12T02:32:14.600373+00:00"
 }
