@@ -2,7 +2,7 @@
   "capital": 988.4,
   "capital_inicial": 1000.0,
   "roi": -1.16,
-  "cycle": 56,
+  "cycle": 57,
   "trades": 821,
   "wr": 22.8,
   "grids": {},
@@ -23,7 +23,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0011
     },
     "SOL": {
       "nivel": "AMBER",
@@ -33,7 +33,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0034
+      "funding": 0.0033
     },
     "LIT": {
       "nivel": "VERDE",
@@ -43,7 +43,7 @@
     "XRP": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -58,7 +58,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0009
+      "funding": 0.0013
     },
     "XPL": {
       "nivel": "VERDE",
@@ -78,11 +78,11 @@
     "DOGE": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0003
+      "funding": 0.0004
     },
     "LDO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "AAVE": {
@@ -103,7 +103,7 @@
     "JTO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0008
     },
     "ADA": {
       "nivel": "AMBER",
@@ -113,12 +113,12 @@
     "BNB": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0007
+      "funding": 0.0004
     },
     "AVAX": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0008
+      "funding": 0.0006
     },
     "VVV": {
       "nivel": "VERDE",
@@ -164,7 +164,7 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.16,
+      "vol_ratio": 2.15,
       "mov": 0.04
     }
   ],
@@ -829,9 +829,14 @@
       "t": 1783824443324,
       "capital": 988.4,
       "roi": -1.16
+    },
+    {
+      "t": 1783825189080,
+      "capital": 988.4,
+      "roi": -1.16
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T02:47:23.954045+00:00"
+  "updated": "2026-07-12T02:59:49.754170+00:00"
 }
