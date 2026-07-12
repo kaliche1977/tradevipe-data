@@ -2,7 +2,7 @@
   "capital": 983.85,
   "capital_inicial": 1000.0,
   "roi": -1.61,
-  "cycle": 35,
+  "cycle": 36,
   "trades": 933,
   "wr": 24.2,
   "grids": {
@@ -40,12 +40,12 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 7.8,
+      "horas_restantes": 7.6,
       "wr_reciente": 10.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.2,
+      "horas_restantes": 3.1,
       "wr_reciente": 10.0
     }
   ],
@@ -85,7 +85,7 @@
     "XRP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -140,7 +140,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0047
+      "funding": 0.0042
     },
     "JTO": {
       "nivel": "VERDE",
@@ -160,7 +160,7 @@
     "AVAX": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "VVV": {
       "nivel": "VERDE",
@@ -185,7 +185,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0003
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -1185,9 +1185,14 @@
       "t": 1783874426125,
       "capital": 983.85,
       "roi": -1.61
+    },
+    {
+      "t": 1783875056548,
+      "capital": 983.85,
+      "roi": -1.61
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T16:40:26.865213+00:00"
+  "updated": "2026-07-12T16:50:57.362669+00:00"
 }
