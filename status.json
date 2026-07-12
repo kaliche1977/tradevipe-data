@@ -2,13 +2,13 @@
   "capital": 988.4,
   "capital_inicial": 1000.0,
   "roi": -1.16,
-  "cycle": 80,
+  "cycle": 81,
   "trades": 821,
   "wr": 22.8,
   "grids": {},
   "bloqueados": [],
   "pesos": {},
-  "alerta_nivel": "AMBER",
+  "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "BTC": {
       "nivel": "VERDE",
@@ -17,33 +17,33 @@
     },
     "ETH": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0007
     },
     "SOL": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
+      "score": 0,
+      "funding": 0.0004
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.003
+      "funding": 0.0019
     },
     "LIT": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0068
+      "funding": 0.0075
     },
     "XRP": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
+      "score": 0,
+      "funding": 0.0001
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -73,12 +73,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.003
+      "funding": 0.006
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0004
+      "score": 0,
+      "funding": 0.0001
     },
     "LDO": {
       "nivel": "VERDE",
@@ -107,27 +107,27 @@
     },
     "ADA": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0
+      "score": 0,
+      "funding": 0.0013
     },
     "BNB": {
+      "nivel": "VERDE",
+      "score": 0,
+      "funding": 0.0007
+    },
+    "AVAX": {
       "nivel": "VERDE",
       "score": 1,
       "funding": 0.0008
     },
-    "AVAX": {
-      "nivel": "AMBER",
-      "score": 3,
-      "funding": 0.0004
-    },
     "VVV": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "TAO": {
@@ -164,8 +164,8 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.54,
-      "mov": 0.03
+      "vol_ratio": 1.93,
+      "mov": 0.04
     }
   ],
   "modo_real": false,
@@ -949,9 +949,14 @@
       "t": 1783832353695,
       "capital": 988.4,
       "roi": -1.16
+    },
+    {
+      "t": 1783832499934,
+      "capital": 988.4,
+      "roi": -1.16
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T04:59:14.591073+00:00"
+  "updated": "2026-07-12T05:01:40.627904+00:00"
 }
