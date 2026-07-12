@@ -1,25 +1,25 @@
 {
-  "capital": 983.6,
+  "capital": 983.43,
   "capital_inicial": 1000.0,
-  "roi": -1.64,
-  "cycle": 30,
-  "trades": 926,
+  "roi": -1.66,
+  "cycle": 31,
+  "trades": 927,
   "wr": 24.2,
   "grids": {
     "VVV": {
       "center": 10.869,
-      "pnl": -0.29,
-      "size_usd": 205.7,
+      "pnl": -0.46,
+      "size_usd": 137.13,
       "activas": 1,
       "tp": 5,
-      "sl": 12,
-      "long": 17,
+      "sl": 13,
+      "long": 18,
       "short": 0
     },
     "kBONK": {
       "center": 0.004005,
       "pnl": 0.4,
-      "size_usd": 205.7,
+      "size_usd": 137.13,
       "activas": 1,
       "tp": 1,
       "sl": 0,
@@ -29,8 +29,8 @@
     "ETHFI": {
       "center": 0.42678,
       "pnl": -1.27,
-      "size_usd": 102.85,
-      "activas": 0,
+      "size_usd": 137.13,
+      "activas": 1,
       "tp": 2,
       "sl": 3,
       "long": 1,
@@ -39,8 +39,8 @@
     "KAITO": {
       "center": 0.66216,
       "pnl": 0,
-      "size_usd": 102.85,
-      "activas": 0,
+      "size_usd": 205.7,
+      "activas": 2,
       "tp": 4,
       "sl": 8,
       "long": 12,
@@ -51,11 +51,11 @@
     {
       "coin": "VVV",
       "horas_restantes": 8.0,
-      "wr_reciente": 10.0
+      "wr_reciente": 0.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 4.5,
+      "horas_restantes": 4.2,
       "wr_reciente": 10.0
     }
   ],
@@ -170,7 +170,7 @@
     "AVAX": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0026
+      "funding": 0.0023
     },
     "VVV": {
       "nivel": "VERDE",
@@ -195,7 +195,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0015
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -1170,9 +1170,14 @@
       "t": 1783869722707,
       "capital": 983.6,
       "roi": -1.64
+    },
+    {
+      "t": 1783871118122,
+      "capital": 983.43,
+      "roi": -1.66
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-12T15:22:03.507358+00:00"
+  "updated": "2026-07-12T15:45:23.121310+00:00"
 }
