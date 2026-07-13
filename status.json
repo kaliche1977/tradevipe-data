@@ -2,7 +2,7 @@
   "capital": 997.33,
   "capital_inicial": 1000.0,
   "roi": -0.27,
-  "cycle": 170,
+  "cycle": 171,
   "trades": 910,
   "wr": 27.6,
   "grids": {
@@ -60,7 +60,7 @@
   "bloqueados": [
     {
       "coin": "ETHFI",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.2,
       "wr_reciente": 30.0
     },
     {
@@ -100,7 +100,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0099
+      "funding": 0.01
     },
     "XRP": {
       "nivel": "VERDE",
@@ -155,7 +155,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0063
+      "funding": 0.0058
     },
     "JTO": {
       "nivel": "VERDE",
@@ -165,7 +165,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0028
+      "funding": 0.0027
     },
     "VVV": {
       "nivel": "VERDE",
@@ -190,7 +190,7 @@
     "kBONK": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0036
+      "funding": 0.0034
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -205,17 +205,12 @@
     "ENA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0003
+      "funding": 0.0004
     }
   },
   "watchlist": [],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783860546771,
-      "capital": 986.13,
-      "roi": -1.39
-    },
     {
       "t": 1783861396663,
       "capital": 985.95,
@@ -1210,9 +1205,14 @@
       "t": 1783967465018,
       "capital": 997.33,
       "roi": -0.27
+    },
+    {
+      "t": 1783967606847,
+      "capital": 997.33,
+      "roi": -0.27
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T18:31:05.663236+00:00"
+  "updated": "2026-07-13T18:33:27.441444+00:00"
 }
