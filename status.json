@@ -2,7 +2,7 @@
   "capital": 999.01,
   "capital_inicial": 1000.0,
   "roi": -0.1,
-  "cycle": 67,
+  "cycle": 68,
   "trades": 876,
   "wr": 27.1,
   "grids": {
@@ -65,7 +65,7 @@
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 1.9,
+      "horas_restantes": 1.8,
       "wr_reciente": 57.1
     }
   ],
@@ -85,7 +85,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0044
+      "funding": 0.0041
     },
     "SOL": {
       "nivel": "VERDE",
@@ -100,7 +100,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0039
+      "funding": 0.0037
     },
     "XRP": {
       "nivel": "VERDE",
@@ -114,7 +114,7 @@
     },
     "FARTCOIN": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "PUMP": {
@@ -135,7 +135,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "LDO": {
       "nivel": "VERDE",
@@ -155,7 +155,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0073
+      "funding": 0.0077
     },
     "JTO": {
       "nivel": "VERDE",
@@ -190,7 +190,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0035
+      "funding": 0.0034
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -211,17 +211,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.89,
-      "mov": 0.04
+      "vol_ratio": 1.65,
+      "mov": 0.03
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783813191660,
-      "capital": 988.4,
-      "roi": -1.16
-    },
     {
       "t": 1783813337433,
       "capital": 988.4,
@@ -1216,9 +1211,14 @@
       "t": 1783919874745,
       "capital": 999.01,
       "roi": -0.1
+    },
+    {
+      "t": 1783920017176,
+      "capital": 999.01,
+      "roi": -0.1
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T05:17:57.133559+00:00"
+  "updated": "2026-07-13T05:20:17.681894+00:00"
 }
