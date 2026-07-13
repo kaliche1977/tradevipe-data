@@ -2,7 +2,7 @@
   "capital": 997.85,
   "capital_inicial": 1000.0,
   "roi": -0.21,
-  "cycle": 6,
+  "cycle": 7,
   "trades": 866,
   "wr": 26.9,
   "grids": {
@@ -60,22 +60,22 @@
   "bloqueados": [
     {
       "coin": "ETHFI",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.3,
       "wr_reciente": 50.0
     },
     {
       "coin": "ENA",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.3,
       "wr_reciente": 66.7
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.3,
       "wr_reciente": 60.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.3,
       "wr_reciente": 60.0
     }
   ],
@@ -94,7 +94,7 @@
     },
     "HYPE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "SOL": {
@@ -115,7 +115,7 @@
     "XRP": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0005
+      "funding": 0.0006
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -134,7 +134,7 @@
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "WLD": {
@@ -200,7 +200,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0055
+      "funding": 0.0034
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -218,20 +218,9 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "CASHCAT",
-      "vol_ratio": 1.09,
-      "mov": 0.02
-    }
-  ],
+  "watchlist": [],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783773013700,
-      "capital": 1047.4,
-      "roi": 4.74
-    },
     {
       "t": 1783773667667,
       "capital": 1047.4,
@@ -1226,9 +1215,14 @@
       "t": 1783904534918,
       "capital": 997.85,
       "roi": -0.21
+    },
+    {
+      "t": 1783905152050,
+      "capital": 997.85,
+      "roi": -0.21
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T01:02:15.528426+00:00"
+  "updated": "2026-07-13T01:12:36.236901+00:00"
 }
