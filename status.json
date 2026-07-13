@@ -2,7 +2,7 @@
   "capital": 999.01,
   "capital_inicial": 1000.0,
   "roi": -0.1,
-  "cycle": 76,
+  "cycle": 77,
   "trades": 876,
   "wr": 27.1,
   "grids": {
@@ -85,7 +85,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0011
+      "funding": 0.0009
     },
     "SOL": {
       "nivel": "VERDE",
@@ -105,7 +105,7 @@
     "XRP": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -144,7 +144,7 @@
     },
     "AAVE": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "SUI": {
@@ -155,7 +155,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0104
+      "funding": 0.0102
     },
     "JTO": {
       "nivel": "VERDE",
@@ -211,11 +211,6 @@
   "watchlist": [],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783814531141,
-      "capital": 988.4,
-      "roi": -1.16
-    },
     {
       "t": 1783814766238,
       "capital": 988.4,
@@ -1210,9 +1205,14 @@
       "t": 1783921626077,
       "capital": 999.01,
       "roi": -0.1
+    },
+    {
+      "t": 1783921766386,
+      "capital": 999.01,
+      "roi": -0.1
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T05:47:06.725376+00:00"
+  "updated": "2026-07-13T05:49:27.199676+00:00"
 }
