@@ -2,7 +2,7 @@
   "capital": 997.33,
   "capital_inicial": 1000.0,
   "roi": -0.27,
-  "cycle": 187,
+  "cycle": 188,
   "trades": 910,
   "wr": 27.6,
   "grids": {
@@ -60,12 +60,12 @@
   "bloqueados": [
     {
       "coin": "ETHFI",
-      "horas_restantes": 1.8,
+      "horas_restantes": 1.7,
       "wr_reciente": 30.0
     }
   ],
   "pesos": {},
-  "alerta_nivel": "AMBER",
+  "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "BTC": {
       "nivel": "VERDE",
@@ -85,7 +85,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -95,11 +95,11 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0093
+      "funding": 0.0024
     },
     "XRP": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "NEAR": {
@@ -129,8 +129,8 @@
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0005
+      "score": 0,
+      "funding": 0.0003
     },
     "LDO": {
       "nivel": "VERDE",
@@ -150,22 +150,22 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0023
+      "funding": 0.0013
     },
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0026
+      "funding": 0.0011
     },
     "ADA": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0002
+      "score": 0,
+      "funding": 0.0015
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0021
+      "funding": 0.003
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -179,13 +179,13 @@
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kBONK": {
-      "nivel": "AMBER",
-      "score": 3,
-      "funding": 0.0065
+      "nivel": "VERDE",
+      "score": 1,
+      "funding": 0.0021
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -194,7 +194,7 @@
     },
     "ETHFI": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "ENA": {
@@ -203,14 +203,15 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [],
+  "watchlist": [
+    {
+      "coin": "PURR",
+      "vol_ratio": 1.69,
+      "mov": 0.03
+    }
+  ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783877679719,
-      "capital": 996.05,
-      "roi": -0.39
-    },
     {
       "t": 1783878383334,
       "capital": 996.42,
@@ -1205,9 +1206,14 @@
       "t": 1783972668245,
       "capital": 997.33,
       "roi": -0.27
+    },
+    {
+      "t": 1783973029594,
+      "capital": 997.33,
+      "roi": -0.27
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T19:57:48.891450+00:00"
+  "updated": "2026-07-13T20:03:50.247214+00:00"
 }
