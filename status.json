@@ -2,7 +2,7 @@
   "capital": 998.59,
   "capital_inicial": 1000.0,
   "roi": -0.14,
-  "cycle": 132,
+  "cycle": 133,
   "trades": 898,
   "wr": 27.2,
   "grids": {
@@ -60,12 +60,12 @@
   "bloqueados": [
     {
       "coin": "kBONK",
-      "horas_restantes": 3.7,
+      "horas_restantes": 3.6,
       "wr_reciente": 60.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.2,
       "wr_reciente": 60.0
     },
     {
@@ -105,12 +105,12 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0121
+      "funding": 0.0119
     },
     "XRP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0002
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -159,13 +159,13 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "JTO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "ADA": {
       "nivel": "VERDE",
@@ -216,17 +216,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.33,
+      "vol_ratio": 2.45,
       "mov": 0.05
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783828348948,
-      "capital": 988.4,
-      "roi": -1.16
-    },
     {
       "t": 1783828496651,
       "capital": 988.4,
@@ -1221,9 +1216,14 @@
       "t": 1783949883269,
       "capital": 998.59,
       "roi": -0.14
+    },
+    {
+      "t": 1783950026302,
+      "capital": 998.59,
+      "roi": -0.14
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T13:38:04.904970+00:00"
+  "updated": "2026-07-13T13:40:26.974199+00:00"
 }
