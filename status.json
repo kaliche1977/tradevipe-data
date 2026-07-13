@@ -2,7 +2,7 @@
   "capital": 997.85,
   "capital_inicial": 1000.0,
   "roi": -0.21,
-  "cycle": 13,
+  "cycle": 14,
   "trades": 866,
   "wr": 26.9,
   "grids": {
@@ -60,22 +60,22 @@
   "bloqueados": [
     {
       "coin": "ETHFI",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.1,
       "wr_reciente": 50.0
     },
     {
       "coin": "ENA",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.1,
       "wr_reciente": 66.7
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.1,
       "wr_reciente": 60.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.1,
       "wr_reciente": 60.0
     }
   ],
@@ -100,7 +100,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -115,7 +115,7 @@
     "XRP": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0014
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -145,7 +145,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0008
     },
     "LDO": {
       "nivel": "VERDE",
@@ -169,13 +169,13 @@
     },
     "JTO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 2,
       "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0001
+      "funding": 0.0004
     },
     "VVV": {
       "nivel": "VERDE",
@@ -200,7 +200,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0024
+      "funding": 0.0023
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -215,23 +215,18 @@
     "ENA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.72,
-      "mov": 0.05
+      "vol_ratio": 1.58,
+      "mov": 0.03
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783778079396,
-      "capital": 1047.4,
-      "roi": 4.74
-    },
     {
       "t": 1783779338591,
       "capital": 1047.4,
@@ -1226,9 +1221,14 @@
       "t": 1783908863490,
       "capital": 997.85,
       "roi": -0.21
+    },
+    {
+      "t": 1783909479740,
+      "capital": 997.85,
+      "roi": -0.21
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T02:14:24.114697+00:00"
+  "updated": "2026-07-13T02:24:44.555662+00:00"
 }
