@@ -2,7 +2,7 @@
   "capital": 997.39,
   "capital_inicial": 1000.0,
   "roi": -0.26,
-  "cycle": 23,
+  "cycle": 24,
   "trades": 869,
   "wr": 26.8,
   "grids": {
@@ -80,7 +80,7 @@
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 3.9,
+      "horas_restantes": 3.8,
       "wr_reciente": 57.1
     }
   ],
@@ -88,8 +88,8 @@
   "alerta_nivel": "AMBER",
   "alerta_detalles": {
     "BTC": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "ETH": {
@@ -99,13 +99,13 @@
     },
     "HYPE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -129,7 +129,7 @@
     },
     "FARTCOIN": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 2,
       "funding": 0.0013
     },
     "PUMP": {
@@ -139,7 +139,7 @@
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "WLD": {
@@ -148,9 +148,9 @@
       "funding": 0.0013
     },
     "DOGE": {
-      "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0001
+      "nivel": "AMBER",
+      "score": 3,
+      "funding": 0.0002
     },
     "LDO": {
       "nivel": "AMBER",
@@ -189,7 +189,7 @@
     },
     "kPEPE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "TAO": {
@@ -205,7 +205,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0051
+      "funding": 0.0048
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -219,24 +219,19 @@
     },
     "ENA": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 3.26,
-      "mov": 0.07
+      "vol_ratio": 3.11,
+      "mov": 0.06
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783786799356,
-      "capital": 1047.24,
-      "roi": 4.72
-    },
     {
       "t": 1783787443723,
       "capital": 1047.13,
@@ -1231,9 +1226,14 @@
       "t": 1783912675968,
       "capital": 997.39,
       "roi": -0.26
+    },
+    {
+      "t": 1783912815509,
+      "capital": 997.39,
+      "roi": -0.26
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T03:17:56.784740+00:00"
+  "updated": "2026-07-13T03:20:16.204997+00:00"
 }
