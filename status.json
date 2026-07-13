@@ -2,7 +2,7 @@
   "capital": 997.39,
   "capital_inicial": 1000.0,
   "roi": -0.26,
-  "cycle": 31,
+  "cycle": 32,
   "trades": 869,
   "wr": 26.8,
   "grids": {
@@ -60,22 +60,22 @@
   "bloqueados": [
     {
       "coin": "ETHFI",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.7,
       "wr_reciente": 50.0
     },
     {
       "coin": "ENA",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.7,
       "wr_reciente": 66.7
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.7,
       "wr_reciente": 60.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.7,
       "wr_reciente": 60.0
     },
     {
@@ -103,8 +103,8 @@
       "funding": 0.0013
     },
     "SOL": {
-      "nivel": "AMBER",
-      "score": 3,
+      "nivel": "VERDE",
+      "score": 1,
       "funding": 0.0005
     },
     "ZEC": {
@@ -115,7 +115,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0008
     },
     "XRP": {
       "nivel": "VERDE",
@@ -129,7 +129,7 @@
     },
     "FARTCOIN": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "PUMP": {
@@ -205,7 +205,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0042
+      "funding": 0.0041
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -220,23 +220,18 @@
     "ENA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0012
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.66,
+      "vol_ratio": 1.59,
       "mov": 0.03
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783790671421,
-      "capital": 1046.82,
-      "roi": 4.68
-    },
     {
       "t": 1783790832162,
       "capital": 1046.71,
@@ -1231,9 +1226,14 @@
       "t": 1783914277165,
       "capital": 997.39,
       "roi": -0.26
+    },
+    {
+      "t": 1783914424141,
+      "capital": 997.39,
+      "roi": -0.26
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T03:44:44.638607+00:00"
+  "updated": "2026-07-13T03:47:04.669772+00:00"
 }
