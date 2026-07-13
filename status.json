@@ -2,7 +2,7 @@
   "capital": 999.01,
   "capital_inicial": 1000.0,
   "roi": -0.1,
-  "cycle": 70,
+  "cycle": 71,
   "trades": 876,
   "wr": 27.1,
   "grids": {
@@ -60,21 +60,21 @@
   "bloqueados": [
     {
       "coin": "GRASS",
-      "horas_restantes": 3.1,
+      "horas_restantes": 2.9,
       "wr_reciente": 60.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 1.8,
+      "horas_restantes": 1.6,
       "wr_reciente": 57.1
     }
   ],
   "pesos": {},
-  "alerta_nivel": "VERDE",
+  "alerta_nivel": "AMBER",
   "alerta_detalles": {
     "BTC": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "ETH": {
@@ -85,7 +85,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0036
+      "funding": 0.0027
     },
     "SOL": {
       "nivel": "VERDE",
@@ -100,12 +100,12 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0037
+      "funding": 0.0042
     },
     "XRP": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0005
+      "funding": 0.0006
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -114,7 +114,7 @@
     },
     "FARTCOIN": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "PUMP": {
@@ -155,7 +155,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0084
+      "funding": 0.0106
     },
     "JTO": {
       "nivel": "VERDE",
@@ -169,7 +169,7 @@
     },
     "VVV": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "kPEPE": {
@@ -179,7 +179,7 @@
     },
     "TAO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "GRASS": {
@@ -190,7 +190,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0036
+      "funding": 0.0034
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -208,20 +208,9 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "CASHCAT",
-      "vol_ratio": 1.36,
-      "mov": 0.03
-    }
-  ],
+  "watchlist": [],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783813631220,
-      "capital": 988.4,
-      "roi": -1.16
-    },
     {
       "t": 1783813776785,
       "capital": 988.4,
@@ -1216,9 +1205,14 @@
       "t": 1783920297650,
       "capital": 999.01,
       "roi": -0.1
+    },
+    {
+      "t": 1783920917802,
+      "capital": 999.01,
+      "roi": -0.1
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-13T05:24:58.349581+00:00"
+  "updated": "2026-07-13T05:35:18.351530+00:00"
 }
