@@ -7,7 +7,7 @@
   "wr": 31.6,
   "grids": {
     "VVV": {
-      "center": 11.131,
+      "center": 11.116,
       "pnl": 0,
       "size_usd": 210.22,
       "activas": 0,
@@ -17,7 +17,7 @@
       "short": 0
     },
     "GRASS": {
-      "center": 0.38302,
+      "center": 0.3826,
       "pnl": 0,
       "size_usd": 210.22,
       "activas": 0,
@@ -27,7 +27,7 @@
       "short": 0
     },
     "kBONK": {
-      "center": 0.003905,
+      "center": 0.003903,
       "pnl": 0,
       "size_usd": 210.22,
       "activas": 0,
@@ -37,7 +37,7 @@
       "short": 0
     },
     "KAITO": {
-      "center": 0.77482,
+      "center": 0.78626,
       "pnl": 0,
       "size_usd": 210.22,
       "activas": 0,
@@ -47,7 +47,7 @@
       "short": 0
     },
     "ETHFI": {
-      "center": 0.40168,
+      "center": 0.40157,
       "pnl": 0,
       "size_usd": 210.22,
       "activas": 0,
@@ -88,7 +88,7 @@
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 2,
       "funding": 0.0013
     },
     "XRP": {
@@ -154,7 +154,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0007
+      "funding": 0.0009
     },
     "VVV": {
       "nivel": "VERDE",
@@ -179,12 +179,12 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "KAITO": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0001
+      "score": 2,
+      "funding": 0.0006
     },
     "ETHFI": {
       "nivel": "VERDE",
@@ -200,17 +200,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.2,
+      "vol_ratio": 1.96,
       "mov": 0.04
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783926484992,
-      "capital": 999.01,
-      "roi": -0.1
-    },
     {
       "t": 1783927296182,
       "capital": 998.84,
@@ -1205,9 +1200,14 @@
       "t": 1784046317410,
       "capital": 1005.83,
       "roi": 0.58
+    },
+    {
+      "t": 1784046665747,
+      "capital": 1005.83,
+      "roi": 0.58
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-14T16:25:18.021070+00:00"
+  "updated": "2026-07-14T16:31:06.332046+00:00"
 }
