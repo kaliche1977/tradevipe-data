@@ -1,25 +1,25 @@
 {
-  "capital": 1000.8,
+  "capital": 1000.65,
   "capital_inicial": 1000.0,
-  "roi": 0.08,
-  "cycle": 3,
-  "trades": 761,
+  "roi": 0.06,
+  "cycle": 4,
+  "trades": 762,
   "wr": 28.1,
   "grids": {
     "VVV": {
       "center": 11.127,
-      "pnl": 0,
-      "size_usd": 189.99,
+      "pnl": -0.16,
+      "size_usd": 158.32,
       "activas": 0,
       "tp": 0,
-      "sl": 0,
+      "sl": 1,
       "long": 0,
-      "short": 0
+      "short": 1
     },
     "GRASS": {
       "center": 0.3868,
       "pnl": 0.43,
-      "size_usd": 189.99,
+      "size_usd": 158.32,
       "activas": 0,
       "tp": 2,
       "sl": 2,
@@ -29,8 +29,8 @@
     "kBONK": {
       "center": 0.003759,
       "pnl": 0,
-      "size_usd": 189.99,
-      "activas": 0,
+      "size_usd": 316.65,
+      "activas": 1,
       "tp": 0,
       "sl": 0,
       "long": 0,
@@ -39,7 +39,7 @@
     "KAITO": {
       "center": 0.77205,
       "pnl": 0.43,
-      "size_usd": 189.99,
+      "size_usd": 158.32,
       "activas": 0,
       "tp": 2,
       "sl": 2,
@@ -49,7 +49,7 @@
     "ETHFI": {
       "center": 0.39145,
       "pnl": 0,
-      "size_usd": 189.99,
+      "size_usd": 158.32,
       "activas": 0,
       "tp": 0,
       "sl": 0,
@@ -60,12 +60,12 @@
   "bloqueados": [
     {
       "coin": "GRASS",
-      "horas_restantes": 4.0,
+      "horas_restantes": 3.6,
       "wr_reciente": 50.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 4.0,
+      "horas_restantes": 3.6,
       "wr_reciente": 50.0
     }
   ],
@@ -100,7 +100,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0002
     },
     "XRP": {
       "nivel": "VERDE",
@@ -155,7 +155,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0031
     },
     "JTO": {
       "nivel": "VERDE",
@@ -190,12 +190,12 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0136
+      "funding": 0.0138
     },
     "KAITO": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0008
+      "score": 0,
+      "funding": 0.0002
     },
     "ETHFI": {
       "nivel": "VERDE",
@@ -208,20 +208,9 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "VINE",
-      "vol_ratio": 1.16,
-      "mov": 0.02
-    }
-  ],
+  "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783944163814,
-      "capital": 998.26,
-      "roi": -0.17
-    },
     {
       "t": 1783944315203,
       "capital": 998.26,
@@ -1216,9 +1205,14 @@
       "t": 1784058885109,
       "capital": 1000.8,
       "roi": 0.08
+    },
+    {
+      "t": 1784060229356,
+      "capital": 1000.65,
+      "roi": 0.06
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-14T19:54:46.744315+00:00"
+  "updated": "2026-07-14T20:17:10.155221+00:00"
 }
