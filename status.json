@@ -2,7 +2,7 @@
   "capital": 999.79,
   "capital_inicial": 1000.0,
   "roi": -0.02,
-  "cycle": 266,
+  "cycle": 267,
   "trades": 988,
   "wr": 28.3,
   "grids": {
@@ -60,7 +60,7 @@
   "bloqueados": [
     {
       "coin": "ENA",
-      "horas_restantes": 1.8,
+      "horas_restantes": 1.7,
       "wr_reciente": 50.0
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "coin": "ZEC",
-      "horas_restantes": 4.2,
+      "horas_restantes": 4.1,
       "wr_reciente": 20.0
     },
     {
@@ -85,16 +85,16 @@
     }
   ],
   "pesos": {},
-  "alerta_nivel": "AMBER",
+  "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "BTC": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0009
     },
     "ETH": {
-      "nivel": "AMBER",
-      "score": 3,
+      "nivel": "VERDE",
+      "score": 1,
       "funding": 0.0013
     },
     "HYPE": {
@@ -104,7 +104,7 @@
     },
     "SOL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "ZEC": {
@@ -120,7 +120,7 @@
     "XRP": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0009
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -180,12 +180,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0061
+      "funding": 0.006
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -226,17 +226,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.55,
+      "vol_ratio": 1.47,
       "mov": 0.03
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783919874745,
-      "capital": 999.01,
-      "roi": -0.1
-    },
     {
       "t": 1783920017176,
       "capital": 999.01,
@@ -1231,9 +1226,14 @@
       "t": 1784036528858,
       "capital": 999.79,
       "roi": -0.02
+    },
+    {
+      "t": 1784036665389,
+      "capital": 999.79,
+      "roi": -0.02
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-14T13:42:09.401301+00:00"
+  "updated": "2026-07-14T13:44:25.906728+00:00"
 }
