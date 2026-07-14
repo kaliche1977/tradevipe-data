@@ -1,9 +1,9 @@
 {
-  "capital": 999.93,
+  "capital": 1000.14,
   "capital_inicial": 1000.0,
-  "roi": -0.01,
-  "cycle": 1,
-  "trades": 753,
+  "roi": 0.01,
+  "cycle": 2,
+  "trades": 755,
   "wr": 27.9,
   "grids": {
     "VVV": {
@@ -38,13 +38,13 @@
     },
     "KAITO": {
       "center": 0.77316,
-      "pnl": 0,
+      "pnl": 0.21,
       "size_usd": 189.99,
       "activas": 0,
-      "tp": 0,
-      "sl": 0,
-      "long": 0,
-      "short": 0
+      "tp": 1,
+      "sl": 1,
+      "long": 1,
+      "short": 1
     },
     "ETHFI": {
       "center": 0.39299,
@@ -89,7 +89,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0035
+      "funding": 0.0036
     },
     "XRP": {
       "nivel": "VERDE",
@@ -174,17 +174,17 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.002
+      "funding": 0.0013
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0132
+      "funding": 0.0135
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0013
     },
     "ETHFI": {
       "nivel": "VERDE",
@@ -197,14 +197,15 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [],
+  "watchlist": [
+    {
+      "coin": "VINE",
+      "vol_ratio": 1.13,
+      "mov": 0.02
+    }
+  ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783941465850,
-      "capital": 998.62,
-      "roi": -0.14
-    },
     {
       "t": 1783942089539,
       "capital": 998.26,
@@ -1199,9 +1200,14 @@
       "t": 1784056018795,
       "capital": 999.93,
       "roi": -0.01
+    },
+    {
+      "t": 1784056655640,
+      "capital": 1000.14,
+      "roi": 0.01
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-14T19:07:00.498093+00:00"
+  "updated": "2026-07-14T19:17:36.649953+00:00"
 }
