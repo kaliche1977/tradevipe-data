@@ -2,7 +2,7 @@
   "capital": 999.92,
   "capital_inicial": 1000.0,
   "roi": -0.01,
-  "cycle": 257,
+  "cycle": 258,
   "trades": 982,
   "wr": 28.3,
   "grids": {
@@ -60,27 +60,27 @@
   "bloqueados": [
     {
       "coin": "ENA",
-      "horas_restantes": 3.4,
+      "horas_restantes": 3.2,
       "wr_reciente": 50.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 5.0,
+      "horas_restantes": 4.8,
       "wr_reciente": 20.0
     },
     {
       "coin": "ZEC",
-      "horas_restantes": 5.8,
+      "horas_restantes": 5.6,
       "wr_reciente": 20.0
     },
     {
       "coin": "WLD",
-      "horas_restantes": 0.5,
+      "horas_restantes": 0.3,
       "wr_reciente": 40.0
     },
     {
       "coin": "XPL",
-      "horas_restantes": 2.1,
+      "horas_restantes": 1.9,
       "wr_reciente": 50.0
     }
   ],
@@ -120,7 +120,7 @@
     "XRP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -135,7 +135,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0004
     },
     "XPL": {
       "nivel": "VERDE",
@@ -185,7 +185,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.004
+      "funding": 0.002
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -226,17 +226,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.42,
-      "mov": 0.05
+      "vol_ratio": 1.6,
+      "mov": 0.03
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783918117327,
-      "capital": 999.01,
-      "roi": -0.1
-    },
     {
       "t": 1783918256910,
       "capital": 999.01,
@@ -1231,9 +1226,14 @@
       "t": 1784030575160,
       "capital": 999.92,
       "roi": -0.01
+    },
+    {
+      "t": 1784031263554,
+      "capital": 999.92,
+      "roi": -0.01
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-14T12:02:55.898195+00:00"
+  "updated": "2026-07-14T12:14:24.249705+00:00"
 }
