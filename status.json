@@ -2,7 +2,7 @@
   "capital": 1007.86,
   "capital_inicial": 1000.0,
   "roi": 0.79,
-  "cycle": 12,
+  "cycle": 13,
   "trades": 832,
   "wr": 32.0,
   "grids": {
@@ -60,17 +60,17 @@
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 1.9,
+      "horas_restantes": 1.6,
       "wr_reciente": 33.3
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 2.7,
+      "horas_restantes": 2.5,
       "wr_reciente": 0.0
     },
     {
       "coin": "ENA",
-      "horas_restantes": 3.1,
+      "horas_restantes": 2.9,
       "wr_reciente": 0.0
     }
   ],
@@ -99,13 +99,13 @@
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0017
+      "score": 1,
+      "funding": 0.002
     },
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0012
     },
     "XRP": {
       "nivel": "VERDE",
@@ -170,12 +170,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0009
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0029
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -195,12 +195,12 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0152
+      "funding": 0.0151
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0006
     },
     "ETHFI": {
       "nivel": "VERDE",
@@ -216,11 +216,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783948452388,
-      "capital": 999.28,
-      "roi": -0.07
-    },
     {
       "t": 1783948594116,
       "capital": 998.89,
@@ -1215,9 +1210,14 @@
       "t": 1784072291993,
       "capital": 1007.86,
       "roi": 0.79
+    },
+    {
+      "t": 1784073116353,
+      "capital": 1007.86,
+      "roi": 0.79
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-14T23:38:12.734506+00:00"
+  "updated": "2026-07-14T23:51:57.289235+00:00"
 }
