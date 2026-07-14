@@ -1,10 +1,10 @@
 {
-  "capital": 999.95,
+  "capital": 1000.38,
   "capital_inicial": 1000.0,
-  "roi": -0.01,
-  "cycle": 1,
-  "trades": 753,
-  "wr": 27.9,
+  "roi": 0.04,
+  "cycle": 2,
+  "trades": 757,
+  "wr": 28.0,
   "grids": {
     "VVV": {
       "center": 11.127,
@@ -18,13 +18,13 @@
     },
     "GRASS": {
       "center": 0.3868,
-      "pnl": 0,
+      "pnl": 0.21,
       "size_usd": 189.99,
       "activas": 0,
-      "tp": 0,
-      "sl": 0,
+      "tp": 1,
+      "sl": 1,
       "long": 0,
-      "short": 0
+      "short": 2
     },
     "kBONK": {
       "center": 0.003759,
@@ -38,13 +38,13 @@
     },
     "KAITO": {
       "center": 0.77205,
-      "pnl": 0,
+      "pnl": 0.21,
       "size_usd": 189.99,
       "activas": 0,
-      "tp": 0,
-      "sl": 0,
-      "long": 0,
-      "short": 0
+      "tp": 1,
+      "sl": 1,
+      "long": 1,
+      "short": 1
     },
     "ETHFI": {
       "center": 0.39145,
@@ -89,7 +89,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.002
+      "funding": 0.0016
     },
     "XRP": {
       "nivel": "VERDE",
@@ -178,13 +178,13 @@
     },
     "kBONK": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0138
+      "score": 1,
+      "funding": 0.0136
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0012
+      "funding": 0.0001
     },
     "ETHFI": {
       "nivel": "VERDE",
@@ -200,17 +200,12 @@
   "watchlist": [
     {
       "coin": "VINE",
-      "vol_ratio": 1.1,
-      "mov": 0.02
+      "vol_ratio": 1.27,
+      "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783942719067,
-      "capital": 998.26,
-      "roi": -0.17
-    },
     {
       "t": 1783943424145,
       "capital": 998.26,
@@ -1205,9 +1200,14 @@
       "t": 1784057500810,
       "capital": 999.95,
       "roi": -0.01
+    },
+    {
+      "t": 1784058147095,
+      "capital": 1000.38,
+      "roi": 0.04
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-14T19:31:41.881604+00:00"
+  "updated": "2026-07-14T19:42:28.113433+00:00"
 }
