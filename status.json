@@ -2,7 +2,7 @@
   "capital": 998.28,
   "capital_inicial": 1000.0,
   "roi": -0.17,
-  "cycle": 221,
+  "cycle": 222,
   "trades": 941,
   "wr": 27.9,
   "grids": {
@@ -60,27 +60,27 @@
   "bloqueados": [
     {
       "coin": "ENA",
-      "horas_restantes": 2.5,
+      "horas_restantes": 2.3,
       "wr_reciente": 70.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.5,
       "wr_reciente": 60.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 1.2,
+      "horas_restantes": 1.0,
       "wr_reciente": 20.0
     },
     {
       "coin": "ZEC",
-      "horas_restantes": 2.1,
+      "horas_restantes": 1.9,
       "wr_reciente": 50.0
     },
     {
       "coin": "WLD",
-      "horas_restantes": 4.0,
+      "horas_restantes": 3.8,
       "wr_reciente": 30.0
     }
   ],
@@ -105,22 +105,22 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0006
     },
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0023
+      "funding": 0.002
     },
     "XRP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0007
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -145,12 +145,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.002
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0007
     },
     "LDO": {
       "nivel": "VERDE",
@@ -180,7 +180,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "VVV": {
       "nivel": "VERDE",
@@ -225,23 +225,18 @@
   },
   "watchlist": [
     {
-      "coin": "PURR",
-      "vol_ratio": 1.67,
+      "coin": "CASHCAT",
+      "vol_ratio": 1.5,
       "mov": 0.03
     },
     {
-      "coin": "CASHCAT",
-      "vol_ratio": 1.55,
+      "coin": "PURR",
+      "vol_ratio": 1.31,
       "mov": 0.03
     }
   ],
   "modo_real": false,
   "historial": [
-    {
-      "t": 1783912535348,
-      "capital": 997.39,
-      "roi": -0.26
-    },
     {
       "t": 1783912675968,
       "capital": 997.39,
@@ -1236,9 +1231,14 @@
       "t": 1784000149481,
       "capital": 998.28,
       "roi": -0.17
+    },
+    {
+      "t": 1784000952341,
+      "capital": 998.28,
+      "roi": -0.17
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-14T03:35:50.173096+00:00"
+  "updated": "2026-07-14T03:49:13.819892+00:00"
 }
