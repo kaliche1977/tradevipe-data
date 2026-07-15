@@ -1,19 +1,19 @@
 {
-  "capital": 1215.45,
+  "capital": 1215.76,
   "capital_inicial": 1000.0,
-  "roi": 21.54,
-  "cycle": 26,
-  "trades": 1247,
+  "roi": 21.58,
+  "cycle": 27,
+  "trades": 1249,
   "wr": 71.1,
   "grids": {
     "XMR": {
       "center": 333.01,
-      "pnl": 3.0,
+      "pnl": 3.31,
       "size_usd": 1188.2,
       "activas": 0,
       "tp": 0,
-      "sl": 3,
-      "long": 8,
+      "sl": 4,
+      "long": 10,
       "short": 0
     }
   },
@@ -59,7 +59,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0026
+      "funding": 0.0016
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -99,7 +99,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0159
+      "funding": 0.0142
     },
     "JTO": {
       "nivel": "VERDE",
@@ -109,12 +109,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0016
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0014
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -129,7 +129,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0037
+      "funding": 0.005
     },
     "kBONK": {
       "nivel": "VERDE",
@@ -145,17 +145,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.62,
+      "vol_ratio": 1.28,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784012358783,
-      "capital": 997.89,
-      "roi": -0.21
-    },
     {
       "t": 1784012983678,
       "capital": 997.5,
@@ -1150,9 +1145,14 @@
       "t": 1784155153608,
       "capital": 1215.45,
       "roi": 21.54
+    },
+    {
+      "t": 1784155786648,
+      "capital": 1215.76,
+      "roi": 21.58
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T22:39:14.493084+00:00"
+  "updated": "2026-07-15T22:49:47.368280+00:00"
 }
