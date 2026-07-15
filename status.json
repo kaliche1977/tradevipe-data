@@ -2,7 +2,7 @@
   "capital": 1213.62,
   "capital_inicial": 1000.0,
   "roi": 21.36,
-  "cycle": 20,
+  "cycle": 21,
   "trades": 1240,
   "wr": 71.2,
   "grids": {
@@ -39,7 +39,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -49,7 +49,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.003
+      "funding": 0.0027
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -59,7 +59,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0024
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -99,7 +99,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0095
+      "funding": 0.0102
     },
     "JTO": {
       "nivel": "VERDE",
@@ -109,12 +109,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0032
+      "funding": 0.0036
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0024
+      "funding": 0.0021
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -129,12 +129,12 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0048
+      "funding": 0.0055
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0217
+      "funding": 0.0225
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -145,17 +145,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.91,
+      "vol_ratio": 2.0,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784005529588,
-      "capital": 998.13,
-      "roi": -0.19
-    },
     {
       "t": 1784007008298,
       "capital": 999.24,
@@ -1150,9 +1145,14 @@
       "t": 1784151342288,
       "capital": 1213.62,
       "roi": 21.36
+    },
+    {
+      "t": 1784151976939,
+      "capital": 1213.62,
+      "roi": 21.36
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T21:35:43.093177+00:00"
+  "updated": "2026-07-15T21:46:17.686671+00:00"
 }
