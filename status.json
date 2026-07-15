@@ -1,20 +1,20 @@
 {
-  "capital": 1224.42,
+  "capital": 1226.17,
   "capital_inicial": 1000.0,
-  "roi": 22.44,
-  "cycle": 43,
-  "trades": 1231,
+  "roi": 22.62,
+  "cycle": 44,
+  "trades": 1232,
   "wr": 72.5,
   "grids": {
     "SUI": {
       "center": 0.75399,
-      "pnl": 4.52,
+      "pnl": 6.27,
       "size_usd": 1158.9,
       "activas": 0,
       "tp": 0,
       "sl": 11,
       "long": 0,
-      "short": 28
+      "short": 29
     }
   },
   "bloqueados": [
@@ -55,7 +55,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0036
+      "funding": 0.0035
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -80,7 +80,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0005
+      "funding": 0.0004
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -115,12 +115,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0008
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0083
+      "funding": 0.0084
     },
     "kPEPE": {
       "nivel": "AMBER",
@@ -140,7 +140,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0147
+      "funding": 0.0149
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -151,22 +151,17 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.91,
+      "vol_ratio": 2.8,
       "mov": 0.06
     },
     {
       "coin": "0G",
-      "vol_ratio": 1.13,
+      "vol_ratio": 1.09,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783984141537,
-      "capital": 1000.74,
-      "roi": 0.07
-    },
     {
       "t": 1783984764070,
       "capital": 1000.49,
@@ -1161,9 +1156,14 @@
       "t": 1784132652834,
       "capital": 1224.42,
       "roi": 22.44
+    },
+    {
+      "t": 1784132812684,
+      "capital": 1226.17,
+      "roi": 22.62
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T16:24:13.677103+00:00"
+  "updated": "2026-07-15T16:26:53.615892+00:00"
 }
