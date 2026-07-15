@@ -1,20 +1,20 @@
 {
-  "capital": 1220.59,
+  "capital": 1219.95,
   "capital_inicial": 1000.0,
-  "roi": 22.06,
-  "cycle": 21,
-  "trades": 1206,
+  "roi": 21.99,
+  "cycle": 22,
+  "trades": 1208,
   "wr": 72.7,
   "grids": {
     "SUI": {
       "center": 0.75399,
-      "pnl": 0.69,
+      "pnl": 0.05,
       "size_usd": 1158.9,
       "activas": 0,
       "tp": 0,
-      "sl": 1,
+      "sl": 2,
       "long": 0,
-      "short": 3
+      "short": 5
     }
   },
   "bloqueados": [],
@@ -54,12 +54,12 @@
     "NEAR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0024
+      "funding": 0.003
     },
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.008
+      "funding": 0.0076
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -114,11 +114,11 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0042
+      "funding": 0.0057
     },
     "kPEPE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "TAO": {
@@ -134,7 +134,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0084
+      "funding": 0.0083
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -145,22 +145,17 @@
   "watchlist": [
     {
       "coin": "0G",
-      "vol_ratio": 4.25,
-      "mov": 0.08
+      "vol_ratio": 2.71,
+      "mov": 0.05
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.36,
-      "mov": 0.05
+      "vol_ratio": 2.24,
+      "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783968507574,
-      "capital": 997.33,
-      "roi": -0.27
-    },
     {
       "t": 1783968875258,
       "capital": 997.33,
@@ -1155,9 +1150,14 @@
       "t": 1784120920278,
       "capital": 1220.59,
       "roi": 22.06
+    },
+    {
+      "t": 1784121876228,
+      "capital": 1219.95,
+      "roi": 21.99
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T13:08:41.212828+00:00"
+  "updated": "2026-07-15T13:24:37.776982+00:00"
 }
