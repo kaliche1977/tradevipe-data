@@ -2,7 +2,7 @@
   "capital": 1212.45,
   "capital_inicial": 1000.0,
   "roi": 21.25,
-  "cycle": 2,
+  "cycle": 3,
   "trades": 1239,
   "wr": 71.2,
   "grids": {
@@ -49,17 +49,17 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0133
+      "funding": 0.0178
     },
     "NEAR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0028
+      "funding": 0.002
     },
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0022
+      "funding": 0.0013
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -78,7 +78,7 @@
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "LDO": {
@@ -99,12 +99,12 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0035
+      "funding": 0.0028
     },
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0101
+      "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
@@ -114,7 +114,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.003
+      "funding": 0.0017
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -134,7 +134,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.011
+      "funding": 0.0149
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -145,17 +145,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 5.34,
+      "vol_ratio": 5.27,
       "mov": 0.11
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783991620660,
-      "capital": 1000.34,
-      "roi": 0.03
-    },
     {
       "t": 1783992242416,
       "capital": 1000.34,
@@ -1150,9 +1145,14 @@
       "t": 1784138464462,
       "capital": 1212.45,
       "roi": 21.25
+    },
+    {
+      "t": 1784139330749,
+      "capital": 1212.45,
+      "roi": 21.25
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T18:01:05.448812+00:00"
+  "updated": "2026-07-15T18:15:31.486714+00:00"
 }
