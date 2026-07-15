@@ -2,7 +2,7 @@
   "capital": 1219.9,
   "capital_inicial": 1000.0,
   "roi": 21.99,
-  "cycle": 1,
+  "cycle": 2,
   "trades": 1203,
   "wr": 72.7,
   "grids": {
@@ -34,12 +34,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0025
+      "funding": 0.0028
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -74,7 +74,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0005
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -114,7 +114,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0028
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -139,23 +139,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0012
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.19,
+      "vol_ratio": 2.17,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783964382325,
-      "capital": 996.53,
-      "roi": -0.35
-    },
     {
       "t": 1783964525118,
       "capital": 997.02,
@@ -1150,9 +1145,14 @@
       "t": 1784105103621,
       "capital": 1219.9,
       "roi": 21.99
+    },
+    {
+      "t": 1784105846499,
+      "capital": 1219.9,
+      "roi": 21.99
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T08:45:04.328439+00:00"
+  "updated": "2026-07-15T08:57:27.196140+00:00"
 }
