@@ -2,7 +2,7 @@
   "capital": 1004.93,
   "capital_inicial": 1000.0,
   "roi": 0.49,
-  "cycle": 24,
+  "cycle": 25,
   "trades": 856,
   "wr": 31.9,
   "grids": {
@@ -60,22 +60,22 @@
   "bloqueados": [
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 2.4,
+      "horas_restantes": 2.1,
       "wr_reciente": 50.0
     },
     {
       "coin": "PUMP",
-      "horas_restantes": 2.4,
+      "horas_restantes": 2.1,
       "wr_reciente": 30.0
     },
     {
       "coin": "ETHFI",
-      "horas_restantes": 3.1,
+      "horas_restantes": 2.8,
       "wr_reciente": 70.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.2,
       "wr_reciente": 50.0
     }
   ],
@@ -110,7 +110,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0043
+      "funding": 0.0032
     },
     "XRP": {
       "nivel": "VERDE",
@@ -125,7 +125,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.003
+      "funding": 0.0032
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -200,7 +200,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0163
+      "funding": 0.0155
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -221,22 +221,17 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 4.67,
-      "mov": 0.09
+      "vol_ratio": 4.13,
+      "mov": 0.08
     },
     {
       "coin": "VINE",
-      "vol_ratio": 1.29,
-      "mov": 0.03
+      "vol_ratio": 1.19,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783950168437,
-      "capital": 996.75,
-      "roi": -0.33
-    },
     {
       "t": 1783950311144,
       "capital": 996.75,
@@ -1231,9 +1226,14 @@
       "t": 1784085598244,
       "capital": 1004.93,
       "roi": 0.49
+    },
+    {
+      "t": 1784086563051,
+      "capital": 1004.93,
+      "roi": 0.49
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T03:19:58.951680+00:00"
+  "updated": "2026-07-15T03:36:03.781976+00:00"
 }
