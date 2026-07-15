@@ -2,7 +2,7 @@
   "capital": 1212.45,
   "capital_inicial": 1000.0,
   "roi": 21.25,
-  "cycle": 8,
+  "cycle": 9,
   "trades": 1239,
   "wr": 71.2,
   "grids": {
@@ -34,7 +34,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0018
     },
     "SOL": {
       "nivel": "VERDE",
@@ -49,7 +49,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0113
+      "funding": 0.0131
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -74,7 +74,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0007
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -109,12 +109,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0009
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0024
+      "funding": 0.0021
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -129,12 +129,12 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0028
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0173
+      "funding": 0.0187
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -145,22 +145,17 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.58,
+      "vol_ratio": 2.45,
       "mov": 0.05
     },
     {
       "coin": "0G",
-      "vol_ratio": 1.09,
+      "vol_ratio": 1.0,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783995351606,
-      "capital": 998.92,
-      "roi": -0.11
-    },
     {
       "t": 1783995972881,
       "capital": 998.92,
@@ -1155,9 +1150,14 @@
       "t": 1784142912965,
       "capital": 1212.45,
       "roi": 21.25
+    },
+    {
+      "t": 1784144114646,
+      "capital": 1212.45,
+      "roi": 21.25
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T19:15:14.716263+00:00"
+  "updated": "2026-07-15T19:35:15.496744+00:00"
 }
