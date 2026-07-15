@@ -2,7 +2,7 @@
   "capital": 1219.9,
   "capital_inicial": 1000.0,
   "roi": 21.99,
-  "cycle": 14,
+  "cycle": 15,
   "trades": 1203,
   "wr": 72.7,
   "grids": {
@@ -34,17 +34,17 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0048
+      "funding": 0.0046
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0015
+      "funding": 0.0018
     },
     "LIT": {
       "nivel": "VERDE",
@@ -54,7 +54,7 @@
     "NEAR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0052
+      "funding": 0.0053
     },
     "FARTCOIN": {
       "nivel": "VERDE",
@@ -98,8 +98,8 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.007
+      "score": 1,
+      "funding": 0.0064
     },
     "JTO": {
       "nivel": "VERDE",
@@ -114,7 +114,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.005
+      "funding": 0.0055
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -134,33 +134,28 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0096
+      "funding": 0.0101
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.009
+      "funding": 0.0092
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.55,
+      "vol_ratio": 2.41,
       "mov": 0.05
     },
     {
       "coin": "VINE",
-      "vol_ratio": 1.43,
+      "vol_ratio": 1.55,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1783967183513,
-      "capital": 997.33,
-      "roi": -0.27
-    },
     {
       "t": 1783967324338,
       "capital": 997.33,
@@ -1155,9 +1150,14 @@
       "t": 1784115723860,
       "capital": 1219.9,
       "roi": 21.99
+    },
+    {
+      "t": 1784116374659,
+      "capital": 1219.9,
+      "roi": 21.99
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-15T11:42:04.537333+00:00"
+  "updated": "2026-07-15T11:52:55.357896+00:00"
 }
