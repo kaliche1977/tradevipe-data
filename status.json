@@ -2,7 +2,7 @@
   "capital": 1038.64,
   "capital_inicial": 1000.0,
   "roi": 3.86,
-  "cycle": 42,
+  "cycle": 43,
   "trades": 1026,
   "wr": 41.6,
   "grids": {
@@ -65,7 +65,7 @@
     },
     {
       "coin": "VVV",
-      "horas_restantes": 2.9,
+      "horas_restantes": 2.8,
       "wr_reciente": 33.3
     },
     {
@@ -84,7 +84,7 @@
   "alerta_detalles": {
     "BTC": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "ETH": {
@@ -95,12 +95,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0016
+      "funding": 0.0014
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -140,7 +140,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0009
     },
     "LDO": {
       "nivel": "VERDE",
@@ -195,7 +195,7 @@
     "kBONK": {
       "nivel": "AMBER",
       "score": 4,
-      "funding": 0.0934
+      "funding": 0.0941
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -206,11 +206,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784115089023,
-      "capital": 1219.9,
-      "roi": 21.99
-    },
     {
       "t": 1784115723860,
       "capital": 1219.9,
@@ -1205,9 +1200,14 @@
       "t": 1784226510589,
       "capital": 1038.64,
       "roi": 3.86
+    },
+    {
+      "t": 1784226657279,
+      "capital": 1038.64,
+      "roi": 3.86
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T18:28:31.322995+00:00"
+  "updated": "2026-07-16T18:30:58.037078+00:00"
 }
