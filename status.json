@@ -2,7 +2,7 @@
   "capital": 1038.7,
   "capital_inicial": 1000.0,
   "roi": 3.87,
-  "cycle": 73,
+  "cycle": 74,
   "trades": 1027,
   "wr": 41.7,
   "grids": {
@@ -75,7 +75,7 @@
     },
     {
       "coin": "XPL",
-      "horas_restantes": 2.7,
+      "horas_restantes": 2.6,
       "wr_reciente": 80.0
     }
   ],
@@ -93,8 +93,8 @@
       "funding": 0.0013
     },
     "HYPE": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0001
     },
     "SOL": {
@@ -200,23 +200,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0046
+      "funding": 0.0047
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.11,
+      "vol_ratio": 2.13,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784132812684,
-      "capital": 1226.17,
-      "roi": 22.62
-    },
     {
       "t": 1784133520772,
       "capital": 1234.48,
@@ -1211,9 +1206,14 @@
       "t": 1784230731902,
       "capital": 1038.7,
       "roi": 3.87
+    },
+    {
+      "t": 1784230791136,
+      "capital": 1038.7,
+      "roi": 3.87
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T19:38:52.698929+00:00"
+  "updated": "2026-07-16T19:39:51.986442+00:00"
 }
