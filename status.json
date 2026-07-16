@@ -1,10 +1,10 @@
 {
-  "capital": 1363.99,
+  "capital": 1364.18,
   "capital_inicial": 1000.0,
-  "roi": 36.4,
-  "cycle": 5,
-  "trades": 1294,
-  "wr": 69.4,
+  "roi": 36.42,
+  "cycle": 6,
+  "trades": 1298,
+  "wr": 69.3,
   "grids": {
     "JTO": {
       "center": 0.59668,
@@ -28,33 +28,33 @@
     },
     "GRASS": {
       "center": 0.38453,
-      "pnl": 1.38,
+      "pnl": 1.69,
       "size_usd": 189.06,
       "activas": 0,
       "tp": 0,
       "sl": 0,
-      "long": 3,
+      "long": 4,
       "short": 0
     },
     "LDO": {
       "center": 0.37949,
-      "pnl": -0.51,
+      "pnl": -0.59,
       "size_usd": 189.06,
       "activas": 0,
       "tp": 0,
-      "sl": 10,
-      "long": 48,
+      "sl": 11,
+      "long": 50,
       "short": 52
     },
     "XMR": {
       "center": 335.07,
-      "pnl": -0.04,
+      "pnl": -0.08,
       "size_usd": 189.06,
       "activas": 0,
       "tp": 0,
-      "sl": 4,
+      "sl": 5,
       "long": 2,
-      "short": 14
+      "short": 15
     }
   },
   "bloqueados": [
@@ -62,6 +62,11 @@
       "coin": "JTO",
       "horas_restantes": 3.8,
       "wr_reciente": 71.4
+    },
+    {
+      "coin": "XMR",
+      "horas_restantes": 4.0,
+      "wr_reciente": 50.0
     }
   ],
   "pesos": {},
@@ -79,7 +84,7 @@
     },
     "HYPE": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "SOL": {
@@ -145,7 +150,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.0018
     },
     "JTO": {
       "nivel": "VERDE",
@@ -180,11 +185,11 @@
     "kBONK": {
       "nivel": "AMBER",
       "score": 4,
-      "funding": 0.0544
+      "funding": 0.054
     },
     "KAITO": {
-      "nivel": "AMBER",
-      "score": 4,
+      "nivel": "VERDE",
+      "score": 2,
       "funding": 0.0013
     }
   },
@@ -196,17 +201,12 @@
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.16,
+      "vol_ratio": 1.14,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784071664813,
-      "capital": 1007.86,
-      "roi": 0.79
-    },
     {
       "t": 1784072291993,
       "capital": 1007.86,
@@ -1201,9 +1201,14 @@
       "t": 1784218989553,
       "capital": 1363.99,
       "roi": 36.4
+    },
+    {
+      "t": 1784219153013,
+      "capital": 1364.18,
+      "roi": 36.42
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T16:23:10.445028+00:00"
+  "updated": "2026-07-16T16:25:54.018473+00:00"
 }
