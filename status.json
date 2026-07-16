@@ -2,7 +2,7 @@
   "capital": 1038.7,
   "capital_inicial": 1000.0,
   "roi": 3.87,
-  "cycle": 56,
+  "cycle": 57,
   "trades": 1027,
   "wr": 41.7,
   "grids": {
@@ -70,12 +70,12 @@
     },
     {
       "coin": "LDO",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.2,
       "wr_reciente": 60.0
     },
     {
       "coin": "XPL",
-      "horas_restantes": 3.4,
+      "horas_restantes": 3.3,
       "wr_reciente": 80.0
     }
   ],
@@ -95,7 +95,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "SOL": {
       "nivel": "VERDE",
@@ -109,7 +109,7 @@
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "NEAR": {
@@ -195,22 +195,17 @@
     "kBONK": {
       "nivel": "AMBER",
       "score": 4,
-      "funding": 0.1146
+      "funding": 0.1165
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 2,
-      "funding": 0.0025
+      "funding": 0.0023
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784125225448,
-      "capital": 1218.61,
-      "roi": 21.86
-    },
     {
       "t": 1784125876798,
       "capital": 1218.07,
@@ -1205,9 +1200,14 @@
       "t": 1784228117192,
       "capital": 1038.7,
       "roi": 3.87
+    },
+    {
+      "t": 1784228277011,
+      "capital": 1038.7,
+      "roi": 3.87
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T18:55:19.865480+00:00"
+  "updated": "2026-07-16T18:57:57.785275+00:00"
 }
