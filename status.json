@@ -2,7 +2,7 @@
   "capital": 1237.04,
   "capital_inicial": 1000.0,
   "roi": 23.7,
-  "cycle": 93,
+  "cycle": 94,
   "trades": 1284,
   "wr": 70.8,
   "grids": {
@@ -20,7 +20,7 @@
   "bloqueados": [
     {
       "coin": "ADA",
-      "horas_restantes": 1.2,
+      "horas_restantes": 0.8,
       "wr_reciente": 44.4
     }
   ],
@@ -45,7 +45,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -75,7 +75,7 @@
     "XPL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0009
     },
     "WLD": {
       "nivel": "VERDE",
@@ -85,7 +85,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "LDO": {
       "nivel": "VERDE",
@@ -105,7 +105,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0013
     },
     "JTO": {
       "nivel": "VERDE",
@@ -115,7 +115,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.002
     },
     "VVV": {
       "nivel": "VERDE",
@@ -140,7 +140,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0474
+      "funding": 0.0469
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -151,17 +151,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.04,
+      "vol_ratio": 1.01,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784056655640,
-      "capital": 1000.14,
-      "roi": 0.01
-    },
     {
       "t": 1784057500810,
       "capital": 999.95,
@@ -1156,9 +1151,14 @@
       "t": 1784205449138,
       "capital": 1237.04,
       "roi": 23.7
+    },
+    {
+      "t": 1784206605643,
+      "capital": 1237.04,
+      "roi": 23.7
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T12:37:30.036045+00:00"
+  "updated": "2026-07-16T12:56:46.507456+00:00"
 }
