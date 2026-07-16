@@ -1,9 +1,9 @@
 {
-  "capital": 1364.18,
+  "capital": 1364.42,
   "capital_inicial": 1000.0,
-  "roi": 36.42,
-  "cycle": 6,
-  "trades": 1298,
+  "roi": 36.44,
+  "cycle": 7,
+  "trades": 1301,
   "wr": 69.3,
   "grids": {
     "JTO": {
@@ -28,22 +28,22 @@
     },
     "GRASS": {
       "center": 0.38453,
-      "pnl": 1.69,
+      "pnl": 2.01,
       "size_usd": 189.06,
       "activas": 0,
       "tp": 0,
       "sl": 0,
-      "long": 4,
+      "long": 5,
       "short": 0
     },
     "LDO": {
       "center": 0.37949,
-      "pnl": -0.59,
+      "pnl": -0.67,
       "size_usd": 189.06,
       "activas": 0,
       "tp": 0,
-      "sl": 11,
-      "long": 50,
+      "sl": 12,
+      "long": 52,
       "short": 52
     },
     "XMR": {
@@ -60,12 +60,12 @@
   "bloqueados": [
     {
       "coin": "JTO",
-      "horas_restantes": 3.8,
+      "horas_restantes": 3.7,
       "wr_reciente": 71.4
     },
     {
       "coin": "XMR",
-      "horas_restantes": 4.0,
+      "horas_restantes": 3.9,
       "wr_reciente": 50.0
     }
   ],
@@ -104,7 +104,7 @@
     },
     "NEAR": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "FARTCOIN": {
@@ -185,33 +185,28 @@
     "kBONK": {
       "nivel": "AMBER",
       "score": 4,
-      "funding": 0.054
+      "funding": 0.0539
     },
     "KAITO": {
-      "nivel": "VERDE",
-      "score": 2,
+      "nivel": "AMBER",
+      "score": 4,
       "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "PURR",
-      "vol_ratio": 1.83,
+      "vol_ratio": 1.77,
       "mov": 0.04
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.14,
+      "vol_ratio": 1.11,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784072291993,
-      "capital": 1007.86,
-      "roi": 0.79
-    },
     {
       "t": 1784073116353,
       "capital": 1007.86,
@@ -1206,9 +1201,14 @@
       "t": 1784219153013,
       "capital": 1364.18,
       "roi": 36.42
+    },
+    {
+      "t": 1784219321832,
+      "capital": 1364.42,
+      "roi": 36.44
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T16:25:54.018473+00:00"
+  "updated": "2026-07-16T16:28:42.899540+00:00"
 }
