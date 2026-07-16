@@ -2,7 +2,7 @@
   "capital": 1038.75,
   "capital_inicial": 1000.0,
   "roi": 3.88,
-  "cycle": 32,
+  "cycle": 33,
   "trades": 1021,
   "wr": 41.7,
   "grids": {
@@ -65,7 +65,7 @@
     },
     {
       "coin": "VVV",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.2,
       "wr_reciente": 33.3
     }
   ],
@@ -85,7 +85,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0004
+      "funding": 0.0013
     },
     "SOL": {
       "nivel": "VERDE",
@@ -185,22 +185,17 @@
     "kBONK": {
       "nivel": "AMBER",
       "score": 4,
-      "funding": 0.0858
+      "funding": 0.0874
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.003
+      "funding": 0.0026
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784106534246,
-      "capital": 1219.9,
-      "roi": 21.99
-    },
     {
       "t": 1784107289882,
       "capital": 1219.9,
@@ -1195,9 +1190,14 @@
       "t": 1784225031037,
       "capital": 1038.75,
       "roi": 3.88
+    },
+    {
+      "t": 1784225178507,
+      "capital": 1038.75,
+      "roi": 3.88
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T18:03:52.049976+00:00"
+  "updated": "2026-07-16T18:06:19.517438+00:00"
 }
