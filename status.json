@@ -2,7 +2,7 @@
   "capital": 1038.7,
   "capital_inicial": 1000.0,
   "roi": 3.87,
-  "cycle": 52,
+  "cycle": 53,
   "trades": 1027,
   "wr": 41.7,
   "grids": {
@@ -70,7 +70,7 @@
     },
     {
       "coin": "LDO",
-      "horas_restantes": 3.4,
+      "horas_restantes": 3.3,
       "wr_reciente": 60.0
     },
     {
@@ -100,7 +100,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -195,7 +195,7 @@
     "kBONK": {
       "nivel": "ROJA",
       "score": 6,
-      "funding": 0.1083
+      "funding": 0.1097
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -206,11 +206,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784122612778,
-      "capital": 1219.31,
-      "roi": 21.93
-    },
     {
       "t": 1784123265448,
       "capital": 1219.0,
@@ -1205,9 +1200,14 @@
       "t": 1784227782316,
       "capital": 1038.7,
       "roi": 3.87
+    },
+    {
+      "t": 1784227836655,
+      "capital": 1038.7,
+      "roi": 3.87
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T18:49:43.031345+00:00"
+  "updated": "2026-07-16T18:50:37.403800+00:00"
 }
