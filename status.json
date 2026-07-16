@@ -1,9 +1,9 @@
 {
-  "capital": 1026.82,
+  "capital": 1027.47,
   "capital_inicial": 1000.0,
-  "roi": 2.68,
-  "cycle": 4,
-  "trades": 983,
+  "roi": 2.75,
+  "cycle": 5,
+  "trades": 984,
   "wr": 40.0,
   "grids": {
     "VVV": {
@@ -18,13 +18,13 @@
     },
     "GRASS": {
       "center": 0.38078,
-      "pnl": 1.95,
+      "pnl": 2.6,
       "size_usd": 200.87,
       "activas": 0,
-      "tp": 3,
+      "tp": 4,
       "sl": 0,
       "long": 0,
-      "short": 3
+      "short": 4
     },
     "XPL": {
       "center": 0.088803,
@@ -79,11 +79,11 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0006
     },
     "NEAR": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "FARTCOIN": {
@@ -94,7 +94,7 @@
     "PUMP": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0023
+      "funding": 0.003
     },
     "XPL": {
       "nivel": "VERDE",
@@ -129,7 +129,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0015
     },
     "JTO": {
       "nivel": "VERDE",
@@ -164,7 +164,7 @@
     "kBONK": {
       "nivel": "AMBER",
       "score": 5,
-      "funding": 0.056
+      "funding": 0.0564
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -172,20 +172,9 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "CASHCAT",
-      "vol_ratio": 1.02,
-      "mov": 0.02
-    }
-  ],
+  "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784080945753,
-      "capital": 1005.89,
-      "roi": 0.59
-    },
     {
       "t": 1784082287328,
       "capital": 1005.98,
@@ -1180,9 +1169,14 @@
       "t": 1784220745933,
       "capital": 1026.82,
       "roi": 2.68
+    },
+    {
+      "t": 1784220938407,
+      "capital": 1027.47,
+      "roi": 2.75
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T16:52:27.671882+00:00"
+  "updated": "2026-07-16T16:55:39.124203+00:00"
 }
