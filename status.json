@@ -1,9 +1,9 @@
 {
-  "capital": 1364.88,
+  "capital": 1365.12,
   "capital_inicial": 1000.0,
-  "roi": 36.49,
-  "cycle": 9,
-  "trades": 1307,
+  "roi": 36.51,
+  "cycle": 10,
+  "trades": 1310,
   "wr": 69.3,
   "grids": {
     "JTO": {
@@ -28,22 +28,22 @@
     },
     "GRASS": {
       "center": 0.38453,
-      "pnl": 2.63,
+      "pnl": 2.95,
       "size_usd": 189.06,
       "activas": 0,
       "tp": 0,
       "sl": 0,
-      "long": 7,
+      "long": 8,
       "short": 0
     },
     "LDO": {
       "center": 0.37949,
-      "pnl": -0.83,
+      "pnl": -0.91,
       "size_usd": 189.06,
       "activas": 0,
       "tp": 0,
-      "sl": 14,
-      "long": 56,
+      "sl": 15,
+      "long": 58,
       "short": 52
     },
     "XMR": {
@@ -60,12 +60,12 @@
   "bloqueados": [
     {
       "coin": "JTO",
-      "horas_restantes": 3.7,
+      "horas_restantes": 3.6,
       "wr_reciente": 71.4
     },
     {
       "coin": "XMR",
-      "horas_restantes": 3.9,
+      "horas_restantes": 3.8,
       "wr_reciente": 50.0
     }
   ],
@@ -150,7 +150,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.0016
     },
     "JTO": {
       "nivel": "VERDE",
@@ -185,7 +185,7 @@
     "kBONK": {
       "nivel": "AMBER",
       "score": 4,
-      "funding": 0.054
+      "funding": 0.0538
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -196,17 +196,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.13,
+      "vol_ratio": 1.12,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784074923051,
-      "capital": 1008.23,
-      "roi": 0.82
-    },
     {
       "t": 1784075695523,
       "capital": 1008.52,
@@ -1201,9 +1196,14 @@
       "t": 1784219639548,
       "capital": 1364.88,
       "roi": 36.49
+    },
+    {
+      "t": 1784219796505,
+      "capital": 1365.12,
+      "roi": 36.51
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-16T16:34:01.687954+00:00"
+  "updated": "2026-07-16T16:36:37.715745+00:00"
 }
