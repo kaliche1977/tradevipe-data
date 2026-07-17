@@ -2,7 +2,7 @@
   "capital": 1043.73,
   "capital_inicial": 1000.0,
   "roi": 4.37,
-  "cycle": 194,
+  "cycle": 195,
   "trades": 1082,
   "wr": 41.8,
   "grids": {
@@ -60,12 +60,12 @@
   "bloqueados": [
     {
       "coin": "XPL",
-      "horas_restantes": 2.6,
+      "horas_restantes": 2.4,
       "wr_reciente": 50.0
     },
     {
       "coin": "LIT",
-      "horas_restantes": 2.6,
+      "horas_restantes": 2.4,
       "wr_reciente": 20.0
     }
   ],
@@ -95,7 +95,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0049
+      "funding": 0.0044
     },
     "LIT": {
       "nivel": "VERDE",
@@ -115,7 +115,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0025
+      "funding": 0.0013
     },
     "XPL": {
       "nivel": "VERDE",
@@ -150,7 +150,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0038
+      "funding": 0.0024
     },
     "JTO": {
       "nivel": "VERDE",
@@ -165,7 +165,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0127
+      "funding": 0.0092
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -185,7 +185,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0118
+      "funding": 0.0142
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -196,22 +196,17 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.39,
-      "mov": 0.05
+      "vol_ratio": 1.97,
+      "mov": 0.04
     },
     {
       "coin": "STABLE",
-      "vol_ratio": 1.65,
+      "vol_ratio": 1.35,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784218416627,
-      "capital": 1364.15,
-      "roi": 36.41
-    },
     {
       "t": 1784218684057,
       "capital": 1363.79,
@@ -1206,9 +1201,14 @@
       "t": 1784307990314,
       "capital": 1043.73,
       "roi": 4.37
+    },
+    {
+      "t": 1784308638458,
+      "capital": 1043.73,
+      "roi": 4.37
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-17T17:06:30.963644+00:00"
+  "updated": "2026-07-17T17:17:19.938944+00:00"
 }
