@@ -2,7 +2,7 @@
   "capital": 1043.73,
   "capital_inicial": 1000.0,
   "roi": 4.37,
-  "cycle": 190,
+  "cycle": 191,
   "trades": 1082,
   "wr": 41.8,
   "grids": {
@@ -60,12 +60,12 @@
   "bloqueados": [
     {
       "coin": "XPL",
-      "horas_restantes": 3.4,
+      "horas_restantes": 3.2,
       "wr_reciente": 50.0
     },
     {
       "coin": "LIT",
-      "horas_restantes": 3.4,
+      "horas_restantes": 3.2,
       "wr_reciente": 20.0
     }
   ],
@@ -90,12 +90,12 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0008
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0037
+      "funding": 0.0039
     },
     "LIT": {
       "nivel": "VERDE",
@@ -115,7 +115,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0023
     },
     "XPL": {
       "nivel": "VERDE",
@@ -155,12 +155,12 @@
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "VVV": {
       "nivel": "VERDE",
@@ -185,7 +185,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0093
+      "funding": 0.0099
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -196,17 +196,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.26,
-      "mov": 0.03
+      "vol_ratio": 1.0,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784215421667,
-      "capital": 1230.3,
-      "roi": 23.03
-    },
     {
       "t": 1784215572485,
       "capital": 1230.71,
@@ -1201,9 +1196,14 @@
       "t": 1784305284067,
       "capital": 1043.73,
       "roi": 4.37
+    },
+    {
+      "t": 1784305935964,
+      "capital": 1043.73,
+      "roi": 4.37
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-17T16:21:25.926935+00:00"
+  "updated": "2026-07-17T16:32:17.120010+00:00"
 }
