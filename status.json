@@ -2,7 +2,7 @@
   "capital": 1042.01,
   "capital_inicial": 1000.0,
   "roi": 4.2,
-  "cycle": 151,
+  "cycle": 152,
   "trades": 1069,
   "wr": 41.7,
   "grids": {
@@ -60,17 +60,17 @@
   "bloqueados": [
     {
       "coin": "XPL",
-      "horas_restantes": 3.8,
+      "horas_restantes": 3.6,
       "wr_reciente": 50.0
     },
     {
       "coin": "HYPE",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.6,
       "wr_reciente": 20.0
     },
     {
       "coin": "LIT",
-      "horas_restantes": 3.8,
+      "horas_restantes": 3.6,
       "wr_reciente": 20.0
     }
   ],
@@ -100,7 +100,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0036
+      "funding": 0.004
     },
     "LIT": {
       "nivel": "VERDE",
@@ -135,7 +135,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0006
     },
     "LDO": {
       "nivel": "VERDE",
@@ -155,7 +155,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.006
+      "funding": 0.0054
     },
     "JTO": {
       "nivel": "VERDE",
@@ -165,7 +165,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0054
+      "funding": 0.0056
     },
     "VVV": {
       "nivel": "VERDE",
@@ -201,11 +201,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784199156644,
-      "capital": 1227.87,
-      "roi": 22.79
-    },
     {
       "t": 1784199562346,
       "capital": 1229.15,
@@ -1200,9 +1195,14 @@
       "t": 1784274557185,
       "capital": 1042.01,
       "roi": 4.2
+    },
+    {
+      "t": 1784275183086,
+      "capital": 1042.01,
+      "roi": 4.2
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-17T07:49:18.135530+00:00"
+  "updated": "2026-07-17T07:59:43.747560+00:00"
 }
