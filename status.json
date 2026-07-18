@@ -1,104 +1,53 @@
 {
-  "capital": 1070.58,
+  "capital": 1004.08,
   "capital_inicial": 1000.0,
-  "roi": 7.06,
-  "cycle": 252,
-  "trades": 1978,
-  "wr": 41.1,
+  "roi": 0.41,
+  "cycle": 1,
+  "trades": 907,
+  "wr": 38.9,
   "grids": {
-    "XPL": {
-      "center": 0.085782,
-      "pnl": 4.24,
-      "size_usd": 92.61,
+    "VVV": {
+      "center": 11.691,
+      "pnl": 0,
+      "size_usd": 196.8,
       "activas": 0,
-      "tp": 51,
-      "sl": 71,
-      "long": 69,
-      "short": 106
+      "tp": 0,
+      "sl": 0,
+      "long": 0,
+      "short": 0
     },
-    "kPEPE": {
-      "center": 0.002734,
-      "pnl": 2.4,
-      "size_usd": 185.21,
-      "activas": 1,
-      "tp": 3,
-      "sl": 7,
-      "long": 11,
-      "short": 6
-    },
-    "JTO": {
-      "center": 0.56064,
-      "pnl": 2.62,
-      "size_usd": 92.61,
+    "GRASS": {
+      "center": 0.35369,
+      "pnl": 0,
+      "size_usd": 196.8,
       "activas": 0,
-      "tp": 21,
-      "sl": 52,
-      "long": 51,
-      "short": 37
-    },
-    "NEAR": {
-      "center": 1.925,
-      "pnl": 1.66,
-      "size_usd": 185.21,
-      "activas": 1,
-      "tp": 18,
-      "sl": 64,
-      "long": 55,
-      "short": 56
-    },
-    "FARTCOIN": {
-      "center": 0.13471,
-      "pnl": -1.41,
-      "size_usd": 92.61,
-      "activas": 0,
-      "tp": 28,
-      "sl": 68,
-      "long": 90,
-      "short": 29
-    },
-    "SUI": {
-      "center": 0.73969,
-      "pnl": 0.06,
-      "size_usd": 92.61,
-      "activas": 0,
-      "tp": 28,
-      "sl": 64,
-      "long": 84,
-      "short": 34
+      "tp": 0,
+      "sl": 0,
+      "long": 0,
+      "short": 0
     },
     "kBONK": {
-      "center": 0.00302,
-      "pnl": -0.01,
-      "size_usd": 185.21,
-      "activas": 1,
-      "tp": 4,
-      "sl": 23,
-      "long": 22,
-      "short": 7
-    },
-    "SOL": {
-      "center": 74.895,
+      "center": 0.002991,
       "pnl": 0,
-      "size_usd": 92.61,
+      "size_usd": 196.8,
       "activas": 0,
-      "tp": 18,
-      "sl": 87,
-      "long": 95,
-      "short": 40
+      "tp": 0,
+      "sl": 0,
+      "long": 0,
+      "short": 0
+    },
+    "LIT": {
+      "center": 2.1965,
+      "pnl": 0,
+      "size_usd": 196.8,
+      "activas": 0,
+      "tp": 16,
+      "sl": 47,
+      "long": 28,
+      "short": 44
     }
   },
-  "bloqueados": [
-    {
-      "coin": "kBONK",
-      "horas_restantes": 0.2,
-      "wr_reciente": 40.0
-    },
-    {
-      "coin": "XPL",
-      "horas_restantes": 0.6,
-      "wr_reciente": 50.0
-    }
-  ],
+  "bloqueados": [],
   "pesos": {},
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
@@ -140,7 +89,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0002
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -155,7 +104,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0016
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -180,7 +129,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0045
+      "funding": 0.0037
     },
     "JTO": {
       "nivel": "VERDE",
@@ -195,7 +144,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0029
+      "funding": 0.003
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -215,7 +164,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0184
+      "funding": 0.0191
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -226,11 +175,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784227782316,
-      "capital": 1038.7,
-      "roi": 3.87
-    },
     {
       "t": 1784227836655,
       "capital": 1038.7,
@@ -1225,9 +1169,14 @@
       "t": 1784374204514,
       "capital": 1070.58,
       "roi": 7.06
+    },
+    {
+      "t": 1784374734810,
+      "capital": 1004.08,
+      "roi": 0.41
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-18T11:30:05.150727+00:00"
+  "updated": "2026-07-18T11:38:55.440676+00:00"
 }
