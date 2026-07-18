@@ -2,7 +2,7 @@
   "capital": 1003.57,
   "capital_inicial": 1000.0,
   "roi": 0.36,
-  "cycle": 14,
+  "cycle": 15,
   "trades": 922,
   "wr": 38.9,
   "grids": {
@@ -60,17 +60,17 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 2.1,
+      "horas_restantes": 1.8,
       "wr_reciente": 0.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 2.2,
+      "horas_restantes": 2.0,
       "wr_reciente": 0.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.8,
+      "horas_restantes": 3.6,
       "wr_reciente": 33.3
     }
   ],
@@ -95,7 +95,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -105,7 +105,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0013
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -115,7 +115,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0013
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -130,12 +130,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0046
+      "funding": 0.006
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0002
     },
     "LDO": {
       "nivel": "VERDE",
@@ -155,12 +155,12 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0045
     },
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0019
+      "funding": 0.002
     },
     "ADA": {
       "nivel": "VERDE",
@@ -180,7 +180,7 @@
     "TAO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0022
     },
     "GRASS": {
       "nivel": "VERDE",
@@ -190,7 +190,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0159
+      "funding": 0.0197
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -201,11 +201,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784229759726,
-      "capital": 1038.7,
-      "roi": 3.87
-    },
     {
       "t": 1784229910844,
       "capital": 1038.7,
@@ -1200,9 +1195,14 @@
       "t": 1784382985644,
       "capital": 1003.57,
       "roi": 0.36
+    },
+    {
+      "t": 1784383748122,
+      "capital": 1003.57,
+      "roi": 0.36
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-18T13:56:27.039953+00:00"
+  "updated": "2026-07-18T14:09:13.423554+00:00"
 }
