@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 155,
+  "cycle": 156,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -55,12 +55,12 @@
     },
     {
       "coin": "VVV",
-      "horas_restantes": 3.2,
+      "horas_restantes": 3.1,
       "wr_reciente": 40.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.2,
+      "horas_restantes": 3.1,
       "wr_reciente": 40.0
     },
     {
@@ -86,7 +86,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0005
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -121,11 +121,11 @@
     "WLD": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "LDO": {
@@ -146,7 +146,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0124
+      "funding": 0.012
     },
     "JTO": {
       "nivel": "VERDE",
@@ -156,12 +156,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.0018
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0014
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -192,11 +192,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784320738448,
-      "capital": 1047.54,
-      "roi": 4.75
-    },
     {
       "t": 1784321467939,
       "capital": 1049.48,
@@ -1191,9 +1186,14 @@
       "t": 1784490670006,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784490812826,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T19:51:10.817422+00:00"
+  "updated": "2026-07-19T19:53:33.451832+00:00"
 }
