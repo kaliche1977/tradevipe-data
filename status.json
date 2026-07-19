@@ -1,19 +1,19 @@
 {
-  "capital": 913.27,
+  "capital": 913.55,
   "capital_inicial": 1000.0,
-  "roi": -8.67,
-  "cycle": 225,
-  "trades": 4073,
-  "wr": 56.1,
+  "roi": -8.64,
+  "cycle": 227,
+  "trades": 4077,
+  "wr": 56.2,
   "grids": {
     "VVV": {
       "center": 11.684,
-      "pnl": 1.07,
+      "pnl": 1.32,
       "size_usd": 164.77,
       "activas": 0,
       "tp": 3,
       "sl": 28,
-      "long": 67,
+      "long": 69,
       "short": 37
     },
     "LIT": {
@@ -28,13 +28,13 @@
     },
     "WLD": {
       "center": 0.35788,
-      "pnl": 2.21,
+      "pnl": 2.24,
       "size_usd": 164.77,
       "activas": 0,
       "tp": 6,
       "sl": 76,
       "long": 100,
-      "short": 129
+      "short": 131
     },
     "GRASS": {
       "center": 0.35536,
@@ -50,7 +50,7 @@
   "bloqueados": [
     {
       "coin": "LIT",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.4,
       "wr_reciente": 50.0
     }
   ],
@@ -96,16 +96,16 @@
     "PUMP": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.002
+      "funding": 0.0018
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "DOGE": {
@@ -131,7 +131,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0081
+      "funding": 0.0077
     },
     "JTO": {
       "nivel": "VERDE",
@@ -177,17 +177,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 9.03,
+      "vol_ratio": 8.83,
       "mov": 0.18
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784392657362,
-      "capital": 1008.81,
-      "roi": 0.88
-    },
     {
       "t": 1784393473361,
       "capital": 1010.94,
@@ -1182,9 +1177,14 @@
       "t": 1784504053792,
       "capital": 913.27,
       "roi": -8.67
+    },
+    {
+      "t": 1784504430921,
+      "capital": 913.55,
+      "roi": -8.64
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T23:34:14.888974+00:00"
+  "updated": "2026-07-19T23:40:31.693701+00:00"
 }
