@@ -1,90 +1,60 @@
 {
-  "capital": 1097.03,
+  "capital": 1202.47,
   "capital_inicial": 1000.0,
-  "roi": 9.7,
-  "cycle": 115,
-  "trades": 1864,
-  "wr": 49.8,
+  "roi": 20.25,
+  "cycle": 116,
+  "trades": 2806,
+  "wr": 53.5,
   "grids": {
-    "ETH": {
-      "center": 1862.7,
-      "pnl": -0.02,
-      "size_usd": 133.93,
+    "KAITO": {
+      "center": 0.96009,
+      "pnl": 0,
+      "size_usd": 235.68,
       "activas": 0,
-      "tp": 9,
-      "sl": 20,
-      "long": 21,
-      "short": 16
+      "tp": 1,
+      "sl": 6,
+      "long": 9,
+      "short": 8
     },
-    "kPEPE": {
-      "center": 0.002776,
-      "pnl": -1.09,
-      "size_usd": 133.93,
+    "VVV": {
+      "center": 11.746,
+      "pnl": 0,
+      "size_usd": 235.68,
       "activas": 0,
-      "tp": 0,
-      "sl": 31,
-      "long": 39,
-      "short": 13
+      "tp": 3,
+      "sl": 18,
+      "long": 31,
+      "short": 34
     },
-    "PUMP": {
-      "center": 0.001657,
-      "pnl": 18.27,
-      "size_usd": 133.93,
+    "LIT": {
+      "center": 2.2013,
+      "pnl": 0,
+      "size_usd": 235.68,
       "activas": 0,
-      "tp": 10,
-      "sl": 68,
-      "long": 83,
-      "short": 66
+      "tp": 16,
+      "sl": 73,
+      "long": 85,
+      "short": 86
     },
-    "DOGE": {
-      "center": 0.072506,
-      "pnl": 0.21,
-      "size_usd": 133.93,
+    "WLD": {
+      "center": 0.37148,
+      "pnl": 0,
+      "size_usd": 235.68,
       "activas": 0,
-      "tp": 9,
-      "sl": 24,
-      "long": 32,
-      "short": 12
+      "tp": 6,
+      "sl": 55,
+      "long": 58,
+      "short": 91
     },
-    "XMR": {
-      "center": 331.89,
-      "pnl": -1.04,
-      "size_usd": 133.93,
+    "XPL": {
+      "center": 0.081562,
+      "pnl": 0,
+      "size_usd": 235.68,
       "activas": 0,
-      "tp": 0,
-      "sl": 31,
-      "long": 8,
-      "short": 38
-    },
-    "AAVE": {
-      "center": 89.935,
-      "pnl": 0.29,
-      "size_usd": 133.93,
-      "activas": 0,
-      "tp": 12,
-      "sl": 34,
-      "long": 30,
-      "short": 36
-    },
-    "SUI": {
-      "center": 0.74646,
-      "pnl": -0.19,
-      "size_usd": 133.93,
-      "activas": 0,
-      "tp": 8,
-      "sl": 74,
-      "long": 88,
-      "short": 74
-    },
-    "FARTCOIN": {
-      "center": 0.13365,
-      "pnl": 0.04,
-      "size_usd": 133.93,
-      "activas": 0,
-      "tp": 33,
-      "sl": 64,
-      "long": 107,
-      "short": 68
+      "tp": 22,
+      "sl": 65,
+      "long": 115,
+      "short": 64
     }
   },
   "bloqueados": [],
@@ -94,7 +64,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0006
     },
     "SOL": {
       "nivel": "VERDE",
@@ -134,7 +104,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0016
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -153,18 +123,18 @@
     },
     "SUI": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0048
+      "funding": 0.0076
     },
     "JTO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.002
+      "funding": 0.0001
     },
     "ADA": {
       "nivel": "VERDE",
@@ -174,7 +144,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0067
+      "funding": 0.0057
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -194,22 +164,17 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0024
+      "funding": 0.0005
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0013
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784287346101,
-      "capital": 1042.01,
-      "roi": 4.2
-    },
     {
       "t": 1784287970857,
       "capital": 1042.01,
@@ -1204,9 +1169,14 @@
       "t": 1784462543879,
       "capital": 1097.03,
       "roi": 9.7
+    },
+    {
+      "t": 1784464960694,
+      "capital": 1202.47,
+      "roi": 20.25
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T12:02:24.563283+00:00"
+  "updated": "2026-07-19T12:42:41.509888+00:00"
 }
