@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 157,
+  "cycle": 158,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -55,17 +55,17 @@
     },
     {
       "coin": "VVV",
-      "horas_restantes": 3.1,
+      "horas_restantes": 3.0,
       "wr_reciente": 40.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.1,
+      "horas_restantes": 3.0,
       "wr_reciente": 40.0
     },
     {
       "coin": "WLD",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.2,
       "wr_reciente": 50.0
     }
   ],
@@ -86,7 +86,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0005
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -119,9 +119,9 @@
       "funding": 0.0013
     },
     "WLD": {
-      "nivel": "AMBER",
-      "score": 3,
-      "funding": 0.0002
+      "nivel": "VERDE",
+      "score": 1,
+      "funding": 0.0001
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -145,8 +145,8 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0115
+      "score": 1,
+      "funding": 0.0111
     },
     "JTO": {
       "nivel": "VERDE",
@@ -156,12 +156,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0018
+      "funding": 0.0016
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0015
+      "funding": 0.0014
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -192,11 +192,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784322142027,
-      "capital": 1049.48,
-      "roi": 4.95
-    },
     {
       "t": 1784322941072,
       "capital": 1049.48,
@@ -1191,9 +1186,14 @@
       "t": 1784491011496,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784491200219,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T19:56:52.172895+00:00"
+  "updated": "2026-07-19T20:00:01.445246+00:00"
 }
