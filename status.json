@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 146,
+  "cycle": 147,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -50,22 +50,22 @@
   "bloqueados": [
     {
       "coin": "LIT",
-      "horas_restantes": 2.8,
+      "horas_restantes": 2.7,
       "wr_reciente": 30.0
     },
     {
       "coin": "VVV",
-      "horas_restantes": 3.6,
+      "horas_restantes": 3.5,
       "wr_reciente": 40.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.6,
+      "horas_restantes": 3.5,
       "wr_reciente": 40.0
     },
     {
       "coin": "WLD",
-      "horas_restantes": 3.9,
+      "horas_restantes": 3.8,
       "wr_reciente": 50.0
     }
   ],
@@ -86,7 +86,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0003
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -121,11 +121,11 @@
     "WLD": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0005
+      "funding": 0.0007
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "LDO": {
@@ -146,7 +146,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0165
+      "funding": 0.0158
     },
     "JTO": {
       "nivel": "VERDE",
@@ -156,7 +156,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0018
+      "funding": 0.0019
     },
     "VVV": {
       "nivel": "VERDE",
@@ -192,11 +192,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784312266771,
-      "capital": 1043.73,
-      "roi": 4.37
-    },
     {
       "t": 1784313093273,
       "capital": 1043.73,
@@ -1191,9 +1186,14 @@
       "t": 1784488966551,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784489237832,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T19:22:47.199945+00:00"
+  "updated": "2026-07-19T19:27:19.065330+00:00"
 }
