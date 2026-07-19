@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 166,
+  "cycle": 167,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -50,17 +50,17 @@
   "bloqueados": [
     {
       "coin": "LIT",
-      "horas_restantes": 1.8,
+      "horas_restantes": 1.7,
       "wr_reciente": 30.0
     },
     {
       "coin": "VVV",
-      "horas_restantes": 2.6,
+      "horas_restantes": 2.5,
       "wr_reciente": 40.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 2.6,
+      "horas_restantes": 2.5,
       "wr_reciente": 40.0
     },
     {
@@ -110,7 +110,7 @@
     },
     "PUMP": {
       "nivel": "AMBER",
-      "score": 4,
+      "score": 3,
       "funding": 0.0013
     },
     "XPL": {
@@ -192,17 +192,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.85,
-      "mov": 0.04
+      "vol_ratio": 1.73,
+      "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784328174941,
-      "capital": 1049.48,
-      "roi": 4.95
-    },
     {
       "t": 1784328824475,
       "capital": 1049.48,
@@ -1197,9 +1192,14 @@
       "t": 1784492715191,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784492858966,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T20:25:15.995680+00:00"
+  "updated": "2026-07-19T20:27:39.616104+00:00"
 }
