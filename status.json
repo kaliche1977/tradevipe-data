@@ -2,7 +2,7 @@
   "capital": 1203.06,
   "capital_inicial": 1000.0,
   "roi": 20.31,
-  "cycle": 118,
+  "cycle": 119,
   "trades": 2810,
   "wr": 53.5,
   "grids": {
@@ -64,7 +64,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0006
     },
     "SOL": {
       "nivel": "VERDE",
@@ -84,7 +84,7 @@
     "NEAR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "FARTCOIN": {
       "nivel": "VERDE",
@@ -104,7 +104,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0033
+      "funding": 0.0031
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -129,7 +129,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0066
+      "funding": 0.007
     },
     "JTO": {
       "nivel": "VERDE",
@@ -139,12 +139,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0011
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0075
+      "funding": 0.0064
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -164,28 +164,23 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0001
+      "funding": 0.0013
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0008
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.03,
-      "mov": 0.02
+      "vol_ratio": 2.26,
+      "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784289402242,
-      "capital": 1042.58,
-      "roi": 4.26
-    },
     {
       "t": 1784290030380,
       "capital": 1042.58,
@@ -1180,9 +1175,14 @@
       "t": 1784466269855,
       "capital": 1203.06,
       "roi": 20.31
+    },
+    {
+      "t": 1784467146537,
+      "capital": 1203.06,
+      "roi": 20.31
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T13:04:30.695836+00:00"
+  "updated": "2026-07-19T13:19:07.261068+00:00"
 }
