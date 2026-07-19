@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 154,
+  "cycle": 155,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -50,7 +50,7 @@
   "bloqueados": [
     {
       "coin": "LIT",
-      "horas_restantes": 2.4,
+      "horas_restantes": 2.3,
       "wr_reciente": 30.0
     },
     {
@@ -119,8 +119,8 @@
       "funding": 0.0013
     },
     "WLD": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0006
     },
     "DOGE": {
@@ -146,7 +146,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0127
+      "funding": 0.0124
     },
     "JTO": {
       "nivel": "VERDE",
@@ -192,11 +192,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784320022821,
-      "capital": 1044.39,
-      "roi": 4.44
-    },
     {
       "t": 1784320738448,
       "capital": 1047.54,
@@ -1191,9 +1186,14 @@
       "t": 1784490516461,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784490670006,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T19:48:37.066936+00:00"
+  "updated": "2026-07-19T19:51:10.817422+00:00"
 }
