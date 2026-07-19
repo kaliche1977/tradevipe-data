@@ -2,7 +2,7 @@
   "capital": 911.44,
   "capital_inicial": 1000.0,
   "roi": -8.86,
-  "cycle": 212,
+  "cycle": 213,
   "trades": 4051,
   "wr": 56.0,
   "grids": {
@@ -60,7 +60,7 @@
     },
     {
       "coin": "WLD",
-      "horas_restantes": 0.5,
+      "horas_restantes": 0.4,
       "wr_reciente": 50.0
     }
   ],
@@ -140,7 +140,7 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0085
     },
     "JTO": {
@@ -187,22 +187,17 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 7.88,
+      "vol_ratio": 8.04,
       "mov": 0.16
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.45,
+      "vol_ratio": 2.53,
       "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784382289226,
-      "capital": 1003.57,
-      "roi": 0.36
-    },
     {
       "t": 1784382985644,
       "capital": 1003.57,
@@ -1197,9 +1192,14 @@
       "t": 1784501207216,
       "capital": 911.44,
       "roi": -8.86
+    },
+    {
+      "t": 1784501398741,
+      "capital": 911.44,
+      "roi": -8.86
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T22:46:47.862972+00:00"
+  "updated": "2026-07-19T22:49:59.506599+00:00"
 }
