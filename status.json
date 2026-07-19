@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 177,
+  "cycle": 178,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -65,7 +65,7 @@
     },
     {
       "coin": "WLD",
-      "horas_restantes": 2.4,
+      "horas_restantes": 2.3,
       "wr_reciente": 50.0
     }
   ],
@@ -125,7 +125,7 @@
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "LDO": {
@@ -175,7 +175,7 @@
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kBONK": {
@@ -192,17 +192,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.18,
+      "vol_ratio": 1.22,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784335273852,
-      "capital": 1050.1,
-      "roi": 5.01
-    },
     {
       "t": 1784335911967,
       "capital": 1050.09,
@@ -1197,9 +1192,14 @@
       "t": 1784494319814,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784494465231,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T20:52:00.606559+00:00"
+  "updated": "2026-07-19T20:54:25.899777+00:00"
 }
