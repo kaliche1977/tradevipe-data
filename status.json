@@ -1,19 +1,19 @@
 {
-  "capital": 914.45,
+  "capital": 914.69,
   "capital_inicial": 1000.0,
-  "roi": -8.55,
-  "cycle": 231,
-  "trades": 4085,
+  "roi": -8.53,
+  "cycle": 232,
+  "trades": 4087,
   "wr": 56.3,
   "grids": {
     "VVV": {
       "center": 11.684,
-      "pnl": 2.17,
+      "pnl": 2.4,
       "size_usd": 164.77,
       "activas": 0,
       "tp": 3,
       "sl": 28,
-      "long": 73,
+      "long": 74,
       "short": 37
     },
     "LIT": {
@@ -28,13 +28,13 @@
     },
     "WLD": {
       "center": 0.35788,
-      "pnl": 2.29,
+      "pnl": 2.3,
       "size_usd": 164.77,
       "activas": 0,
       "tp": 6,
       "sl": 76,
       "long": 100,
-      "short": 135
+      "short": 136
     },
     "GRASS": {
       "center": 0.35536,
@@ -95,8 +95,8 @@
     },
     "PUMP": {
       "nivel": "AMBER",
-      "score": 4,
-      "funding": 0.0022
+      "score": 3,
+      "funding": 0.0025
     },
     "XPL": {
       "nivel": "VERDE",
@@ -131,7 +131,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0072
+      "funding": 0.0069
     },
     "JTO": {
       "nivel": "VERDE",
@@ -177,22 +177,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 8.15,
+      "vol_ratio": 7.87,
       "mov": 0.16
-    },
-    {
-      "coin": "CASHCAT",
-      "vol_ratio": 1.04,
-      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784397041848,
-      "capital": 1013.17,
-      "roi": 1.32
-    },
     {
       "t": 1784397921855,
       "capital": 1013.17,
@@ -1187,9 +1177,14 @@
       "t": 1784505181849,
       "capital": 914.45,
       "roi": -8.55
+    },
+    {
+      "t": 1784505326177,
+      "capital": 914.69,
+      "roi": -8.53
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T23:53:02.484662+00:00"
+  "updated": "2026-07-19T23:55:26.816778+00:00"
 }
