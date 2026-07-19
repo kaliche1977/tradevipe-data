@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 174,
+  "cycle": 175,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -55,12 +55,12 @@
     },
     {
       "coin": "VVV",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.2,
       "wr_reciente": 40.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.2,
       "wr_reciente": 40.0
     },
     {
@@ -175,7 +175,7 @@
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "kBONK": {
@@ -192,17 +192,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.14,
+      "vol_ratio": 1.13,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784333342546,
-      "capital": 1050.18,
-      "roi": 5.02
-    },
     {
       "t": 1784333973673,
       "capital": 1051.65,
@@ -1197,9 +1192,14 @@
       "t": 1784493886766,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784494031273,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T20:44:47.622191+00:00"
+  "updated": "2026-07-19T20:47:12.014996+00:00"
 }
