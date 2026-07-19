@@ -2,7 +2,7 @@
   "capital": 1008.05,
   "capital_inicial": 1000.0,
   "roi": 0.8,
-  "cycle": 73,
+  "cycle": 74,
   "trades": 985,
   "wr": 39.7,
   "grids": {
@@ -60,27 +60,27 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 3.1,
+      "horas_restantes": 3.0,
       "wr_reciente": 80.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 4.3,
+      "horas_restantes": 4.1,
       "wr_reciente": 30.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 1.6,
+      "horas_restantes": 1.4,
       "wr_reciente": 33.3
     },
     {
       "coin": "ETH",
-      "horas_restantes": 7.6,
+      "horas_restantes": 7.5,
       "wr_reciente": 10.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 4.0,
+      "horas_restantes": 3.8,
       "wr_reciente": 30.0
     }
   ],
@@ -165,7 +165,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.002
+      "funding": 0.0019
     },
     "JTO": {
       "nivel": "VERDE",
@@ -180,7 +180,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.014
+      "funding": 0.0134
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -200,7 +200,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0043
+      "funding": 0.0048
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -211,22 +211,17 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 2.59,
+      "vol_ratio": 2.52,
       "mov": 0.05
     },
     {
       "coin": "GMT",
-      "vol_ratio": 1.01,
+      "vol_ratio": 1.04,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784239323449,
-      "capital": 1038.46,
-      "roi": 3.85
-    },
     {
       "t": 1784240003893,
       "capital": 1042.44,
@@ -1221,9 +1216,14 @@
       "t": 1784428855403,
       "capital": 1008.05,
       "roi": 0.8
+    },
+    {
+      "t": 1784429488948,
+      "capital": 1008.05,
+      "roi": 0.8
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T02:40:56.023265+00:00"
+  "updated": "2026-07-19T02:51:29.644428+00:00"
 }
