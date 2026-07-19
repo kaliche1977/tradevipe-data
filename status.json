@@ -2,7 +2,7 @@
   "capital": 911.44,
   "capital_inicial": 1000.0,
   "roi": -8.86,
-  "cycle": 210,
+  "cycle": 211,
   "trades": 4051,
   "wr": 56.0,
   "grids": {
@@ -141,7 +141,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0082
+      "funding": 0.0083
     },
     "JTO": {
       "nivel": "VERDE",
@@ -187,22 +187,17 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 7.78,
+      "vol_ratio": 7.79,
       "mov": 0.16
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 2.17,
-      "mov": 0.04
+      "vol_ratio": 2.32,
+      "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784380996229,
-      "capital": 1004.63,
-      "roi": 0.46
-    },
     {
       "t": 1784381620199,
       "capital": 1004.47,
@@ -1197,9 +1192,14 @@
       "t": 1784500908772,
       "capital": 911.44,
       "roi": -8.86
+    },
+    {
+      "t": 1784501061288,
+      "capital": 911.44,
+      "roi": -8.86
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T22:41:49.391897+00:00"
+  "updated": "2026-07-19T22:44:22.552450+00:00"
 }
