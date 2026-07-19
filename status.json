@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 175,
+  "cycle": 176,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -65,7 +65,7 @@
     },
     {
       "coin": "WLD",
-      "horas_restantes": 2.5,
+      "horas_restantes": 2.4,
       "wr_reciente": 50.0
     }
   ],
@@ -192,17 +192,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.13,
+      "vol_ratio": 1.18,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784333973673,
-      "capital": 1051.65,
-      "roi": 5.16
-    },
     {
       "t": 1784334639369,
       "capital": 1051.65,
@@ -1197,9 +1192,14 @@
       "t": 1784494031273,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784494175433,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T20:47:12.014996+00:00"
+  "updated": "2026-07-19T20:49:36.076872+00:00"
 }
