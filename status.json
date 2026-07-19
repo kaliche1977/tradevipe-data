@@ -2,7 +2,7 @@
   "capital": 907.7,
   "capital_inicial": 1000.0,
   "roi": -9.23,
-  "cycle": 178,
+  "cycle": 179,
   "trades": 4047,
   "wr": 55.9,
   "grids": {
@@ -50,7 +50,7 @@
   "bloqueados": [
     {
       "coin": "LIT",
-      "horas_restantes": 1.3,
+      "horas_restantes": 1.2,
       "wr_reciente": 30.0
     },
     {
@@ -156,7 +156,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0005
     },
     "VVV": {
       "nivel": "VERDE",
@@ -192,17 +192,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.22,
-      "mov": 0.02
+      "vol_ratio": 1.31,
+      "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784335911967,
-      "capital": 1050.09,
-      "roi": 5.01
-    },
     {
       "t": 1784336544922,
       "capital": 1050.09,
@@ -1197,9 +1192,14 @@
       "t": 1784494465231,
       "capital": 907.7,
       "roi": -9.23
+    },
+    {
+      "t": 1784494611560,
+      "capital": 907.7,
+      "roi": -9.23
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-19T20:54:25.899777+00:00"
+  "updated": "2026-07-19T20:56:52.202499+00:00"
 }
