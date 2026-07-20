@@ -2,7 +2,7 @@
   "capital": 856.63,
   "capital_inicial": 1000.0,
   "roi": -14.34,
-  "cycle": 361,
+  "cycle": 362,
   "trades": 4299,
   "wr": 57.9,
   "grids": {
@@ -40,12 +40,12 @@
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 1.1,
+      "horas_restantes": 0.8,
       "wr_reciente": 30.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 2.9,
+      "horas_restantes": 2.7,
       "wr_reciente": 80.0
     }
   ],
@@ -64,7 +64,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -103,8 +103,8 @@
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0006
+      "score": 1,
+      "funding": 0.0005
     },
     "LDO": {
       "nivel": "VERDE",
@@ -119,12 +119,12 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.016
+      "funding": 0.0144
     },
     "JTO": {
       "nivel": "VERDE",
@@ -134,11 +134,11 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.002
     },
     "VVV": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "kPEPE": {
@@ -170,17 +170,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 7.44,
+      "vol_ratio": 7.34,
       "mov": 0.15
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784489605876,
-      "capital": 907.7,
-      "roi": -9.23
-    },
     {
       "t": 1784489757576,
       "capital": 907.7,
@@ -1175,9 +1170,14 @@
       "t": 1784556955847,
       "capital": 856.63,
       "roi": -14.34
+    },
+    {
+      "t": 1784557792596,
+      "capital": 856.63,
+      "roi": -14.34
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-20T14:15:56.702121+00:00"
+  "updated": "2026-07-20T14:29:54.001485+00:00"
 }
