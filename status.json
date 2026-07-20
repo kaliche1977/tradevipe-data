@@ -1,9 +1,9 @@
 {
-  "capital": 986.24,
+  "capital": 986.26,
   "capital_inicial": 1000.0,
-  "roi": -1.38,
-  "cycle": 292,
-  "trades": 4217,
+  "roi": -1.37,
+  "cycle": 293,
+  "trades": 4218,
   "wr": 57.5,
   "grids": {
     "GRASS": {
@@ -18,13 +18,13 @@
     },
     "kBONK": {
       "center": 0.002776,
-      "pnl": 37.85,
+      "pnl": 37.87,
       "size_usd": 291.1,
       "activas": 0,
       "tp": 9,
       "sl": 18,
       "long": 66,
-      "short": 61
+      "short": 62
     },
     "VVV": {
       "center": 11.703,
@@ -59,12 +59,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0005
+      "funding": 0.0004
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -104,7 +104,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "LDO": {
       "nivel": "VERDE",
@@ -113,7 +113,7 @@
     },
     "AAVE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "SUI": {
@@ -124,7 +124,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0049
+      "funding": 0.0046
     },
     "JTO": {
       "nivel": "AMBER",
@@ -170,17 +170,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.7,
+      "vol_ratio": 1.69,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784433239206,
-      "capital": 1008.05,
-      "roi": 0.8
-    },
     {
       "t": 1784433864939,
       "capital": 1008.05,
@@ -1175,9 +1170,14 @@
       "t": 1784517999945,
       "capital": 986.24,
       "roi": -1.38
+    },
+    {
+      "t": 1784518145996,
+      "capital": 986.26,
+      "roi": -1.37
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-20T03:26:40.662658+00:00"
+  "updated": "2026-07-20T03:29:06.657234+00:00"
 }
