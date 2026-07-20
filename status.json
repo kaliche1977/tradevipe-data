@@ -1,10 +1,10 @@
 {
-  "capital": 972.17,
+  "capital": 975.7,
   "capital_inicial": 1000.0,
-  "roi": -2.78,
-  "cycle": 283,
-  "trades": 4198,
-  "wr": 57.3,
+  "roi": -2.43,
+  "cycle": 284,
+  "trades": 4202,
+  "wr": 57.4,
   "grids": {
     "GRASS": {
       "center": 0.35671,
@@ -18,22 +18,22 @@
     },
     "kBONK": {
       "center": 0.002776,
-      "pnl": 23.99,
+      "pnl": 27.45,
       "size_usd": 291.1,
       "activas": 0,
       "tp": 9,
       "sl": 18,
-      "long": 62,
-      "short": 52
+      "long": 63,
+      "short": 54
     },
     "VVV": {
       "center": 11.703,
-      "pnl": 11.53,
+      "pnl": 11.6,
       "size_usd": 291.1,
       "activas": 0,
       "tp": 3,
       "sl": 29,
-      "long": 100,
+      "long": 101,
       "short": 37
     }
   },
@@ -45,7 +45,7 @@
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 2.4,
+      "horas_restantes": 2.3,
       "wr_reciente": 80.0
     }
   ],
@@ -78,7 +78,7 @@
     },
     "NEAR": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "FARTCOIN": {
@@ -124,7 +124,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0054
+      "funding": 0.0055
     },
     "JTO": {
       "nivel": "AMBER",
@@ -170,17 +170,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.46,
+      "vol_ratio": 1.44,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784427603668,
-      "capital": 1007.77,
-      "roi": 0.78
-    },
     {
       "t": 1784428229718,
       "capital": 1008.07,
@@ -1175,9 +1170,14 @@
       "t": 1784515711121,
       "capital": 972.17,
       "roi": -2.78
+    },
+    {
+      "t": 1784515859754,
+      "capital": 975.7,
+      "roi": -2.43
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-20T02:48:31.835978+00:00"
+  "updated": "2026-07-20T02:51:00.403649+00:00"
 }
