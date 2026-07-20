@@ -1,10 +1,10 @@
 {
-  "capital": 949.38,
+  "capital": 950.63,
   "capital_inicial": 1000.0,
-  "roi": -5.06,
-  "cycle": 271,
-  "trades": 4164,
-  "wr": 57.0,
+  "roi": -4.94,
+  "cycle": 272,
+  "trades": 4166,
+  "wr": 57.1,
   "grids": {
     "GRASS": {
       "center": 0.35671,
@@ -18,22 +18,22 @@
     },
     "kBONK": {
       "center": 0.002776,
-      "pnl": 6.47,
+      "pnl": 7.14,
       "size_usd": 291.1,
       "activas": 0,
       "tp": 9,
       "sl": 17,
-      "long": 50,
+      "long": 51,
       "short": 44
     },
     "VVV": {
       "center": 11.703,
-      "pnl": 6.26,
+      "pnl": 6.83,
       "size_usd": 291.1,
       "activas": 0,
       "tp": 3,
       "sl": 28,
-      "long": 86,
+      "long": 87,
       "short": 37
     }
   },
@@ -59,7 +59,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0001
     },
     "SOL": {
       "nivel": "VERDE",
@@ -170,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784420092960,
-      "capital": 1005.99,
-      "roi": 0.6
-    },
     {
       "t": 1784420721911,
       "capital": 1006.09,
@@ -1169,9 +1164,14 @@
       "t": 1784512011763,
       "capital": 949.38,
       "roi": -5.06
+    },
+    {
+      "t": 1784512165629,
+      "capital": 950.63,
+      "roi": -4.94
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-20T01:46:52.456795+00:00"
+  "updated": "2026-07-20T01:49:26.336655+00:00"
 }
