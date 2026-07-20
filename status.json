@@ -1,9 +1,9 @@
 {
-  "capital": 947.57,
+  "capital": 948.14,
   "capital_inicial": 1000.0,
-  "roi": -5.24,
-  "cycle": 269,
-  "trades": 4161,
+  "roi": -5.19,
+  "cycle": 270,
+  "trades": 4162,
   "wr": 57.0,
   "grids": {
     "GRASS": {
@@ -28,12 +28,12 @@
     },
     "VVV": {
       "center": 11.703,
-      "pnl": 5.12,
+      "pnl": 5.69,
       "size_usd": 291.1,
       "activas": 0,
       "tp": 3,
       "sl": 28,
-      "long": 84,
+      "long": 85,
       "short": 37
     }
   },
@@ -45,7 +45,7 @@
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.4,
       "wr_reciente": 80.0
     }
   ],
@@ -59,12 +59,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "SOL": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0004
+      "score": 0,
+      "funding": 0.0003
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -83,7 +83,7 @@
     },
     "FARTCOIN": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "PUMP": {
@@ -98,12 +98,12 @@
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "LDO": {
@@ -148,7 +148,7 @@
     },
     "TAO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "GRASS": {
@@ -170,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784418744857,
-      "capital": 1006.78,
-      "roi": 0.68
-    },
     {
       "t": 1784419462022,
       "capital": 1005.89,
@@ -1169,9 +1164,14 @@
       "t": 1784511713426,
       "capital": 947.57,
       "roi": -5.24
+    },
+    {
+      "t": 1784511862752,
+      "capital": 948.14,
+      "roi": -5.19
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-20T01:41:54.178833+00:00"
+  "updated": "2026-07-20T01:44:23.487877+00:00"
 }
