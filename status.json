@@ -1,9 +1,9 @@
 {
-  "capital": 945.86,
+  "capital": 946.43,
   "capital_inicial": 1000.0,
-  "roi": -5.41,
-  "cycle": 266,
-  "trades": 4158,
+  "roi": -5.36,
+  "cycle": 267,
+  "trades": 4159,
   "wr": 57.0,
   "grids": {
     "GRASS": {
@@ -28,12 +28,12 @@
     },
     "VVV": {
       "center": 11.703,
-      "pnl": 3.42,
+      "pnl": 3.99,
       "size_usd": 291.1,
       "activas": 0,
       "tp": 3,
       "sl": 28,
-      "long": 81,
+      "long": 82,
       "short": 37
     }
   },
@@ -124,7 +124,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0041
+      "funding": 0.004
     },
     "JTO": {
       "nivel": "AMBER",
@@ -167,20 +167,9 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "CASHCAT",
-      "vol_ratio": 1.03,
-      "mov": 0.02
-    }
-  ],
+  "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784416854231,
-      "capital": 1006.78,
-      "roi": 0.68
-    },
     {
       "t": 1784417479991,
       "capital": 1006.78,
@@ -1175,9 +1164,14 @@
       "t": 1784511267701,
       "capital": 945.86,
       "roi": -5.41
+    },
+    {
+      "t": 1784511417871,
+      "capital": 946.43,
+      "roi": -5.36
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-20T01:34:28.819371+00:00"
+  "updated": "2026-07-20T01:36:58.802030+00:00"
 }
