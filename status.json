@@ -1,30 +1,30 @@
 {
-  "capital": 920.05,
+  "capital": 921.48,
   "capital_inicial": 1000.0,
-  "roi": -7.99,
-  "cycle": 239,
-  "trades": 4101,
-  "wr": 56.4,
+  "roi": -7.85,
+  "cycle": 240,
+  "trades": 4104,
+  "wr": 56.5,
   "grids": {
     "GRASS": {
       "center": 0.35671,
-      "pnl": 3.98,
+      "pnl": 5.12,
       "size_usd": 365.97,
       "activas": 0,
       "tp": 2,
       "sl": 23,
       "long": 40,
-      "short": 34
+      "short": 36
     },
     "kBONK": {
       "center": 0.002776,
-      "pnl": 1.14,
+      "pnl": 1.43,
       "size_usd": 365.97,
       "activas": 0,
       "tp": 9,
       "sl": 17,
       "long": 49,
-      "short": 28
+      "short": 29
     }
   },
   "bloqueados": [
@@ -36,10 +36,8 @@
   ],
   "pesos": {
     "KAITO": 0.4,
-    "VVV": 0.16654609819916885,
-    "WLD": 0.18778667077112512,
-    "XPL": 0.05,
-    "ZEC": 0.19566723102970607
+    "GRASS": 0.2766380236305048,
+    "kBONK": 0.32336197636949515
   },
   "alerta_nivel": "AMBER",
   "alerta_detalles": {
@@ -65,7 +63,7 @@
     },
     "NEAR": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "FARTCOIN": {
@@ -75,8 +73,8 @@
     },
     "PUMP": {
       "nivel": "AMBER",
-      "score": 3,
-      "funding": 0.0036
+      "score": 4,
+      "funding": 0.0041
     },
     "XPL": {
       "nivel": "VERDE",
@@ -105,13 +103,13 @@
     },
     "SUI": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0053
+      "funding": 0.0062
     },
     "JTO": {
       "nivel": "VERDE",
@@ -163,11 +161,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784402386865,
-      "capital": 1012.73,
-      "roi": 1.27
-    },
     {
       "t": 1784403322190,
       "capital": 1012.02,
@@ -1162,9 +1155,14 @@
       "t": 1784506685713,
       "capital": 920.05,
       "roi": -7.99
+    },
+    {
+      "t": 1784506833676,
+      "capital": 921.48,
+      "roi": -7.85
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-20T00:18:06.413519+00:00"
+  "updated": "2026-07-20T00:20:34.549629+00:00"
 }
