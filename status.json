@@ -2,7 +2,7 @@
   "capital": 858.93,
   "capital_inicial": 1000.0,
   "roi": -14.11,
-  "cycle": 65,
+  "cycle": 66,
   "trades": 1182,
   "wr": 80.0,
   "grids": {
@@ -40,12 +40,12 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 3.1,
+      "horas_restantes": 3.0,
       "wr_reciente": 70.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 3.9,
+      "horas_restantes": 3.8,
       "wr_reciente": 50.0
     }
   ],
@@ -59,12 +59,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0014
+      "funding": 0.0008
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -79,7 +79,7 @@
     "NEAR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0
     },
     "FARTCOIN": {
       "nivel": "VERDE",
@@ -114,7 +114,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     },
     "SUI": {
       "nivel": "VERDE",
@@ -134,12 +134,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0026
+      "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -159,7 +159,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0052
+      "funding": 0.0026
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -170,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784525723790,
-      "capital": 904.59,
-      "roi": -9.54
-    },
     {
       "t": 1784526505614,
       "capital": 905.41,
@@ -1169,9 +1164,14 @@
       "t": 1784675025947,
       "capital": 858.93,
       "roi": -14.11
+    },
+    {
+      "t": 1784675394179,
+      "capital": 858.93,
+      "roi": -14.11
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T23:03:46.893414+00:00"
+  "updated": "2026-07-21T23:09:55.224046+00:00"
 }
