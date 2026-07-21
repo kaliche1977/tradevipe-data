@@ -1,9 +1,9 @@
 {
-  "capital": 859.13,
+  "capital": 859.07,
   "capital_inicial": 1000.0,
   "roi": -14.09,
-  "cycle": 62,
-  "trades": 1178,
+  "cycle": 63,
+  "trades": 1179,
   "wr": 80.2,
   "grids": {
     "NEAR": {
@@ -28,19 +28,19 @@
     },
     "kBONK": {
       "center": 0.003045,
-      "pnl": 0.33,
+      "pnl": 0.27,
       "size_usd": 141.05,
-      "activas": 0,
+      "activas": 1,
       "tp": 0,
-      "sl": 5,
-      "long": 41,
+      "sl": 6,
+      "long": 42,
       "short": 34
     }
   },
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.3,
       "wr_reciente": 70.0
     }
   ],
@@ -54,17 +54,17 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0028
+      "funding": 0.0027
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0014
+      "funding": 0.0013
     },
     "LIT": {
       "nivel": "VERDE",
@@ -129,7 +129,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "VVV": {
       "nivel": "VERDE",
@@ -154,7 +154,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0006
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -162,20 +162,9 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "CASHCAT",
-      "vol_ratio": 1.04,
-      "mov": 0.02
-    }
-  ],
+  "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784523749448,
-      "capital": 987.06,
-      "roi": -1.29
-    },
     {
       "t": 1784524867129,
       "capital": 990.38,
@@ -1170,9 +1159,14 @@
       "t": 1784673813181,
       "capital": 859.13,
       "roi": -14.09
+    },
+    {
+      "t": 1784674295942,
+      "capital": 859.07,
+      "roi": -14.09
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T22:43:34.219511+00:00"
+  "updated": "2026-07-21T22:51:37.309160+00:00"
 }
