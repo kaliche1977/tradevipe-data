@@ -2,14 +2,14 @@
   "capital": 856.98,
   "capital_inicial": 1000.0,
   "roi": -14.3,
-  "cycle": 17,
+  "cycle": 18,
   "trades": 1155,
   "wr": 80.5,
   "grids": {
     "FARTCOIN": {
       "center": 0.13996,
       "pnl": -0.02,
-      "size_usd": 311.13,
+      "size_usd": 290.9,
       "activas": 1,
       "tp": 0,
       "sl": 13,
@@ -19,23 +19,33 @@
     "AAVE": {
       "center": 94.658,
       "pnl": 0,
-      "size_usd": 155.56,
+      "size_usd": 145.45,
       "activas": 0,
       "tp": 0,
       "sl": 11,
       "long": 34,
       "short": 18
+    },
+    "ADA": {
+      "center": 0.17522,
+      "pnl": 0,
+      "size_usd": 145.45,
+      "activas": 0,
+      "tp": 0,
+      "sl": 9,
+      "long": 25,
+      "short": 35
     }
   },
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.1,
       "wr_reciente": 60.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 4.0,
+      "horas_restantes": 3.8,
       "wr_reciente": 80.0
     }
   ],
@@ -160,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784512757065,
-      "capital": 957.71,
-      "roi": -4.23
-    },
     {
       "t": 1784512906779,
       "capital": 957.4,
@@ -1159,9 +1164,14 @@
       "t": 1784647150460,
       "capital": 856.98,
       "roi": -14.3
+    },
+    {
+      "t": 1784647835804,
+      "capital": 856.98,
+      "roi": -14.3
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T15:19:11.243956+00:00"
+  "updated": "2026-07-21T15:30:36.535649+00:00"
 }
