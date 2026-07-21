@@ -1,25 +1,25 @@
 {
-  "capital": 853.85,
+  "capital": 854.45,
   "capital_inicial": 1000.0,
-  "roi": -14.61,
-  "cycle": 2,
-  "trades": 1138,
+  "roi": -14.55,
+  "cycle": 3,
+  "trades": 1139,
   "wr": 80.7,
   "grids": {
     "kBONK": {
       "center": 0.003097,
-      "pnl": 0,
-      "size_usd": 341.54,
-      "activas": 1,
+      "pnl": 0.6,
+      "size_usd": 249.04,
+      "activas": 0,
       "tp": 0,
       "sl": 3,
-      "long": 35,
+      "long": 36,
       "short": 26
     },
     "FARTCOIN": {
       "center": 0.13996,
       "pnl": 0,
-      "size_usd": 202.79,
+      "size_usd": 249.04,
       "activas": 0,
       "tp": 0,
       "sl": 12,
@@ -29,7 +29,7 @@
     "VVV": {
       "center": 13.049,
       "pnl": 0,
-      "size_usd": 202.79,
+      "size_usd": 249.04,
       "activas": 0,
       "tp": 0,
       "sl": 11,
@@ -44,12 +44,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0009
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -113,7 +113,7 @@
     },
     "JTO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "ADA": {
@@ -161,11 +161,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784510506404,
-      "capital": 943.02,
-      "roi": -5.7
-    },
     {
       "t": 1784510659455,
       "capital": 943.58,
@@ -1160,9 +1155,14 @@
       "t": 1784635745663,
       "capital": 853.85,
       "roi": -14.61
+    },
+    {
+      "t": 1784636384820,
+      "capital": 854.45,
+      "roi": -14.55
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T12:09:06.320084+00:00"
+  "updated": "2026-07-21T12:19:45.446472+00:00"
 }
