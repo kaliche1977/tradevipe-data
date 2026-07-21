@@ -1,16 +1,16 @@
 {
-  "capital": 1052.45,
+  "capital": 853.85,
   "capital_inicial": 1000.0,
-  "roi": 5.25,
-  "cycle": 1,
+  "roi": -14.61,
+  "cycle": 2,
   "trades": 1138,
   "wr": 80.7,
   "grids": {
     "kBONK": {
       "center": 0.003097,
       "pnl": 0,
-      "size_usd": 270.39,
-      "activas": 0,
+      "size_usd": 341.54,
+      "activas": 1,
       "tp": 0,
       "sl": 3,
       "long": 35,
@@ -19,7 +19,7 @@
     "FARTCOIN": {
       "center": 0.13996,
       "pnl": 0,
-      "size_usd": 270.39,
+      "size_usd": 202.79,
       "activas": 0,
       "tp": 0,
       "sl": 12,
@@ -29,7 +29,7 @@
     "VVV": {
       "center": 13.049,
       "pnl": 0,
-      "size_usd": 270.39,
+      "size_usd": 202.79,
       "activas": 0,
       "tp": 0,
       "sl": 11,
@@ -44,12 +44,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0009
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0011
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -108,12 +108,12 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
+      "score": 0,
+      "funding": 0.0036
     },
     "JTO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "ADA": {
@@ -155,17 +155,12 @@
   "watchlist": [
     {
       "coin": "VINE",
-      "vol_ratio": 1.88,
-      "mov": 0.04
+      "vol_ratio": 1.1,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784510348016,
-      "capital": 942.45,
-      "roi": -5.76
-    },
     {
       "t": 1784510506404,
       "capital": 943.02,
@@ -1160,9 +1155,14 @@
       "t": 1784635057814,
       "capital": 1052.45,
       "roi": 5.25
+    },
+    {
+      "t": 1784635745663,
+      "capital": 853.85,
+      "roi": -14.61
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T11:57:38.589324+00:00"
+  "updated": "2026-07-21T12:09:06.320084+00:00"
 }
