@@ -2,7 +2,7 @@
   "capital": 855.38,
   "capital_inicial": 1000.0,
   "roi": -14.46,
-  "cycle": 426,
+  "cycle": 427,
   "trades": 4403,
   "wr": 58.2,
   "grids": {
@@ -45,7 +45,7 @@
     },
     {
       "coin": "XMR",
-      "horas_restantes": 0.4,
+      "horas_restantes": 0.3,
       "wr_reciente": 50.0
     }
   ],
@@ -139,7 +139,7 @@
     "VVV": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0023
+      "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -170,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784501737357,
-      "capital": 911.44,
-      "roi": -8.86
-    },
     {
       "t": 1784501971794,
       "capital": 911.44,
@@ -1169,9 +1164,14 @@
       "t": 1784617485394,
       "capital": 855.38,
       "roi": -14.46
+    },
+    {
+      "t": 1784617629710,
+      "capital": 855.38,
+      "roi": -14.46
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T07:04:46.069203+00:00"
+  "updated": "2026-07-21T07:07:10.409186+00:00"
 }
