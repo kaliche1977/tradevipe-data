@@ -2,7 +2,7 @@
   "capital": 859.91,
   "capital_inicial": 1000.0,
   "roi": -14.01,
-  "cycle": 449,
+  "cycle": 450,
   "trades": 4418,
   "wr": 58.3,
   "grids": {
@@ -40,7 +40,7 @@
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 2.7,
+      "horas_restantes": 2.6,
       "wr_reciente": 80.0
     }
   ],
@@ -165,11 +165,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784506833676,
-      "capital": 921.48,
-      "roi": -7.85
-    },
     {
       "t": 1784506990846,
       "capital": 922.9,
@@ -1164,9 +1159,14 @@
       "t": 1784623359004,
       "capital": 859.91,
       "roi": -14.01
+    },
+    {
+      "t": 1784623513034,
+      "capital": 859.91,
+      "roi": -14.01
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T08:42:39.691976+00:00"
+  "updated": "2026-07-21T08:45:13.874656+00:00"
 }
