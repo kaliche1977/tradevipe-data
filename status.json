@@ -2,7 +2,7 @@
   "capital": 855.38,
   "capital_inicial": 1000.0,
   "roi": -14.46,
-  "cycle": 425,
+  "cycle": 426,
   "trades": 4403,
   "wr": 58.2,
   "grids": {
@@ -40,12 +40,12 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 0.2,
+      "horas_restantes": 0.1,
       "wr_reciente": 70.0
     },
     {
       "coin": "XMR",
-      "horas_restantes": 0.5,
+      "horas_restantes": 0.4,
       "wr_reciente": 50.0
     }
   ],
@@ -64,7 +64,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -139,7 +139,7 @@
     "VVV": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0024
+      "funding": 0.0023
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -170,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784501398741,
-      "capital": 911.44,
-      "roi": -8.86
-    },
     {
       "t": 1784501737357,
       "capital": 911.44,
@@ -1169,9 +1164,14 @@
       "t": 1784617236647,
       "capital": 855.38,
       "roi": -14.46
+    },
+    {
+      "t": 1784617485394,
+      "capital": 855.38,
+      "roi": -14.46
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T07:00:37.399176+00:00"
+  "updated": "2026-07-21T07:04:46.069203+00:00"
 }
