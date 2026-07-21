@@ -1,25 +1,25 @@
 {
-  "capital": 855.18,
+  "capital": 855.79,
   "capital_inicial": 1000.0,
-  "roi": -14.48,
-  "cycle": 4,
-  "trades": 1141,
-  "wr": 80.7,
+  "roi": -14.42,
+  "cycle": 5,
+  "trades": 1143,
+  "wr": 80.8,
   "grids": {
     "kBONK": {
       "center": 0.003097,
-      "pnl": 1.33,
-      "size_usd": 186.78,
+      "pnl": 1.94,
+      "size_usd": 178.91,
       "activas": 0,
       "tp": 0,
       "sl": 3,
-      "long": 37,
-      "short": 27
+      "long": 38,
+      "short": 28
     },
     "FARTCOIN": {
       "center": 0.13996,
       "pnl": 0,
-      "size_usd": 342.07,
+      "size_usd": 342.32,
       "activas": 1,
       "tp": 0,
       "sl": 12,
@@ -29,7 +29,7 @@
     "VVV": {
       "center": 13.049,
       "pnl": 0,
-      "size_usd": 186.78,
+      "size_usd": 178.91,
       "activas": 0,
       "tp": 0,
       "sl": 11,
@@ -108,8 +108,8 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0032
+      "score": 1,
+      "funding": 0.0025
     },
     "JTO": {
       "nivel": "VERDE",
@@ -139,7 +139,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0014
+      "funding": 0.0013
     },
     "kBONK": {
       "nivel": "VERDE",
@@ -155,17 +155,12 @@
   "watchlist": [
     {
       "coin": "VINE",
-      "vol_ratio": 1.38,
+      "vol_ratio": 1.74,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784510811473,
-      "capital": 944.15,
-      "roi": -5.58
-    },
     {
       "t": 1784510961353,
       "capital": 944.72,
@@ -1160,9 +1155,14 @@
       "t": 1784637021733,
       "capital": 855.18,
       "roi": -14.48
+    },
+    {
+      "t": 1784637830189,
+      "capital": 855.79,
+      "roi": -14.42
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T12:30:22.629758+00:00"
+  "updated": "2026-07-21T12:43:51.466994+00:00"
 }
