@@ -1,9 +1,9 @@
 {
-  "capital": 858.74,
+  "capital": 859.12,
   "capital_inicial": 1000.0,
-  "roi": -14.13,
-  "cycle": 439,
-  "trades": 4415,
+  "roi": -14.09,
+  "cycle": 440,
+  "trades": 4416,
   "wr": 58.2,
   "grids": {
     "WLD": {
@@ -18,13 +18,13 @@
     },
     "kBONK": {
       "center": 0.003067,
-      "pnl": 3.38,
+      "pnl": 3.76,
       "size_usd": 171.38,
       "activas": 0,
       "tp": 9,
       "sl": 25,
       "long": 73,
-      "short": 96
+      "short": 97
     },
     "GRASS": {
       "center": 0.36896,
@@ -165,11 +165,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784504590891,
-      "capital": 913.73,
-      "roi": -8.63
-    },
     {
       "t": 1784504746642,
       "capital": 913.97,
@@ -1164,9 +1159,14 @@
       "t": 1784620269313,
       "capital": 858.74,
       "roi": -14.13
+    },
+    {
+      "t": 1784620425917,
+      "capital": 859.12,
+      "roi": -14.09
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T07:51:10.071418+00:00"
+  "updated": "2026-07-21T07:53:46.602057+00:00"
 }
