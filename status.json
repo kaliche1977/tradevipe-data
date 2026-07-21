@@ -2,7 +2,7 @@
   "capital": 855.38,
   "capital_inicial": 1000.0,
   "roi": -14.46,
-  "cycle": 430,
+  "cycle": 431,
   "trades": 4403,
   "wr": 58.2,
   "grids": {
@@ -134,7 +134,7 @@
     "VVV": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0018
+      "funding": 0.0017
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -165,11 +165,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784502606869,
-      "capital": 911.84,
-      "roi": -8.82
-    },
     {
       "t": 1784502930402,
       "capital": 912.48,
@@ -1164,9 +1159,14 @@
       "t": 1784618067106,
       "capital": 855.38,
       "roi": -14.46
+    },
+    {
+      "t": 1784618216539,
+      "capital": 855.38,
+      "roi": -14.46
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T07:14:27.766969+00:00"
+  "updated": "2026-07-21T07:16:57.262678+00:00"
 }
