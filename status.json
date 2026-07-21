@@ -1,21 +1,11 @@
 {
-  "capital": 859.22,
+  "capital": 859.12,
   "capital_inicial": 1000.0,
-  "roi": -14.08,
-  "cycle": 24,
-  "trades": 1165,
+  "roi": -14.09,
+  "cycle": 25,
+  "trades": 1166,
   "wr": 80.3,
   "grids": {
-    "ADA": {
-      "center": 0.17522,
-      "pnl": 0.42,
-      "size_usd": 183.82,
-      "activas": 0,
-      "tp": 0,
-      "sl": 10,
-      "long": 29,
-      "short": 35
-    },
     "NEAR": {
       "center": 1.9359,
       "pnl": 2.3,
@@ -30,23 +20,28 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 1.6,
+      "horas_restantes": 1.4,
       "wr_reciente": 60.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.1,
       "wr_reciente": 80.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 2.7,
+      "horas_restantes": 2.5,
       "wr_reciente": 30.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.1,
       "wr_reciente": 80.0
+    },
+    {
+      "coin": "ADA",
+      "horas_restantes": 4.0,
+      "wr_reciente": 60.0
     }
   ],
   "pesos": {
@@ -59,7 +54,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0013
     },
     "SOL": {
       "nivel": "VERDE",
@@ -78,7 +73,7 @@
     },
     "NEAR": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "FARTCOIN": {
@@ -167,14 +162,15 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [],
+  "watchlist": [
+    {
+      "coin": "SAGA",
+      "vol_ratio": 2.09,
+      "mov": 0.04
+    }
+  ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784515711121,
-      "capital": 972.17,
-      "roi": -2.78
-    },
     {
       "t": 1784515859754,
       "capital": 975.7,
@@ -1169,9 +1165,14 @@
       "t": 1784653082824,
       "capital": 859.22,
       "roi": -14.08
+    },
+    {
+      "t": 1784653977677,
+      "capital": 859.12,
+      "roi": -14.09
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T16:58:03.525131+00:00"
+  "updated": "2026-07-21T17:12:58.304689+00:00"
 }
