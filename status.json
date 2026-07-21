@@ -1,9 +1,9 @@
 {
-  "capital": 866.19,
+  "capital": 866.42,
   "capital_inicial": 1000.0,
-  "roi": -13.38,
-  "cycle": 392,
-  "trades": 4338,
+  "roi": -13.36,
+  "cycle": 393,
+  "trades": 4340,
   "wr": 58.0,
   "grids": {
     "GRASS": {
@@ -14,33 +14,33 @@
       "tp": 2,
       "sl": 32,
       "long": 46,
-      "short": 98
+      "short": 99
     },
     "LIT": {
       "center": 2.1769,
-      "pnl": 0,
+      "pnl": 0.23,
       "size_usd": 269.96,
       "activas": 0,
       "tp": 16,
       "sl": 96,
       "long": 144,
-      "short": 136
+      "short": 137
     }
   },
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 2.0,
+      "horas_restantes": 1.8,
       "wr_reciente": 80.0
     },
     {
       "coin": "WLD",
-      "horas_restantes": 3.4,
+      "horas_restantes": 3.3,
       "wr_reciente": 80.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 0.7,
+      "horas_restantes": 0.5,
       "wr_reciente": 50.0
     }
   ],
@@ -59,7 +59,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0006
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -119,7 +119,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0022
+      "funding": 0.0013
     },
     "JTO": {
       "nivel": "VERDE",
@@ -165,17 +165,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 3.49,
-      "mov": 0.07
+      "vol_ratio": 3.96,
+      "mov": 0.08
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784494779135,
-      "capital": 907.7,
-      "roi": -9.23
-    },
     {
       "t": 1784494955347,
       "capital": 907.7,
@@ -1170,9 +1165,14 @@
       "t": 1784592830099,
       "capital": 866.19,
       "roi": -13.38
+    },
+    {
+      "t": 1784593473032,
+      "capital": 866.42,
+      "roi": -13.36
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T00:13:50.844493+00:00"
+  "updated": "2026-07-21T00:24:33.665902+00:00"
 }
