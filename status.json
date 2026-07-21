@@ -2,7 +2,7 @@
   "capital": 859.12,
   "capital_inicial": 1000.0,
   "roi": -14.09,
-  "cycle": 29,
+  "cycle": 30,
   "trades": 1166,
   "wr": 80.3,
   "grids": {
@@ -30,27 +30,27 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 0.4,
+      "horas_restantes": 0.1,
       "wr_reciente": 60.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 1.2,
+      "horas_restantes": 0.8,
       "wr_reciente": 80.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 1.5,
+      "horas_restantes": 1.2,
       "wr_reciente": 30.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 2.2,
+      "horas_restantes": 1.8,
       "wr_reciente": 80.0
     },
     {
       "coin": "ADA",
-      "horas_restantes": 3.0,
+      "horas_restantes": 2.7,
       "wr_reciente": 60.0
     }
   ],
@@ -68,13 +68,13 @@
     },
     "SOL": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0051
+      "funding": 0.0046
     },
     "LIT": {
       "nivel": "VERDE",
@@ -118,7 +118,7 @@
     },
     "AAVE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "SUI": {
@@ -175,17 +175,12 @@
   "watchlist": [
     {
       "coin": "VINE",
-      "vol_ratio": 2.03,
+      "vol_ratio": 2.0,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784516447822,
-      "capital": 986.29,
-      "roi": -1.37
-    },
     {
       "t": 1784517069142,
       "capital": 986.29,
@@ -1180,9 +1175,14 @@
       "t": 1784657366542,
       "capital": 859.12,
       "roi": -14.09
+    },
+    {
+      "t": 1784658470812,
+      "capital": 859.12,
+      "roi": -14.09
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T18:09:27.719197+00:00"
+  "updated": "2026-07-21T18:27:51.802772+00:00"
 }
