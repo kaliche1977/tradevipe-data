@@ -2,7 +2,7 @@
   "capital": 859.91,
   "capital_inicial": 1000.0,
   "roi": -14.01,
-  "cycle": 448,
+  "cycle": 449,
   "trades": 4418,
   "wr": 58.3,
   "grids": {
@@ -83,7 +83,7 @@
     },
     "PUMP": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "XPL": {
@@ -165,11 +165,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784506685713,
-      "capital": 920.05,
-      "roi": -7.99
-    },
     {
       "t": 1784506833676,
       "capital": 921.48,
@@ -1164,9 +1159,14 @@
       "t": 1784623200179,
       "capital": 859.91,
       "roi": -14.01
+    },
+    {
+      "t": 1784623359004,
+      "capital": 859.91,
+      "roi": -14.01
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T08:40:00.838568+00:00"
+  "updated": "2026-07-21T08:42:39.691976+00:00"
 }
