@@ -2,7 +2,7 @@
   "capital": 859.12,
   "capital_inicial": 1000.0,
   "roi": -14.09,
-  "cycle": 26,
+  "cycle": 27,
   "trades": 1166,
   "wr": 80.3,
   "grids": {
@@ -30,27 +30,27 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 1.1,
+      "horas_restantes": 0.8,
       "wr_reciente": 60.0
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 1.9,
+      "horas_restantes": 1.6,
       "wr_reciente": 80.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 2.2,
+      "horas_restantes": 2.0,
       "wr_reciente": 30.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 2.9,
+      "horas_restantes": 2.6,
       "wr_reciente": 80.0
     },
     {
       "coin": "ADA",
-      "horas_restantes": 3.8,
+      "horas_restantes": 3.5,
       "wr_reciente": 60.0
     }
   ],
@@ -64,12 +64,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0001
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0011
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -134,7 +134,7 @@
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0015
+      "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
@@ -175,17 +175,17 @@
   "watchlist": [
     {
       "coin": "SAGA",
-      "vol_ratio": 2.05,
-      "mov": 0.04
+      "vol_ratio": 1.72,
+      "mov": 0.03
+    },
+    {
+      "coin": "VINE",
+      "vol_ratio": 1.18,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784516008986,
-      "capital": 979.23,
-      "roi": -2.08
-    },
     {
       "t": 1784516156832,
       "capital": 982.76,
@@ -1180,9 +1180,14 @@
       "t": 1784654786049,
       "capital": 859.12,
       "roi": -14.09
+    },
+    {
+      "t": 1784655814114,
+      "capital": 859.12,
+      "roi": -14.09
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T17:26:26.775488+00:00"
+  "updated": "2026-07-21T17:43:41.103242+00:00"
 }
