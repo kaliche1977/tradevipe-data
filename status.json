@@ -1,26 +1,26 @@
 {
-  "capital": 857.02,
+  "capital": 856.99,
   "capital_inicial": 1000.0,
   "roi": -14.3,
-  "cycle": 15,
-  "trades": 1153,
-  "wr": 80.7,
+  "cycle": 16,
+  "trades": 1154,
+  "wr": 80.6,
   "grids": {
     "kBONK": {
       "center": 0.003097,
-      "pnl": 3.32,
-      "size_usd": 207.42,
+      "pnl": 3.28,
+      "size_usd": 155.56,
       "activas": 0,
       "tp": 0,
-      "sl": 3,
+      "sl": 4,
       "long": 39,
-      "short": 32
+      "short": 33
     },
     "FARTCOIN": {
       "center": 0.13996,
       "pnl": -0.02,
-      "size_usd": 207.42,
-      "activas": 0,
+      "size_usd": 311.13,
+      "activas": 1,
       "tp": 0,
       "sl": 13,
       "long": 38,
@@ -29,7 +29,7 @@
     "AAVE": {
       "center": 94.658,
       "pnl": 0,
-      "size_usd": 207.42,
+      "size_usd": 155.56,
       "activas": 0,
       "tp": 0,
       "sl": 11,
@@ -40,7 +40,7 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 3.6,
+      "horas_restantes": 3.4,
       "wr_reciente": 60.0
     }
   ],
@@ -59,7 +59,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0013
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -165,11 +165,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784512462638,
-      "capital": 953.12,
-      "roi": -4.69
-    },
     {
       "t": 1784512609361,
       "capital": 955.41,
@@ -1164,9 +1159,14 @@
       "t": 1784645841527,
       "capital": 857.02,
       "roi": -14.3
+    },
+    {
+      "t": 1784646481864,
+      "capital": 856.99,
+      "roi": -14.3
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T14:57:22.439227+00:00"
+  "updated": "2026-07-21T15:08:02.932266+00:00"
 }
