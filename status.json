@@ -2,7 +2,7 @@
   "capital": 859.91,
   "capital_inicial": 1000.0,
   "roi": -14.01,
-  "cycle": 446,
+  "cycle": 447,
   "trades": 4418,
   "wr": 58.3,
   "grids": {
@@ -165,11 +165,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784506268682,
-      "capital": 915.78,
-      "roi": -8.42
-    },
     {
       "t": 1784506424058,
       "capital": 917.2,
@@ -1164,9 +1159,14 @@
       "t": 1784622409450,
       "capital": 859.91,
       "roi": -14.01
+    },
+    {
+      "t": 1784622584535,
+      "capital": 859.91,
+      "roi": -14.01
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T08:26:50.226631+00:00"
+  "updated": "2026-07-21T08:29:45.223440+00:00"
 }
