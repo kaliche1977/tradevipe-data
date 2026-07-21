@@ -1,19 +1,19 @@
 {
-  "capital": 853.34,
+  "capital": 853.96,
   "capital_inicial": 1000.0,
-  "roi": -14.67,
-  "cycle": 421,
-  "trades": 4397,
+  "roi": -14.6,
+  "cycle": 422,
+  "trades": 4399,
   "wr": 58.1,
   "grids": {
     "KAITO": {
       "center": 0.96857,
-      "pnl": 5.19,
+      "pnl": 5.8,
       "size_usd": 176.45,
       "activas": 0,
       "tp": 1,
       "sl": 30,
-      "long": 88,
+      "long": 90,
       "short": 93
     },
     "WLD": {
@@ -40,7 +40,7 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 0.5,
+      "horas_restantes": 0.4,
       "wr_reciente": 70.0
     },
     {
@@ -139,7 +139,7 @@
     "VVV": {
       "nivel": "AMBER",
       "score": 5,
-      "funding": 0.0028
+      "funding": 0.0027
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -170,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784500763950,
-      "capital": 911.44,
-      "roi": -8.86
-    },
     {
       "t": 1784500908772,
       "capital": 911.44,
@@ -1169,9 +1164,14 @@
       "t": 1784616347037,
       "capital": 853.34,
       "roi": -14.67
+    },
+    {
+      "t": 1784616497433,
+      "capital": 853.96,
+      "roi": -14.6
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-21T06:45:47.683661+00:00"
+  "updated": "2026-07-21T06:48:18.140902+00:00"
 }
