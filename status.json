@@ -2,7 +2,7 @@
   "capital": 859.02,
   "capital_inicial": 1000.0,
   "roi": -14.1,
-  "cycle": 117,
+  "cycle": 118,
   "trades": 1208,
   "wr": 79.1,
   "grids": {
@@ -40,22 +40,22 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 1.9,
+      "horas_restantes": 1.8,
       "wr_reciente": 60.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 3.6,
+      "horas_restantes": 3.5,
       "wr_reciente": 20.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 1.2,
+      "horas_restantes": 1.1,
       "wr_reciente": 60.0
     },
     {
       "coin": "LDO",
-      "horas_restantes": 3.1,
+      "horas_restantes": 3.0,
       "wr_reciente": 30.0
     }
   ],
@@ -69,7 +69,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0004
     },
     "SOL": {
       "nivel": "VERDE",
@@ -134,7 +134,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0041
+      "funding": 0.0042
     },
     "JTO": {
       "nivel": "VERDE",
@@ -169,7 +169,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0015
+      "funding": 0.0014
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -180,11 +180,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784581027757,
-      "capital": 866.04,
-      "roi": -13.4
-    },
     {
       "t": 1784582869984,
       "capital": 866.1,
@@ -1179,9 +1174,14 @@
       "t": 1784695236895,
       "capital": 859.02,
       "roi": -14.1
+    },
+    {
+      "t": 1784695572532,
+      "capital": 859.02,
+      "roi": -14.1
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T04:40:37.565101+00:00"
+  "updated": "2026-07-22T04:46:13.894856+00:00"
 }
