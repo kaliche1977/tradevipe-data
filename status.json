@@ -2,7 +2,7 @@
   "capital": 859.02,
   "capital_inicial": 1000.0,
   "roi": -14.1,
-  "cycle": 119,
+  "cycle": 120,
   "trades": 1208,
   "wr": 79.1,
   "grids": {
@@ -45,12 +45,12 @@
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 3.4,
+      "horas_restantes": 3.3,
       "wr_reciente": 20.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 1.0,
+      "horas_restantes": 0.9,
       "wr_reciente": 60.0
     },
     {
@@ -60,9 +60,9 @@
     }
   ],
   "pesos": {
-    "ZEC": 0.38318973174631377,
-    "LDO": 0.30527180671522475,
-    "ADA": 0.31153846153846154
+    "KAITO": 0.2943221320973348,
+    "ZEC": 0.30567786790266516,
+    "NEAR": 0.4
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
@@ -74,7 +74,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -134,7 +134,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0042
+      "funding": 0.0041
     },
     "JTO": {
       "nivel": "VERDE",
@@ -169,7 +169,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.0015
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -180,22 +180,17 @@
   "watchlist": [
     {
       "coin": "VINE",
-      "vol_ratio": 1.05,
+      "vol_ratio": 1.13,
       "mov": 0.02
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.02,
+      "vol_ratio": 1.1,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784583662404,
-      "capital": 866.16,
-      "roi": -13.38
-    },
     {
       "t": 1784584347273,
       "capital": 866.23,
@@ -1190,9 +1185,14 @@
       "t": 1784695928237,
       "capital": 859.02,
       "roi": -14.1
+    },
+    {
+      "t": 1784696111776,
+      "capital": 859.02,
+      "roi": -14.1
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T04:52:08.895365+00:00"
+  "updated": "2026-07-22T04:55:12.428647+00:00"
 }
