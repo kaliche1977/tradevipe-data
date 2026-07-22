@@ -1,9 +1,9 @@
 {
-  "capital": 860.85,
+  "capital": 862.87,
   "capital_inicial": 1000.0,
-  "roi": -13.92,
-  "cycle": 198,
-  "trades": 1243,
+  "roi": -13.71,
+  "cycle": 199,
+  "trades": 1246,
   "wr": 78.4,
   "grids": {
     "TAO": {
@@ -28,24 +28,24 @@
     },
     "VVV": {
       "center": 12.5,
-      "pnl": 2.27,
+      "pnl": 4.29,
       "size_usd": 163.13,
       "activas": 0,
       "tp": 0,
       "sl": 23,
-      "long": 49,
-      "short": 71
+      "long": 51,
+      "short": 72
     }
   },
   "bloqueados": [
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 4.5,
+      "horas_restantes": 4.3,
       "wr_reciente": 20.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 2.6,
+      "horas_restantes": 2.4,
       "wr_reciente": 50.0
     }
   ],
@@ -139,7 +139,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0021
+      "funding": 0.0016
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -170,17 +170,12 @@
   "watchlist": [
     {
       "coin": "GAS",
-      "vol_ratio": 1.1,
+      "vol_ratio": 1.17,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784625362806,
-      "capital": 859.91,
-      "roi": -14.01
-    },
     {
       "t": 1784626020889,
       "capital": 859.91,
@@ -1175,9 +1170,14 @@
       "t": 1784737085903,
       "capital": 860.85,
       "roi": -13.92
+    },
+    {
+      "t": 1784737614474,
+      "capital": 862.87,
+      "roi": -13.71
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T16:18:06.611597+00:00"
+  "updated": "2026-07-22T16:26:55.301554+00:00"
 }
