@@ -1,15 +1,15 @@
 {
-  "capital": 858.63,
+  "capital": 858.81,
   "capital_inicial": 1000.0,
-  "roi": -14.14,
-  "cycle": 182,
-  "trades": 1228,
+  "roi": -14.12,
+  "cycle": 183,
+  "trades": 1229,
   "wr": 78.5,
   "grids": {
     "TAO": {
       "center": 200.89,
       "pnl": -0.0,
-      "size_usd": 343.45,
+      "size_usd": 343.47,
       "activas": 1,
       "tp": 0,
       "sl": 13,
@@ -19,7 +19,7 @@
     "ADA": {
       "center": 0.17338,
       "pnl": 0,
-      "size_usd": 343.45,
+      "size_usd": 343.47,
       "activas": 1,
       "tp": 0,
       "sl": 11,
@@ -28,24 +28,24 @@
     },
     "KAITO": {
       "center": 0.97178,
-      "pnl": 0.14,
-      "size_usd": 171.77,
+      "pnl": 0.32,
+      "size_usd": 171.73,
       "activas": 0,
       "tp": 0,
       "sl": 14,
       "long": 18,
-      "short": 45
+      "short": 46
     }
   },
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 0.7,
+      "horas_restantes": 0.4,
       "wr_reciente": 40.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 7.5,
+      "horas_restantes": 7.2,
       "wr_reciente": 20.0
     }
   ],
@@ -64,7 +64,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -170,17 +170,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.98,
+      "vol_ratio": 1.97,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784620580817,
-      "capital": 859.52,
-      "roi": -14.05
-    },
     {
       "t": 1784620742444,
       "capital": 859.91,
@@ -1175,9 +1170,14 @@
       "t": 1784726289590,
       "capital": 858.63,
       "roi": -14.14
+    },
+    {
+      "t": 1784727261477,
+      "capital": 858.81,
+      "roi": -14.12
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T13:18:10.493077+00:00"
+  "updated": "2026-07-22T13:34:22.401909+00:00"
 }
