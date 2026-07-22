@@ -2,7 +2,7 @@
   "capital": 859.02,
   "capital_inicial": 1000.0,
   "roi": -14.1,
-  "cycle": 116,
+  "cycle": 117,
   "trades": 1208,
   "wr": 79.1,
   "grids": {
@@ -40,12 +40,12 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 2.0,
+      "horas_restantes": 1.9,
       "wr_reciente": 60.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 3.7,
+      "horas_restantes": 3.6,
       "wr_reciente": 20.0
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "coin": "LDO",
-      "horas_restantes": 3.2,
+      "horas_restantes": 3.1,
       "wr_reciente": 30.0
     }
   ],
@@ -73,8 +73,8 @@
     },
     "SOL": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0008
+      "score": 1,
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -134,7 +134,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0042
+      "funding": 0.0041
     },
     "JTO": {
       "nivel": "VERDE",
@@ -169,7 +169,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0018
+      "funding": 0.0015
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -177,20 +177,9 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "VINE",
-      "vol_ratio": 1.13,
-      "mov": 0.02
-    }
-  ],
+  "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784579895541,
-      "capital": 866.21,
-      "roi": -13.38
-    },
     {
       "t": 1784581027757,
       "capital": 866.04,
@@ -1185,9 +1174,14 @@
       "t": 1784694904817,
       "capital": 859.02,
       "roi": -14.1
+    },
+    {
+      "t": 1784695236895,
+      "capital": 859.02,
+      "roi": -14.1
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T04:35:05.492591+00:00"
+  "updated": "2026-07-22T04:40:37.565101+00:00"
 }
