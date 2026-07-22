@@ -2,50 +2,60 @@
   "capital": 859.02,
   "capital_inicial": 1000.0,
   "roi": -14.1,
-  "cycle": 111,
+  "cycle": 112,
   "trades": 1208,
   "wr": 79.1,
   "grids": {
     "TAO": {
       "center": 200.89,
       "pnl": -0.0,
-      "size_usd": 178.91,
+      "size_usd": 187.85,
       "activas": 0,
       "tp": 0,
       "sl": 13,
       "long": 17,
       "short": 36
+    },
+    "ADA": {
+      "center": 0.17338,
+      "pnl": 0,
+      "size_usd": 187.85,
+      "activas": 0,
+      "tp": 0,
+      "sl": 11,
+      "long": 30,
+      "short": 35
     }
   },
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 2.8,
+      "horas_restantes": 2.6,
       "wr_reciente": 60.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 4.5,
+      "horas_restantes": 4.3,
       "wr_reciente": 20.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 2.0,
+      "horas_restantes": 1.8,
       "wr_reciente": 60.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 0.6,
+      "horas_restantes": 0.4,
       "wr_reciente": 70.0
     },
     {
       "coin": "NEAR",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.6,
       "wr_reciente": 70.0
     },
     {
       "coin": "LDO",
-      "horas_restantes": 4.0,
+      "horas_restantes": 3.8,
       "wr_reciente": 30.0
     }
   ],
@@ -59,7 +69,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0019
+      "funding": 0.0015
     },
     "SOL": {
       "nivel": "VERDE",
@@ -98,12 +108,12 @@
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "LDO": {
@@ -118,13 +128,13 @@
     },
     "SUI": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0017
+      "funding": 0.0022
     },
     "JTO": {
       "nivel": "VERDE",
@@ -134,7 +144,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "VVV": {
       "nivel": "VERDE",
@@ -170,17 +180,12 @@
   "watchlist": [
     {
       "coin": "VINE",
-      "vol_ratio": 1.36,
-      "mov": 0.03
+      "vol_ratio": 1.14,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784575064115,
-      "capital": 864.75,
-      "roi": -13.52
-    },
     {
       "t": 1784575686856,
       "capital": 864.84,
@@ -1175,9 +1180,14 @@
       "t": 1784692071028,
       "capital": 859.02,
       "roi": -14.1
+    },
+    {
+      "t": 1784692787620,
+      "capital": 859.02,
+      "roi": -14.1
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T03:47:51.667704+00:00"
+  "updated": "2026-07-22T03:59:48.289643+00:00"
 }
