@@ -1,15 +1,15 @@
 {
-  "capital": 859.05,
+  "capital": 858.58,
   "capital_inicial": 1000.0,
-  "roi": -14.09,
-  "cycle": 190,
-  "trades": 1233,
-  "wr": 78.5,
+  "roi": -14.14,
+  "cycle": 191,
+  "trades": 1235,
+  "wr": 78.4,
   "grids": {
     "TAO": {
       "center": 200.89,
       "pnl": -0.0,
-      "size_usd": 343.47,
+      "size_usd": 343.43,
       "activas": 1,
       "tp": 0,
       "sl": 13,
@@ -19,29 +19,24 @@
     "ADA": {
       "center": 0.17338,
       "pnl": 0,
-      "size_usd": 343.47,
+      "size_usd": 343.43,
       "activas": 1,
       "tp": 0,
       "sl": 11,
       "long": 30,
       "short": 35
-    },
-    "KAITO": {
-      "center": 0.97178,
-      "pnl": 0.56,
-      "size_usd": 171.73,
-      "activas": 0,
-      "tp": 0,
-      "sl": 15,
-      "long": 18,
-      "short": 50
     }
   },
   "bloqueados": [
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 6.1,
+      "horas_restantes": 5.9,
       "wr_reciente": 20.0
+    },
+    {
+      "coin": "KAITO",
+      "horas_restantes": 4.0,
+      "wr_reciente": 50.0
     }
   ],
   "pesos": {
@@ -165,17 +160,12 @@
   "watchlist": [
     {
       "coin": "BLUR",
-      "vol_ratio": 5.71,
-      "mov": 0.11
+      "vol_ratio": 5.21,
+      "mov": 0.1
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784623359004,
-      "capital": 859.91,
-      "roi": -14.01
-    },
     {
       "t": 1784623513034,
       "capital": 859.91,
@@ -1170,9 +1160,14 @@
       "t": 1784731405153,
       "capital": 859.05,
       "roi": -14.09
+    },
+    {
+      "t": 1784731996683,
+      "capital": 858.58,
+      "roi": -14.14
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T14:43:26.138316+00:00"
+  "updated": "2026-07-22T14:53:17.521484+00:00"
 }
