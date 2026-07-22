@@ -2,14 +2,14 @@
   "capital": 858.49,
   "capital_inicial": 1000.0,
   "roi": -14.15,
-  "cycle": 178,
+  "cycle": 179,
   "trades": 1227,
   "wr": 78.5,
   "grids": {
     "TAO": {
       "center": 200.89,
       "pnl": -0.0,
-      "size_usd": 343.2,
+      "size_usd": 343.4,
       "activas": 1,
       "tp": 0,
       "sl": 13,
@@ -19,23 +19,33 @@
     "ADA": {
       "center": 0.17338,
       "pnl": 0,
-      "size_usd": 343.2,
+      "size_usd": 343.4,
       "activas": 1,
       "tp": 0,
       "sl": 11,
       "long": 30,
       "short": 35
+    },
+    "KAITO": {
+      "center": 0.97178,
+      "pnl": 0,
+      "size_usd": 180.2,
+      "activas": 0,
+      "tp": 0,
+      "sl": 14,
+      "long": 18,
+      "short": 44
     }
   },
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 1.2,
+      "horas_restantes": 1.1,
       "wr_reciente": 40.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 8.0,
+      "horas_restantes": 7.9,
       "wr_reciente": 20.0
     }
   ],
@@ -54,7 +64,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -109,7 +119,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
@@ -160,17 +170,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.46,
+      "vol_ratio": 1.66,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784619953171,
-      "capital": 858.3,
-      "roi": -14.17
-    },
     {
       "t": 1784620111169,
       "capital": 858.52,
@@ -1165,9 +1170,14 @@
       "t": 1784724431625,
       "capital": 858.49,
       "roi": -14.15
+    },
+    {
+      "t": 1784724798095,
+      "capital": 858.49,
+      "roi": -14.15
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T12:47:12.376138+00:00"
+  "updated": "2026-07-22T12:53:18.790390+00:00"
 }
