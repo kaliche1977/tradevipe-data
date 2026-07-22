@@ -2,7 +2,7 @@
   "capital": 858.46,
   "capital_inicial": 1000.0,
   "roi": -14.15,
-  "cycle": 143,
+  "cycle": 144,
   "trades": 1218,
   "wr": 78.8,
   "grids": {
@@ -40,23 +40,23 @@
   "bloqueados": [
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.6,
       "wr_reciente": 20.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 3.1,
+      "horas_restantes": 3.0,
       "wr_reciente": 40.0
     },
     {
       "coin": "LDO",
-      "horas_restantes": 0.3,
+      "horas_restantes": 0.1,
       "wr_reciente": 30.0
     }
   ],
   "pesos": {
-    "KAITO": 0.2710493046776232,
-    "ZEC": 0.3289506953223767,
+    "VVV": 0.19999999999999984,
+    "ZEC": 0.4,
     "NEAR": 0.4
   },
   "alerta_nivel": "VERDE",
@@ -64,16 +64,16 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "SOL": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0006
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "LIT": {
@@ -109,7 +109,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0012
+      "funding": 0.0011
     },
     "LDO": {
       "nivel": "VERDE",
@@ -164,7 +164,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0005
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -175,11 +175,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784599351324,
-      "capital": 870.71,
-      "roi": -12.93
-    },
     {
       "t": 1784599989291,
       "capital": 870.71,
@@ -1174,9 +1169,14 @@
       "t": 1784705410143,
       "capital": 858.46,
       "roi": -14.15
+    },
+    {
+      "t": 1784706048558,
+      "capital": 858.46,
+      "roi": -14.15
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T07:30:10.774036+00:00"
+  "updated": "2026-07-22T07:40:49.358212+00:00"
 }
