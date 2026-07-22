@@ -2,7 +2,7 @@
   "capital": 858.46,
   "capital_inicial": 1000.0,
   "roi": -14.15,
-  "cycle": 145,
+  "cycle": 146,
   "trades": 1218,
   "wr": 78.8,
   "grids": {
@@ -40,18 +40,13 @@
   "bloqueados": [
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 0.5,
+      "horas_restantes": 0.4,
       "wr_reciente": 20.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 2.9,
+      "horas_restantes": 2.8,
       "wr_reciente": 40.0
-    },
-    {
-      "coin": "LDO",
-      "horas_restantes": 0.0,
-      "wr_reciente": 30.0
     }
   ],
   "pesos": {
@@ -64,16 +59,16 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0005
+      "funding": 0.0004
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "LIT": {
@@ -84,7 +79,7 @@
     "NEAR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0011
+      "funding": 0.0008
     },
     "FARTCOIN": {
       "nivel": "VERDE",
@@ -98,7 +93,7 @@
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "WLD": {
@@ -109,7 +104,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0011
     },
     "LDO": {
       "nivel": "VERDE",
@@ -164,7 +159,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0009
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -175,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784600628988,
-      "capital": 870.71,
-      "roi": -12.93
-    },
     {
       "t": 1784601255562,
       "capital": 871.24,
@@ -1174,9 +1164,14 @@
       "t": 1784706378610,
       "capital": 858.46,
       "roi": -14.15
+    },
+    {
+      "t": 1784706703096,
+      "capital": 858.46,
+      "roi": -14.15
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T07:46:19.181889+00:00"
+  "updated": "2026-07-22T07:51:43.711006+00:00"
 }
