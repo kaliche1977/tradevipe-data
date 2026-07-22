@@ -2,7 +2,7 @@
   "capital": 858.46,
   "capital_inicial": 1000.0,
   "roi": -14.15,
-  "cycle": 148,
+  "cycle": 149,
   "trades": 1218,
   "wr": 78.8,
   "grids": {
@@ -40,12 +40,12 @@
   "bloqueados": [
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 0.2,
+      "horas_restantes": 0.0,
       "wr_reciente": 20.0
     },
     {
       "coin": "KAITO",
-      "horas_restantes": 2.6,
+      "horas_restantes": 2.4,
       "wr_reciente": 40.0
     }
   ],
@@ -79,7 +79,7 @@
     "NEAR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0004
     },
     "FARTCOIN": {
       "nivel": "VERDE",
@@ -93,7 +93,7 @@
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "WLD": {
@@ -114,7 +114,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0009
     },
     "SUI": {
       "nivel": "VERDE",
@@ -170,11 +170,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784602792446,
-      "capital": 873.64,
-      "roi": -12.64
-    },
     {
       "t": 1784603630626,
       "capital": 873.59,
@@ -1169,9 +1164,14 @@
       "t": 1784707436714,
       "capital": 858.46,
       "roi": -14.15
+    },
+    {
+      "t": 1784707951379,
+      "capital": 858.46,
+      "roi": -14.15
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T08:03:57.314922+00:00"
+  "updated": "2026-07-22T08:12:31.994149+00:00"
 }
