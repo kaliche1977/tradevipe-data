@@ -2,7 +2,7 @@
   "capital": 859.18,
   "capital_inicial": 1000.0,
   "roi": -14.08,
-  "cycle": 186,
+  "cycle": 187,
   "trades": 1231,
   "wr": 78.6,
   "grids": {
@@ -40,7 +40,7 @@
   "bloqueados": [
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 6.7,
+      "horas_restantes": 6.6,
       "wr_reciente": 20.0
     }
   ],
@@ -54,12 +54,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0013
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0009
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -134,7 +134,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0023
+      "funding": 0.0025
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -143,7 +143,7 @@
     },
     "TAO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "GRASS": {
@@ -165,11 +165,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784622228655,
-      "capital": 859.91,
-      "roi": -14.01
-    },
     {
       "t": 1784622409450,
       "capital": 859.91,
@@ -1164,9 +1159,14 @@
       "t": 1784729098939,
       "capital": 859.18,
       "roi": -14.08
+    },
+    {
+      "t": 1784729436760,
+      "capital": 859.18,
+      "roi": -14.08
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T14:04:59.752664+00:00"
+  "updated": "2026-07-22T14:10:37.533949+00:00"
 }
