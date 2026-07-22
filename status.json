@@ -2,7 +2,7 @@
   "capital": 859.02,
   "capital_inicial": 1000.0,
   "roi": -14.1,
-  "cycle": 115,
+  "cycle": 116,
   "trades": 1208,
   "wr": 79.1,
   "grids": {
@@ -40,27 +40,22 @@
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 2.1,
+      "horas_restantes": 2.0,
       "wr_reciente": 60.0
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 3.8,
+      "horas_restantes": 3.7,
       "wr_reciente": 20.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 1.3,
+      "horas_restantes": 1.2,
       "wr_reciente": 60.0
     },
     {
-      "coin": "NEAR",
-      "horas_restantes": 0.1,
-      "wr_reciente": 70.0
-    },
-    {
       "coin": "LDO",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.2,
       "wr_reciente": 30.0
     }
   ],
@@ -74,11 +69,11 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0001
     },
     "SOL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0008
     },
     "ZEC": {
@@ -139,7 +134,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0041
+      "funding": 0.0042
     },
     "JTO": {
       "nivel": "VERDE",
@@ -185,22 +180,12 @@
   "watchlist": [
     {
       "coin": "VINE",
-      "vol_ratio": 1.28,
-      "mov": 0.03
-    },
-    {
-      "coin": "CASHCAT",
-      "vol_ratio": 1.04,
+      "vol_ratio": 1.13,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784578800191,
-      "capital": 866.1,
-      "roi": -13.39
-    },
     {
       "t": 1784579895541,
       "capital": 866.21,
@@ -1195,9 +1180,14 @@
       "t": 1784694575655,
       "capital": 859.02,
       "roi": -14.1
+    },
+    {
+      "t": 1784694904817,
+      "capital": 859.02,
+      "roi": -14.1
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T04:29:36.305382+00:00"
+  "updated": "2026-07-22T04:35:05.492591+00:00"
 }
