@@ -2,7 +2,7 @@
   "capital": 858.73,
   "capital_inicial": 1000.0,
   "roi": -14.13,
-  "cycle": 130,
+  "cycle": 131,
   "trades": 1216,
   "wr": 78.9,
   "grids": {
@@ -45,12 +45,12 @@
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 2.1,
+      "horas_restantes": 2.0,
       "wr_reciente": 20.0
     },
     {
       "coin": "LDO",
-      "horas_restantes": 1.6,
+      "horas_restantes": 1.5,
       "wr_reciente": 30.0
     }
   ],
@@ -69,7 +69,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0007
+      "funding": 0.0008
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -164,22 +164,23 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0004
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     }
   },
-  "watchlist": [],
+  "watchlist": [
+    {
+      "coin": "CASHCAT",
+      "vol_ratio": 1.28,
+      "mov": 0.03
+    }
+  ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784590825867,
-      "capital": 866.12,
-      "roi": -13.39
-    },
     {
       "t": 1784591471419,
       "capital": 866.32,
@@ -1174,9 +1175,14 @@
       "t": 1784700588619,
       "capital": 858.73,
       "roi": -14.13
+    },
+    {
+      "t": 1784700916848,
+      "capital": 858.73,
+      "roi": -14.13
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-22T06:09:49.262114+00:00"
+  "updated": "2026-07-22T06:15:17.478712+00:00"
 }
