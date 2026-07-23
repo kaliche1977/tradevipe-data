@@ -1,15 +1,15 @@
 {
-  "capital": 768.94,
+  "capital": 768.75,
   "capital_inicial": 1000.0,
-  "roi": -23.11,
-  "cycle": 52,
+  "roi": -23.13,
+  "cycle": 53,
   "trades": 1185,
   "wr": 76.9,
   "grids": {
     "XMR": {
       "center": 355.94,
       "pnl": 0,
-      "size_usd": 307.58,
+      "size_usd": 307.5,
       "activas": 0,
       "tp": 0,
       "sl": 8,
@@ -19,7 +19,7 @@
     "kPEPE": {
       "center": 0.002784,
       "pnl": 0,
-      "size_usd": 307.58,
+      "size_usd": 307.5,
       "activas": 0,
       "tp": 0,
       "sl": 13,
@@ -59,7 +59,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -109,7 +109,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0011
     },
     "SUI": {
       "nivel": "VERDE",
@@ -129,7 +129,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0072
+      "funding": 0.0071
     },
     "VVV": {
       "nivel": "VERDE",
@@ -149,12 +149,12 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0028
+      "funding": 0.0029
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0037
+      "funding": 0.0028
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -165,17 +165,12 @@
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.43,
+      "vol_ratio": 1.69,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784671963324,
-      "capital": 858.8,
-      "roi": -14.12
-    },
     {
       "t": 1784672330261,
       "capital": 858.8,
@@ -1170,9 +1165,14 @@
       "t": 1784848595640,
       "capital": 768.94,
       "roi": -23.11
+    },
+    {
+      "t": 1784848754027,
+      "capital": 768.75,
+      "roi": -23.13
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-23T23:16:36.343392+00:00"
+  "updated": "2026-07-23T23:19:14.626977+00:00"
 }
