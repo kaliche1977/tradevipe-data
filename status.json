@@ -1,15 +1,15 @@
 {
-  "capital": 768.01,
+  "capital": 767.96,
   "capital_inicial": 1000.0,
   "roi": -23.2,
-  "cycle": 21,
+  "cycle": 22,
   "trades": 1166,
   "wr": 77.4,
   "grids": {
     "LIT": {
       "center": 2.2102,
       "pnl": 0.67,
-      "size_usd": 307.2,
+      "size_usd": 307.18,
       "activas": 0,
       "tp": 0,
       "sl": 13,
@@ -25,7 +25,7 @@
     },
     {
       "coin": "LDO",
-      "horas_restantes": 7.3,
+      "horas_restantes": 7.2,
       "wr_reciente": 60.0
     }
   ],
@@ -78,7 +78,7 @@
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "DOGE": {
@@ -99,12 +99,12 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0007
     },
     "JTO": {
       "nivel": "VERDE",
@@ -114,7 +114,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0024
+      "funding": 0.0021
     },
     "VVV": {
       "nivel": "VERDE",
@@ -124,7 +124,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0013
     },
     "TAO": {
       "nivel": "VERDE",
@@ -139,7 +139,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0047
+      "funding": 0.0058
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -150,11 +150,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784656530336,
-      "capital": 859.12,
-      "roi": -14.09
-    },
     {
       "t": 1784657366542,
       "capital": 859.12,
@@ -1149,9 +1144,14 @@
       "t": 1784840913313,
       "capital": 768.01,
       "roi": -23.2
+    },
+    {
+      "t": 1784841147863,
+      "capital": 767.96,
+      "roi": -23.2
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-23T21:08:34.407891+00:00"
+  "updated": "2026-07-23T21:12:29.099849+00:00"
 }
