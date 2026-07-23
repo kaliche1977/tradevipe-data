@@ -2,53 +2,12 @@
   "capital": 765.09,
   "capital_inicial": 1000.0,
   "roi": -23.49,
-  "cycle": 12,
-  "trades": 3,
-  "wr": 0.0,
-  "grids": {
-    "SOL": {
-      "center": 75.605,
-      "pnl": 0,
-      "size_usd": 306.04,
-      "activas": 0,
-      "tp": 0,
-      "sl": 0,
-      "long": 0,
-      "short": 0
-    },
-    "NEAR": {
-      "center": 1.8746,
-      "pnl": 0,
-      "size_usd": 306.04,
-      "activas": 0,
-      "tp": 0,
-      "sl": 0,
-      "long": 0,
-      "short": 0
-    }
-  },
-  "bloqueados": [
-    {
-      "coin": "LIT",
-      "horas_restantes": 0.9,
-      "wr_reciente": 0
-    },
-    {
-      "coin": "HYPE",
-      "horas_restantes": 1.1,
-      "wr_reciente": 0.0
-    },
-    {
-      "coin": "FARTCOIN",
-      "horas_restantes": 7.3,
-      "wr_reciente": 0.0
-    }
-  ],
-  "pesos": {
-    "ZEC": 0.3333,
-    "SOL": 0.3333,
-    "NEAR": 0.3333
-  },
+  "cycle": 1,
+  "trades": 1156,
+  "wr": 77.2,
+  "grids": {},
+  "bloqueados": [],
+  "pesos": {},
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "HYPE": {
@@ -99,7 +58,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0015
     },
     "LDO": {
       "nivel": "VERDE",
@@ -113,13 +72,13 @@
     },
     "SUI": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0007
     },
     "JTO": {
       "nivel": "VERDE",
@@ -129,7 +88,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0016
+      "funding": 0.0021
     },
     "VVV": {
       "nivel": "VERDE",
@@ -139,7 +98,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.001
     },
     "TAO": {
       "nivel": "VERDE",
@@ -154,7 +113,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0062
+      "funding": 0.0066
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -165,11 +124,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784639396737,
-      "capital": 856.6,
-      "roi": -14.34
-    },
     {
       "t": 1784640267460,
       "capital": 856.6,
@@ -1164,9 +1118,14 @@
       "t": 1784831962712,
       "capital": 765.09,
       "roi": -23.49
+    },
+    {
+      "t": 1784832546608,
+      "capital": 765.09,
+      "roi": -23.49
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-23T18:39:23.201199+00:00"
+  "updated": "2026-07-23T18:49:07.187169+00:00"
 }
