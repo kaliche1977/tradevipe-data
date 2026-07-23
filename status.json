@@ -2,7 +2,7 @@
   "capital": 765.09,
   "capital_inicial": 1000.0,
   "roi": -23.49,
-  "cycle": 9,
+  "cycle": 10,
   "trades": 3,
   "wr": 0.0,
   "grids": {
@@ -40,7 +40,7 @@
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 7.4,
+      "horas_restantes": 7.3,
       "wr_reciente": 0.0
     }
   ],
@@ -150,7 +150,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0062
+      "funding": 0.0063
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -161,11 +161,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784637021733,
-      "capital": 855.18,
-      "roi": -14.48
-    },
     {
       "t": 1784637830189,
       "capital": 855.79,
@@ -1160,9 +1155,14 @@
       "t": 1784831576497,
       "capital": 765.09,
       "roi": -23.49
+    },
+    {
+      "t": 1784831706505,
+      "capital": 765.09,
+      "roi": -23.49
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-23T18:32:57.055740+00:00"
+  "updated": "2026-07-23T18:35:06.973175+00:00"
 }
