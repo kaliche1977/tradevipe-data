@@ -1,15 +1,15 @@
 {
-  "capital": 835.86,
+  "capital": 836.23,
   "capital_inicial": 1000.0,
-  "roi": -16.41,
-  "cycle": 200,
-  "trades": 1364,
+  "roi": -16.38,
+  "cycle": 201,
+  "trades": 1365,
   "wr": 75.7,
   "grids": {
     "ADA": {
       "center": 0.16467,
       "pnl": 0.94,
-      "size_usd": 334.34,
+      "size_usd": 275.13,
       "activas": 0,
       "tp": 0,
       "sl": 8,
@@ -19,7 +19,7 @@
     "TAO": {
       "center": 188.06,
       "pnl": 1.05,
-      "size_usd": 300.07,
+      "size_usd": 239.25,
       "activas": 0,
       "tp": 0,
       "sl": 11,
@@ -28,69 +28,69 @@
     },
     "XMR": {
       "center": 356.11,
-      "pnl": 0,
-      "size_usd": 322.57,
-      "activas": 1,
-      "tp": 0,
+      "pnl": 0.16,
+      "size_usd": 334.49,
+      "activas": 0,
+      "tp": 1,
       "sl": 11,
-      "long": 33,
+      "long": 34,
       "short": 22
     }
   },
   "bloqueados": [
     {
       "coin": "LDO",
-      "horas_restantes": 0.7,
+      "horas_restantes": 0.5,
       "wr_reciente": 40.0
     },
     {
       "coin": "NEAR",
-      "horas_restantes": 1.1,
+      "horas_restantes": 0.9,
       "wr_reciente": 50.0
     },
     {
       "coin": "VVV",
-      "horas_restantes": 5.1,
+      "horas_restantes": 4.9,
       "wr_reciente": 20.0
     },
     {
       "coin": "JTO",
-      "horas_restantes": 1.5,
+      "horas_restantes": 1.3,
       "wr_reciente": 40.0
     },
     {
       "coin": "kPEPE",
-      "horas_restantes": 0.9,
+      "horas_restantes": 0.7,
       "wr_reciente": 60.0
     },
     {
       "coin": "PUMP",
-      "horas_restantes": 3.5,
+      "horas_restantes": 3.2,
       "wr_reciente": 70.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 2.4,
+      "horas_restantes": 2.2,
       "wr_reciente": 80.0
     },
     {
       "coin": "SUI",
-      "horas_restantes": 2.4,
+      "horas_restantes": 2.2,
       "wr_reciente": 60.0
     },
     {
       "coin": "SOL",
-      "horas_restantes": 5.1,
+      "horas_restantes": 4.9,
       "wr_reciente": 60.0
     },
     {
       "coin": "HYPE",
-      "horas_restantes": 1.4,
+      "horas_restantes": 1.2,
       "wr_reciente": 60.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 2.8,
+      "horas_restantes": 2.5,
       "wr_reciente": 80.0
     }
   ],
@@ -108,8 +108,8 @@
     },
     "SOL": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0003
+      "score": 0,
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -144,16 +144,16 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0013
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0003
+      "score": 0,
+      "funding": 0.0
     },
     "LDO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "AAVE": {
@@ -164,7 +164,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.001
     },
     "XMR": {
       "nivel": "VERDE",
@@ -179,7 +179,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0008
     },
     "VVV": {
       "nivel": "VERDE",
@@ -215,27 +215,22 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 2.7,
-      "mov": 0.05
+      "vol_ratio": 8.37,
+      "mov": 0.17
     },
     {
-      "coin": "VINE",
-      "vol_ratio": 1.69,
-      "mov": 0.03
+      "coin": "CASHCAT",
+      "vol_ratio": 3.22,
+      "mov": 0.06
     },
     {
       "coin": "STX",
-      "vol_ratio": 1.61,
+      "vol_ratio": 1.49,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784729774360,
-      "capital": 859.18,
-      "roi": -14.08
-    },
     {
       "t": 1784730409675,
       "capital": 859.18,
@@ -1230,9 +1225,14 @@
       "t": 1784908703692,
       "capital": 835.86,
       "roi": -16.41
+    },
+    {
+      "t": 1784909503030,
+      "capital": 836.23,
+      "roi": -16.38
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-24T15:58:28.119287+00:00"
+  "updated": "2026-07-24T16:11:44.422237+00:00"
 }
