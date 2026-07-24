@@ -1,15 +1,15 @@
 {
-  "capital": 761.26,
+  "capital": 761.11,
   "capital_inicial": 1000.0,
-  "roi": -23.87,
-  "cycle": 252,
-  "trades": 1402,
+  "roi": -23.89,
+  "cycle": 253,
+  "trades": 1404,
   "wr": 74.9,
   "grids": {
     "GRASS": {
       "center": 0.3342,
       "pnl": 0,
-      "size_usd": 304.51,
+      "size_usd": 304.44,
       "activas": 1,
       "tp": 0,
       "sl": 18,
@@ -19,7 +19,7 @@
     "kPEPE": {
       "center": 0.002718,
       "pnl": -0.09,
-      "size_usd": 304.51,
+      "size_usd": 304.44,
       "activas": 1,
       "tp": 0,
       "sl": 18,
@@ -28,18 +28,18 @@
     },
     "LDO": {
       "center": 0.37702,
-      "pnl": 0.45,
-      "size_usd": 160.45,
+      "pnl": 0.47,
+      "size_usd": 159.0,
       "activas": 0,
       "tp": 0,
-      "sl": 24,
-      "long": 30,
+      "sl": 25,
+      "long": 32,
       "short": 40
     },
     "HYPE": {
       "center": 57.266,
       "pnl": 48.51,
-      "size_usd": 184.52,
+      "size_usd": 182.85,
       "activas": 0,
       "tp": 0,
       "sl": 19,
@@ -104,7 +104,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0008
     },
     "XPL": {
       "nivel": "VERDE",
@@ -114,7 +114,7 @@
     "WLD": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0056
+      "funding": 0.0058
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -129,12 +129,12 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0002
     },
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.001
     },
     "XMR": {
       "nivel": "VERDE",
@@ -149,7 +149,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0015
     },
     "VVV": {
       "nivel": "VERDE",
@@ -185,27 +185,22 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 12.09,
+      "vol_ratio": 12.02,
       "mov": 0.24
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 2.41,
+      "vol_ratio": 2.45,
       "mov": 0.05
     },
     {
       "coin": "STX",
-      "vol_ratio": 1.55,
+      "vol_ratio": 1.53,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784842085615,
-      "capital": 769.49,
-      "roi": -23.05
-    },
     {
       "t": 1784842425508,
       "capital": 769.49,
@@ -1200,9 +1195,14 @@
       "t": 1784933811846,
       "capital": 761.26,
       "roi": -23.87
+    },
+    {
+      "t": 1784933987575,
+      "capital": 761.11,
+      "roi": -23.89
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-24T22:56:52.762149+00:00"
+  "updated": "2026-07-24T22:59:48.504594+00:00"
 }
