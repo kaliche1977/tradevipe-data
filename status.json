@@ -2,7 +2,7 @@
   "capital": 757.98,
   "capital_inicial": 1000.0,
   "roi": -24.2,
-  "cycle": 100,
+  "cycle": 102,
   "trades": 1216,
   "wr": 76.5,
   "grids": {
@@ -50,42 +50,42 @@
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 0.9,
+      "horas_restantes": 0.7,
       "wr_reciente": 90.0
     },
     {
       "coin": "LDO",
-      "horas_restantes": 1.7,
+      "horas_restantes": 1.5,
       "wr_reciente": 60.0
     },
     {
       "coin": "LIT",
-      "horas_restantes": 3.2,
+      "horas_restantes": 3.0,
       "wr_reciente": 50.0
     },
     {
       "coin": "XMR",
-      "horas_restantes": 4.8,
+      "horas_restantes": 4.6,
       "wr_reciente": 90.0
     },
     {
       "coin": "NEAR",
-      "horas_restantes": 5.4,
+      "horas_restantes": 5.2,
       "wr_reciente": 60.0
     },
     {
       "coin": "VVV",
-      "horas_restantes": 1.7,
+      "horas_restantes": 1.5,
       "wr_reciente": 50.0
     },
     {
       "coin": "JTO",
-      "horas_restantes": 1.9,
+      "horas_restantes": 1.7,
       "wr_reciente": 50.0
     },
     {
       "coin": "kPEPE",
-      "horas_restantes": 2.0,
+      "horas_restantes": 1.8,
       "wr_reciente": 50.0
     }
   ],
@@ -99,12 +99,12 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0012
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -144,7 +144,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0009
     },
     "LDO": {
       "nivel": "VERDE",
@@ -159,7 +159,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0005
     },
     "XMR": {
       "nivel": "VERDE",
@@ -174,7 +174,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0034
+      "funding": 0.0037
     },
     "VVV": {
       "nivel": "VERDE",
@@ -199,7 +199,7 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0008
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -210,11 +210,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784688175647,
-      "capital": 859.16,
-      "roi": -14.08
-    },
     {
       "t": 1784688522323,
       "capital": 859.16,
@@ -1209,9 +1204,14 @@
       "t": 1784860754616,
       "capital": 757.98,
       "roi": -24.2
+    },
+    {
+      "t": 1784861477326,
+      "capital": 757.98,
+      "roi": -24.2
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-24T02:39:15.308232+00:00"
+  "updated": "2026-07-24T02:51:18.034718+00:00"
 }
