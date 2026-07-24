@@ -1,15 +1,15 @@
 {
-  "capital": 833.47,
+  "capital": 833.62,
   "capital_inicial": 1000.0,
-  "roi": -16.65,
-  "cycle": 223,
-  "trades": 1376,
-  "wr": 75.3,
+  "roi": -16.64,
+  "cycle": 224,
+  "trades": 1377,
+  "wr": 75.2,
   "grids": {
     "kPEPE": {
       "center": 0.002711,
       "pnl": 0,
-      "size_usd": 333.39,
+      "size_usd": 333.45,
       "activas": 1,
       "tp": 0,
       "sl": 17,
@@ -19,7 +19,7 @@
     "GRASS": {
       "center": 0.3342,
       "pnl": 0,
-      "size_usd": 255.03,
+      "size_usd": 253.53,
       "activas": 0,
       "tp": 0,
       "sl": 18,
@@ -28,39 +28,34 @@
     },
     "PUMP": {
       "center": 0.001848,
-      "pnl": 0,
-      "size_usd": 239.42,
+      "pnl": -0.03,
+      "size_usd": 238.0,
       "activas": 0,
       "tp": 0,
-      "sl": 20,
+      "sl": 21,
       "long": 62,
-      "short": 52
+      "short": 53
     }
   },
   "bloqueados": [
     {
       "coin": "LDO",
-      "horas_restantes": 1.3,
+      "horas_restantes": 1.1,
       "wr_reciente": 30.0
     },
     {
-      "coin": "XMR",
-      "horas_restantes": 0.1,
-      "wr_reciente": 60.0
-    },
-    {
       "coin": "VVV",
-      "horas_restantes": 0.7,
+      "horas_restantes": 0.5,
       "wr_reciente": 20.0
     },
     {
       "coin": "SOL",
-      "horas_restantes": 0.7,
+      "horas_restantes": 0.5,
       "wr_reciente": 60.0
     },
     {
       "coin": "ADA",
-      "horas_restantes": 2.2,
+      "horas_restantes": 2.1,
       "wr_reciente": 50.0
     }
   ],
@@ -114,7 +109,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0032
+      "funding": 0.0027
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -159,7 +154,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0002
     },
     "TAO": {
       "nivel": "VERDE",
@@ -178,34 +173,34 @@
     },
     "KAITO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 8.73,
-      "mov": 0.17
+      "vol_ratio": 8.86,
+      "mov": 0.18
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 2.99,
+      "vol_ratio": 3.09,
       "mov": 0.06
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.96,
-      "mov": 0.04
+      "vol_ratio": 1.58,
+      "mov": 0.03
+    },
+    {
+      "coin": "STX",
+      "vol_ratio": 1.19,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784831776962,
-      "capital": 765.09,
-      "roi": -23.49
-    },
     {
       "t": 1784831962712,
       "capital": 765.09,
@@ -1200,9 +1195,14 @@
       "t": 1784924796275,
       "capital": 833.47,
       "roi": -16.65
+    },
+    {
+      "t": 1784925456077,
+      "capital": 833.62,
+      "roi": -16.64
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-24T20:26:38.399298+00:00"
+  "updated": "2026-07-24T20:37:36.943836+00:00"
 }
