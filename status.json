@@ -1,25 +1,25 @@
 {
-  "capital": 835.46,
+  "capital": 837.51,
   "capital_inicial": 1000.0,
-  "roi": -16.45,
-  "cycle": 192,
-  "trades": 1347,
-  "wr": 75.6,
+  "roi": -16.25,
+  "cycle": 193,
+  "trades": 1352,
+  "wr": 75.7,
   "grids": {
     "ADA": {
       "center": 0.16467,
-      "pnl": 0.32,
-      "size_usd": 328.81,
+      "pnl": 0.63,
+      "size_usd": 335.0,
       "activas": 0,
       "tp": 0,
       "sl": 8,
-      "long": 17,
+      "long": 18,
       "short": 8
     },
     "TAO": {
       "center": 188.06,
       "pnl": 0,
-      "size_usd": 285.92,
+      "size_usd": 302.0,
       "activas": 0,
       "tp": 0,
       "sl": 11,
@@ -28,64 +28,64 @@
     },
     "PUMP": {
       "center": 0.001835,
-      "pnl": 0,
-      "size_usd": 307.36,
+      "pnl": 1.67,
+      "size_usd": 324.65,
       "activas": 0,
       "tp": 0,
       "sl": 18,
-      "long": 60,
-      "short": 46
+      "long": 61,
+      "short": 48
     },
     "LIT": {
       "center": 2.0919,
-      "pnl": 0,
-      "size_usd": 285.92,
+      "pnl": 0.4,
+      "size_usd": 302.0,
       "activas": 0,
       "tp": 0,
       "sl": 23,
       "long": 60,
-      "short": 34
+      "short": 35
     }
   },
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 0.7,
+      "horas_restantes": 0.6,
       "wr_reciente": 60.0
     },
     {
       "coin": "LDO",
-      "horas_restantes": 1.9,
+      "horas_restantes": 1.8,
       "wr_reciente": 40.0
     },
     {
       "coin": "XMR",
-      "horas_restantes": 0.5,
+      "horas_restantes": 0.4,
       "wr_reciente": 60.0
     },
     {
       "coin": "NEAR",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.2,
       "wr_reciente": 50.0
     },
     {
       "coin": "VVV",
-      "horas_restantes": 6.3,
+      "horas_restantes": 6.2,
       "wr_reciente": 20.0
     },
     {
       "coin": "JTO",
-      "horas_restantes": 2.7,
+      "horas_restantes": 2.6,
       "wr_reciente": 40.0
     },
     {
       "coin": "kPEPE",
-      "horas_restantes": 2.1,
+      "horas_restantes": 2.0,
       "wr_reciente": 60.0
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 3.6,
+      "horas_restantes": 3.5,
       "wr_reciente": 80.0
     },
     {
@@ -95,17 +95,17 @@
     },
     {
       "coin": "SOL",
-      "horas_restantes": 6.3,
+      "horas_restantes": 6.2,
       "wr_reciente": 60.0
     },
     {
       "coin": "HYPE",
-      "horas_restantes": 2.6,
+      "horas_restantes": 2.5,
       "wr_reciente": 60.0
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.9,
+      "horas_restantes": 3.8,
       "wr_reciente": 80.0
     }
   ],
@@ -163,8 +163,8 @@
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0004
+      "score": 0,
+      "funding": 0.0003
     },
     "LDO": {
       "nivel": "VERDE",
@@ -179,7 +179,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0015
+      "funding": 0.0014
     },
     "XMR": {
       "nivel": "VERDE",
@@ -194,7 +194,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.001
     },
     "VVV": {
       "nivel": "VERDE",
@@ -204,7 +204,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0011
+      "funding": 0.001
     },
     "TAO": {
       "nivel": "VERDE",
@@ -223,7 +223,7 @@
     },
     "KAITO": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     }
   },
@@ -236,11 +236,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784725644973,
-      "capital": 858.49,
-      "roi": -14.15
-    },
     {
       "t": 1784726289590,
       "capital": 858.63,
@@ -1235,9 +1230,14 @@
       "t": 1784904568526,
       "capital": 835.46,
       "roi": -16.45
+    },
+    {
+      "t": 1784904804441,
+      "capital": 837.51,
+      "roi": -16.25
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-24T14:49:29.562256+00:00"
+  "updated": "2026-07-24T14:53:31.537612+00:00"
 }
