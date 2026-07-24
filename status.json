@@ -1,15 +1,15 @@
 {
-  "capital": 758.0,
+  "capital": 758.02,
   "capital_inicial": 1000.0,
   "roi": -24.2,
-  "cycle": 92,
+  "cycle": 93,
   "trades": 1215,
   "wr": 76.5,
   "grids": {
     "PUMP": {
       "center": 0.001836,
       "pnl": 5.46,
-      "size_usd": 303.2,
+      "size_usd": 303.21,
       "activas": 0,
       "tp": 0,
       "sl": 14,
@@ -19,7 +19,7 @@
     "AAVE": {
       "center": 95.057,
       "pnl": 0,
-      "size_usd": 303.2,
+      "size_usd": 303.21,
       "activas": 0,
       "tp": 0,
       "sl": 19,
@@ -29,8 +29,8 @@
     "SUI": {
       "center": 0.7387,
       "pnl": 0,
-      "size_usd": 303.2,
-      "activas": 0,
+      "size_usd": 303.21,
+      "activas": 1,
       "tp": 0,
       "sl": 9,
       "long": 16,
@@ -50,42 +50,42 @@
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 2.2,
+      "horas_restantes": 2.0,
       "wr_reciente": 90.0
     },
     {
       "coin": "LDO",
-      "horas_restantes": 3.0,
+      "horas_restantes": 2.8,
       "wr_reciente": 60.0
     },
     {
       "coin": "LIT",
-      "horas_restantes": 4.5,
+      "horas_restantes": 4.3,
       "wr_reciente": 50.0
     },
     {
       "coin": "XMR",
-      "horas_restantes": 6.1,
+      "horas_restantes": 5.9,
       "wr_reciente": 90.0
     },
     {
       "coin": "NEAR",
-      "horas_restantes": 6.7,
+      "horas_restantes": 6.5,
       "wr_reciente": 60.0
     },
     {
       "coin": "VVV",
-      "horas_restantes": 3.0,
+      "horas_restantes": 2.8,
       "wr_reciente": 50.0
     },
     {
       "coin": "JTO",
-      "horas_restantes": 3.2,
+      "horas_restantes": 3.0,
       "wr_reciente": 50.0
     },
     {
       "coin": "kPEPE",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.1,
       "wr_reciente": 50.0
     }
   ],
@@ -104,7 +104,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0006
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -144,7 +144,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "LDO": {
       "nivel": "VERDE",
@@ -159,7 +159,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0004
     },
     "XMR": {
       "nivel": "VERDE",
@@ -210,17 +210,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.49,
+      "vol_ratio": 1.29,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784685755236,
-      "capital": 859.19,
-      "roi": -14.08
-    },
     {
       "t": 1784686098546,
       "capital": 859.19,
@@ -1215,9 +1210,14 @@
       "t": 1784856195467,
       "capital": 758.0,
       "roi": -24.2
+    },
+    {
+      "t": 1784856835439,
+      "capital": 758.02,
+      "roi": -24.2
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-24T01:23:16.243664+00:00"
+  "updated": "2026-07-24T01:33:56.106652+00:00"
 }
