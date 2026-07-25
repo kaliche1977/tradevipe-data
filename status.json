@@ -1,8 +1,8 @@
 {
-  "capital": 760.77,
+  "capital": 760.84,
   "capital_inicial": 1000.0,
   "roi": -23.92,
-  "cycle": 372,
+  "cycle": 373,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -19,11 +19,11 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0023
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "LIT": {
@@ -39,12 +39,12 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0002
     },
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0013
     },
     "XPL": {
       "nivel": "VERDE",
@@ -69,16 +69,16 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0013
     },
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "JTO": {
@@ -89,21 +89,21 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0054
+      "funding": 0.0078
     },
     "VVV": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0011
     },
     "TAO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "GRASS": {
@@ -119,33 +119,28 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0006
     }
   },
   "watchlist": [
     {
-      "coin": "ACE",
-      "vol_ratio": 3.12,
+      "coin": "SAGA",
+      "vol_ratio": 2.76,
       "mov": 0.06
     },
     {
-      "coin": "MORPHO",
-      "vol_ratio": 1.63,
-      "mov": 0.03
+      "coin": "ACE",
+      "vol_ratio": 2.47,
+      "mov": 0.05
     },
     {
-      "coin": "SAGA",
-      "vol_ratio": 1.58,
-      "mov": 0.03
+      "coin": "MORPHO",
+      "vol_ratio": 2.35,
+      "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784891959811,
-      "capital": 841.43,
-      "roi": -15.86
-    },
     {
       "t": 1784892656067,
       "capital": 848.06,
@@ -1140,9 +1135,14 @@
       "t": 1784973198727,
       "capital": 760.77,
       "roi": -23.92
+    },
+    {
+      "t": 1784973825225,
+      "capital": 760.84,
+      "roi": -23.92
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T09:53:19.391738+00:00"
+  "updated": "2026-07-25T10:03:45.917643+00:00"
 }
