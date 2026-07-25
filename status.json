@@ -1,18 +1,12 @@
 {
-  "capital": 760.37,
+  "capital": 760.66,
   "capital_inicial": 1000.0,
-  "roi": -23.96,
-  "cycle": 344,
+  "roi": -23.93,
+  "cycle": 345,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
-  "bloqueados": [
-    {
-      "coin": "VVV",
-      "horas_restantes": 0.1,
-      "wr_reciente": 10.0
-    }
-  ],
+  "bloqueados": [],
   "pesos": {
     "GRASS": 0.4,
     "KAITO": 0.22066496977410116,
@@ -25,7 +19,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0002
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -45,7 +39,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0004
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -60,12 +54,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.005
+      "funding": 0.0052
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0003
     },
     "LDO": {
       "nivel": "VERDE",
@@ -105,7 +99,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0009
     },
     "TAO": {
       "nivel": "VERDE",
@@ -124,29 +118,24 @@
     },
     "KAITO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 6.79,
-      "mov": 0.14
+      "vol_ratio": 6.52,
+      "mov": 0.13
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 2.44,
+      "vol_ratio": 2.58,
       "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784872641984,
-      "capital": 759.49,
-      "roi": -24.05
-    },
     {
       "t": 1784873404445,
       "capital": 757.28,
@@ -1141,9 +1130,14 @@
       "t": 1784957829127,
       "capital": 760.37,
       "roi": -23.96
+    },
+    {
+      "t": 1784958457379,
+      "capital": 760.66,
+      "roi": -23.93
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T05:37:09.752434+00:00"
+  "updated": "2026-07-25T05:47:38.196606+00:00"
 }
