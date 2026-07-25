@@ -1,8 +1,8 @@
 {
-  "capital": 760.6,
+  "capital": 760.36,
   "capital_inicial": 1000.0,
-  "roi": -23.94,
-  "cycle": 358,
+  "roi": -23.96,
+  "cycle": 359,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -19,7 +19,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -54,7 +54,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0073
+      "funding": 0.0071
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -74,7 +74,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
@@ -89,7 +89,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0039
+      "funding": 0.0042
     },
     "VVV": {
       "nivel": "VERDE",
@@ -99,7 +99,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0006
     },
     "TAO": {
       "nivel": "VERDE",
@@ -118,34 +118,29 @@
     },
     "KAITO": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0012
+      "score": 2,
+      "funding": 0.0002
     }
   },
   "watchlist": [
     {
-      "coin": "SAGA",
-      "vol_ratio": 2.84,
-      "mov": 0.06
+      "coin": "ACE",
+      "vol_ratio": 2.51,
+      "mov": 0.05
     },
     {
-      "coin": "ACE",
-      "vol_ratio": 2.77,
-      "mov": 0.06
+      "coin": "SAGA",
+      "vol_ratio": 2.46,
+      "mov": 0.05
     },
     {
       "coin": "VINE",
-      "vol_ratio": 1.7,
+      "vol_ratio": 1.59,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784882231002,
-      "capital": 843.31,
-      "roi": -15.67
-    },
     {
       "t": 1784882877493,
       "capital": 843.49,
@@ -1140,9 +1135,14 @@
       "t": 1784964653297,
       "capital": 760.6,
       "roi": -23.94
+    },
+    {
+      "t": 1784965281340,
+      "capital": 760.36,
+      "roi": -23.96
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T07:30:53.984812+00:00"
+  "updated": "2026-07-25T07:41:22.105308+00:00"
 }
