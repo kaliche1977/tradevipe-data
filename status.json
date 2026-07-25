@@ -1,8 +1,8 @@
 {
-  "capital": 760.58,
+  "capital": 760.49,
   "capital_inicial": 1000.0,
-  "roi": -23.94,
-  "cycle": 395,
+  "roi": -23.95,
+  "cycle": 396,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -19,7 +19,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -39,7 +39,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0019
+      "funding": 0.0004
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -54,12 +54,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0013
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0006
     },
     "LDO": {
       "nivel": "VERDE",
@@ -89,17 +89,17 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.002
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0026
+      "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0004
     },
     "TAO": {
       "nivel": "VERDE",
@@ -108,7 +108,7 @@
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kBONK": {
@@ -124,23 +124,13 @@
   },
   "watchlist": [
     {
-      "coin": "ACE",
-      "vol_ratio": 1.34,
-      "mov": 0.03
-    },
-    {
       "coin": "SAGA",
-      "vol_ratio": 1.22,
-      "mov": 0.02
+      "vol_ratio": 2.52,
+      "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784902530310,
-      "capital": 835.66,
-      "roi": -16.43
-    },
     {
       "t": 1784902731456,
       "capital": 835.22,
@@ -1135,9 +1125,14 @@
       "t": 1784987850447,
       "capital": 760.58,
       "roi": -23.94
+    },
+    {
+      "t": 1784988487836,
+      "capital": 760.49,
+      "roi": -23.95
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T13:57:31.337568+00:00"
+  "updated": "2026-07-25T14:08:08.897437+00:00"
 }
