@@ -1,46 +1,15 @@
 {
-  "capital": 761.35,
+  "capital": 761.26,
   "capital_inicial": 1000.0,
-  "roi": -23.86,
-  "cycle": 272,
-  "trades": 1404,
-  "wr": 74.9,
-  "grids": {
-    "GRASS": {
-      "center": 0.3342,
-      "pnl": 0,
-      "size_usd": 304.54,
-      "activas": 1,
-      "tp": 0,
-      "sl": 18,
-      "long": 23,
-      "short": 57
-    },
-    "kPEPE": {
-      "center": 0.002718,
-      "pnl": -0.09,
-      "size_usd": 304.54,
-      "activas": 1,
-      "tp": 0,
-      "sl": 18,
-      "long": 24,
-      "short": 39
-    },
-    "HYPE": {
-      "center": 57.266,
-      "pnl": 48.51,
-      "size_usd": 181.94,
-      "activas": 0,
-      "tp": 0,
-      "sl": 19,
-      "long": 45,
-      "short": 15
-    }
-  },
+  "roi": -23.87,
+  "cycle": 273,
+  "trades": 1406,
+  "wr": 74.8,
+  "grids": {},
   "bloqueados": [
     {
       "coin": "VVV",
-      "horas_restantes": 5.8,
+      "horas_restantes": 5.7,
       "wr_reciente": 10.0
     },
     {
@@ -64,7 +33,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0006
+      "funding": 0.0007
     },
     "SOL": {
       "nivel": "VERDE",
@@ -74,7 +43,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "LIT": {
       "nivel": "VERDE",
@@ -104,7 +73,7 @@
     "WLD": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0093
+      "funding": 0.0094
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -139,7 +108,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0017
+      "funding": 0.0016
     },
     "VVV": {
       "nivel": "VERDE",
@@ -169,33 +138,23 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0005
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 9.55,
-      "mov": 0.19
+      "vol_ratio": 6.86,
+      "mov": 0.14
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 2.95,
-      "mov": 0.06
-    },
-    {
-      "coin": "STX",
-      "vol_ratio": 1.43,
-      "mov": 0.03
+      "vol_ratio": 4.56,
+      "mov": 0.09
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784847783797,
-      "capital": 769.25,
-      "roi": -23.07
-    },
     {
       "t": 1784847946165,
       "capital": 769.33,
@@ -1190,9 +1149,14 @@
       "t": 1784937475633,
       "capital": 761.35,
       "roi": -23.86
+    },
+    {
+      "t": 1784937676616,
+      "capital": 761.26,
+      "roi": -23.87
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-24T23:57:56.669459+00:00"
+  "updated": "2026-07-25T00:01:17.483914+00:00"
 }
