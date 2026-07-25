@@ -1,33 +1,49 @@
 {
-  "capital": 759.67,
+  "capital": 759.63,
   "capital_inicial": 1000.0,
-  "roi": -24.03,
-  "cycle": 494,
-  "trades": 1449,
-  "wr": 74.7,
+  "roi": -24.04,
+  "cycle": 495,
+  "trades": 1450,
+  "wr": 74.6,
   "grids": {
-    "WLD": {
-      "center": 0.34834,
-      "pnl": 6.55,
-      "size_usd": 303.87,
-      "activas": 0,
-      "tp": 0,
-      "sl": 18,
-      "long": 24,
-      "short": 44
-    },
     "SUI": {
       "center": 0.71242,
       "pnl": 0,
-      "size_usd": 303.87,
+      "size_usd": 232.2,
       "activas": 0,
       "tp": 0,
       "sl": 17,
       "long": 20,
       "short": 43
+    },
+    "GRASS": {
+      "center": 0.34253,
+      "pnl": 0,
+      "size_usd": 248.4,
+      "activas": 0,
+      "tp": 0,
+      "sl": 21,
+      "long": 24,
+      "short": 67
+    },
+    "JTO": {
+      "center": 0.59413,
+      "pnl": 0,
+      "size_usd": 216.0,
+      "activas": 0,
+      "tp": 0,
+      "sl": 15,
+      "long": 53,
+      "short": 19
     }
   },
-  "bloqueados": [],
+  "bloqueados": [
+    {
+      "coin": "WLD",
+      "horas_restantes": 4.0,
+      "wr_reciente": 60.0
+    }
+  ],
   "pesos": {
     "GRASS": 0.3920254261774054,
     "KAITO": 0.2528676683039584,
@@ -40,7 +56,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0011
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -95,7 +111,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0004
     },
     "XMR": {
       "nivel": "VERDE",
@@ -110,7 +126,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0028
+      "funding": 0.0031
     },
     "VVV": {
       "nivel": "VERDE",
@@ -130,7 +146,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0018
+      "funding": 0.0022
     },
     "kBONK": {
       "nivel": "VERDE",
@@ -140,23 +156,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0005
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.61,
+      "vol_ratio": 1.62,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784940531930,
-      "capital": 761.05,
-      "roi": -23.9
-    },
     {
       "t": 1784940687519,
       "capital": 760.95,
@@ -1151,9 +1162,14 @@
       "t": 1785019215731,
       "capital": 759.67,
       "roi": -24.03
+    },
+    {
+      "t": 1785019919585,
+      "capital": 759.63,
+      "roi": -24.04
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T22:40:16.526383+00:00"
+  "updated": "2026-07-25T22:52:01.010202+00:00"
 }
