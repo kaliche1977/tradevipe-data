@@ -1,8 +1,8 @@
 {
-  "capital": 760.92,
+  "capital": 760.93,
   "capital_inicial": 1000.0,
   "roi": -23.91,
-  "cycle": 310,
+  "cycle": 311,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -68,7 +68,7 @@
     "WLD": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0046
+      "funding": 0.0047
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -88,7 +88,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "XMR": {
       "nivel": "VERDE",
@@ -139,27 +139,22 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 5.48,
+      "vol_ratio": 5.36,
       "mov": 0.11
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 3.42,
+      "vol_ratio": 3.43,
       "mov": 0.07
     },
     {
       "coin": "VINE",
-      "vol_ratio": 1.81,
+      "vol_ratio": 1.8,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784854121770,
-      "capital": 758.41,
-      "roi": -24.16
-    },
     {
       "t": 1784854279802,
       "capital": 758.41,
@@ -1154,9 +1149,14 @@
       "t": 1784943208858,
       "capital": 760.92,
       "roi": -23.91
+    },
+    {
+      "t": 1784943359633,
+      "capital": 760.93,
+      "roi": -23.91
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T01:33:29.682976+00:00"
+  "updated": "2026-07-25T01:36:00.464235+00:00"
 }
