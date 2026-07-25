@@ -1,8 +1,8 @@
 {
-  "capital": 760.7,
+  "capital": 760.79,
   "capital_inicial": 1000.0,
-  "roi": -23.93,
-  "cycle": 376,
+  "roi": -23.92,
+  "cycle": 377,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -19,7 +19,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0002
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -39,12 +39,12 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0012
     },
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0007
     },
     "XPL": {
       "nivel": "VERDE",
@@ -74,7 +74,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "XMR": {
       "nivel": "VERDE",
@@ -89,7 +89,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0069
+      "funding": 0.0064
     },
     "VVV": {
       "nivel": "VERDE",
@@ -125,27 +125,22 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 3.28,
+      "vol_ratio": 3.38,
       "mov": 0.07
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 2.72,
-      "mov": 0.05
+      "vol_ratio": 2.76,
+      "mov": 0.06
     },
     {
       "coin": "MORPHO",
-      "vol_ratio": 2.19,
+      "vol_ratio": 2.04,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784895577050,
-      "capital": 840.84,
-      "roi": -15.92
-    },
     {
       "t": 1784896252288,
       "capital": 841.07,
@@ -1140,9 +1135,14 @@
       "t": 1784975710917,
       "capital": 760.7,
       "roi": -23.93
+    },
+    {
+      "t": 1784976337634,
+      "capital": 760.79,
+      "roi": -23.92
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T10:35:11.633180+00:00"
+  "updated": "2026-07-25T10:45:38.311936+00:00"
 }
