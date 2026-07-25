@@ -1,8 +1,8 @@
 {
-  "capital": 760.36,
+  "capital": 760.02,
   "capital_inicial": 1000.0,
-  "roi": -23.96,
-  "cycle": 359,
+  "roi": -24.0,
+  "cycle": 360,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -19,7 +19,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0004
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -54,12 +54,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0071
+      "funding": 0.0069
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0001
     },
     "LDO": {
       "nivel": "VERDE",
@@ -89,7 +89,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0042
+      "funding": 0.0051
     },
     "VVV": {
       "nivel": "VERDE",
@@ -99,7 +99,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0008
     },
     "TAO": {
       "nivel": "VERDE",
@@ -119,33 +119,28 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 2,
-      "funding": 0.0002
+      "funding": 0.0001
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 2.51,
+      "vol_ratio": 2.71,
       "mov": 0.05
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 2.46,
+      "vol_ratio": 2.3,
       "mov": 0.05
     },
     {
       "coin": "VINE",
-      "vol_ratio": 1.59,
+      "vol_ratio": 1.68,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784882877493,
-      "capital": 843.49,
-      "roi": -15.65
-    },
     {
       "t": 1784883522085,
       "capital": 843.74,
@@ -1140,9 +1135,14 @@
       "t": 1784965281340,
       "capital": 760.36,
       "roi": -23.96
+    },
+    {
+      "t": 1784965908048,
+      "capital": 760.02,
+      "roi": -24.0
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T07:41:22.105308+00:00"
+  "updated": "2026-07-25T07:51:48.689429+00:00"
 }
