@@ -1,8 +1,8 @@
 {
-  "capital": 760.54,
+  "capital": 760.72,
   "capital_inicial": 1000.0,
-  "roi": -23.95,
-  "cycle": 401,
+  "roi": -23.93,
+  "cycle": 402,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -19,12 +19,12 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0003
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0007
     },
     "LIT": {
       "nivel": "VERDE",
@@ -39,7 +39,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0041
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -54,12 +54,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0013
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0
+      "score": 1,
+      "funding": 0.0012
     },
     "LDO": {
       "nivel": "VERDE",
@@ -74,12 +74,12 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0007
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0039
     },
     "JTO": {
       "nivel": "VERDE",
@@ -89,7 +89,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0051
+      "funding": 0.0037
     },
     "VVV": {
       "nivel": "VERDE",
@@ -125,17 +125,12 @@
   "watchlist": [
     {
       "coin": "SAGA",
-      "vol_ratio": 2.22,
-      "mov": 0.04
+      "vol_ratio": 2.42,
+      "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784903645916,
-      "capital": 844.43,
-      "roi": -15.56
-    },
     {
       "t": 1784903808492,
       "capital": 849.45,
@@ -1130,9 +1125,14 @@
       "t": 1784991666018,
       "capital": 760.54,
       "roi": -23.95
+    },
+    {
+      "t": 1784992299961,
+      "capital": 760.72,
+      "roi": -23.93
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T15:01:06.792700+00:00"
+  "updated": "2026-07-25T15:11:40.799549+00:00"
 }
