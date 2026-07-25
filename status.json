@@ -1,8 +1,8 @@
 {
-  "capital": 761.25,
+  "capital": 760.74,
   "capital_inicial": 1000.0,
-  "roi": -23.87,
-  "cycle": 354,
+  "roi": -23.93,
+  "cycle": 355,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -54,12 +54,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0068
+      "funding": 0.0072
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "LDO": {
       "nivel": "VERDE",
@@ -89,17 +89,17 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0045
+      "funding": 0.0044
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0018
+      "funding": 0.0016
     },
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0004
     },
     "TAO": {
       "nivel": "VERDE",
@@ -119,33 +119,28 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0002
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 3.27,
-      "mov": 0.07
+      "vol_ratio": 3.15,
+      "mov": 0.06
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 2.71,
+      "vol_ratio": 2.74,
       "mov": 0.05
     },
     {
       "coin": "VINE",
-      "vol_ratio": 1.86,
+      "vol_ratio": 1.81,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784879558829,
-      "capital": 815.34,
-      "roi": -18.47
-    },
     {
       "t": 1784880192266,
       "capital": 815.96,
@@ -1140,9 +1135,14 @@
       "t": 1784963619400,
       "capital": 761.25,
       "roi": -23.87
+    },
+    {
+      "t": 1784963762728,
+      "capital": 760.74,
+      "roi": -23.93
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T07:13:40.012668+00:00"
+  "updated": "2026-07-25T07:16:03.358900+00:00"
 }
