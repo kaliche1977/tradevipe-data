@@ -2,7 +2,7 @@
   "capital": 760.83,
   "capital_inicial": 1000.0,
   "roi": -23.92,
-  "cycle": 390,
+  "cycle": 391,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -19,7 +19,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -39,12 +39,12 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0002
     },
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0003
     },
     "XPL": {
       "nivel": "VERDE",
@@ -54,7 +54,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0008
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -74,7 +74,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0007
     },
     "XMR": {
       "nivel": "VERDE",
@@ -89,12 +89,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0017
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -108,7 +108,7 @@
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "kBONK": {
@@ -125,17 +125,17 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.6,
+      "vol_ratio": 1.5,
       "mov": 0.03
+    },
+    {
+      "coin": "SAGA",
+      "vol_ratio": 1.23,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784901049561,
-      "capital": 836.2,
-      "roi": -16.38
-    },
     {
       "t": 1784901268266,
       "capital": 836.04,
@@ -1130,9 +1130,14 @@
       "t": 1784984680482,
       "capital": 760.83,
       "roi": -23.92
+    },
+    {
+      "t": 1784985311894,
+      "capital": 760.83,
+      "roi": -23.92
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T13:04:41.291072+00:00"
+  "updated": "2026-07-25T13:15:12.780162+00:00"
 }
