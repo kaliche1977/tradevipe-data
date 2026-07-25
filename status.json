@@ -1,8 +1,8 @@
 {
-  "capital": 761.21,
+  "capital": 761.24,
   "capital_inicial": 1000.0,
   "roi": -23.88,
-  "cycle": 280,
+  "cycle": 281,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -14,12 +14,12 @@
     },
     {
       "coin": "PUMP",
-      "horas_restantes": 1.1,
+      "horas_restantes": 1.0,
       "wr_reciente": 50.0
     },
     {
       "coin": "TAO",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.2,
       "wr_reciente": 50.0
     }
   ],
@@ -43,7 +43,7 @@
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0013
     },
     "LIT": {
       "nivel": "VERDE",
@@ -73,7 +73,7 @@
     "WLD": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0066
+      "funding": 0.0065
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -88,12 +88,12 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0007
     },
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0002
     },
     "XMR": {
       "nivel": "VERDE",
@@ -108,7 +108,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0014
+      "funding": 0.0015
     },
     "VVV": {
       "nivel": "VERDE",
@@ -144,22 +144,17 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 7.85,
+      "vol_ratio": 8.0,
       "mov": 0.16
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 2.16,
+      "vol_ratio": 2.02,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784849072634,
-      "capital": 768.93,
-      "roi": -23.11
-    },
     {
       "t": 1784849239455,
       "capital": 768.75,
@@ -1154,9 +1149,14 @@
       "t": 1784938754583,
       "capital": 761.21,
       "roi": -23.88
+    },
+    {
+      "t": 1784938909504,
+      "capital": 761.24,
+      "roi": -23.88
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T00:19:15.420191+00:00"
+  "updated": "2026-07-25T00:21:50.304380+00:00"
 }
