@@ -1,8 +1,8 @@
 {
-  "capital": 760.9,
+  "capital": 760.81,
   "capital_inicial": 1000.0,
-  "roi": -23.91,
-  "cycle": 314,
+  "roi": -23.92,
+  "cycle": 315,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -14,7 +14,7 @@
     },
     {
       "coin": "TAO",
-      "horas_restantes": 0.9,
+      "horas_restantes": 0.8,
       "wr_reciente": 50.0
     }
   ],
@@ -68,7 +68,7 @@
     "WLD": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0054
+      "funding": 0.0055
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -144,22 +144,17 @@
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 3.37,
+      "vol_ratio": 3.29,
       "mov": 0.07
     },
     {
       "coin": "VINE",
-      "vol_ratio": 1.78,
+      "vol_ratio": 1.81,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784854758970,
-      "capital": 758.41,
-      "roi": -24.16
-    },
     {
       "t": 1784854916944,
       "capital": 758.0,
@@ -1154,9 +1149,14 @@
       "t": 1784943814296,
       "capital": 760.9,
       "roi": -23.91
+    },
+    {
+      "t": 1784943971945,
+      "capital": 760.81,
+      "roi": -23.92
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T01:43:35.488082+00:00"
+  "updated": "2026-07-25T01:46:12.868534+00:00"
 }
