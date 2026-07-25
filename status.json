@@ -1,15 +1,15 @@
 {
-  "capital": 760.01,
+  "capital": 761.2,
   "capital_inicial": 1000.0,
-  "roi": -24.0,
-  "cycle": 430,
-  "trades": 1424,
-  "wr": 74.8,
+  "roi": -23.88,
+  "cycle": 431,
+  "trades": 1428,
+  "wr": 74.9,
   "grids": {
     "JTO": {
       "center": 0.59851,
       "pnl": 0,
-      "size_usd": 252.26,
+      "size_usd": 269.51,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -18,23 +18,23 @@
     },
     "PUMP": {
       "center": 0.001782,
-      "pnl": -0.16,
-      "size_usd": 252.26,
+      "pnl": 0.19,
+      "size_usd": 269.51,
       "activas": 0,
       "tp": 0,
       "sl": 24,
       "long": 66,
-      "short": 56
+      "short": 57
     },
     "WLD": {
       "center": 0.34834,
-      "pnl": 1.63,
-      "size_usd": 304.0,
-      "activas": 0,
+      "pnl": 2.9,
+      "size_usd": 304.48,
+      "activas": 1,
       "tp": 0,
       "sl": 15,
-      "long": 19,
-      "short": 33
+      "long": 20,
+      "short": 35
     }
   },
   "bloqueados": [
@@ -111,7 +111,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0005
     },
     "XMR": {
       "nivel": "VERDE",
@@ -126,7 +126,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
@@ -145,7 +145,7 @@
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "kBONK": {
@@ -162,11 +162,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784925456077,
-      "capital": 833.62,
-      "roi": -16.64
-    },
     {
       "t": 1784926118932,
       "capital": 833.8,
@@ -1161,9 +1156,14 @@
       "t": 1785001364632,
       "capital": 760.01,
       "roi": -24.0
+    },
+    {
+      "t": 1785001671458,
+      "capital": 761.2,
+      "roi": -23.88
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T17:42:46.103411+00:00"
+  "updated": "2026-07-25T17:47:53.356000+00:00"
 }
