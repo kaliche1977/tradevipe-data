@@ -1,8 +1,8 @@
 {
-  "capital": 760.93,
+  "capital": 760.97,
   "capital_inicial": 1000.0,
-  "roi": -23.91,
-  "cycle": 312,
+  "roi": -23.9,
+  "cycle": 313,
   "trades": 1406,
   "wr": 74.8,
   "grids": {},
@@ -14,7 +14,7 @@
     },
     {
       "coin": "TAO",
-      "horas_restantes": 1.0,
+      "horas_restantes": 0.9,
       "wr_reciente": 50.0
     }
   ],
@@ -28,7 +28,7 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "SOL": {
       "nivel": "VERDE",
@@ -42,7 +42,7 @@
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "NEAR": {
@@ -68,12 +68,12 @@
     "WLD": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0049
+      "funding": 0.0052
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0003
     },
     "LDO": {
       "nivel": "VERDE",
@@ -139,27 +139,22 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 5.27,
-      "mov": 0.11
+      "vol_ratio": 5.19,
+      "mov": 0.1
     },
     {
       "coin": "SAGA",
-      "vol_ratio": 3.46,
+      "vol_ratio": 3.47,
       "mov": 0.07
     },
     {
       "coin": "VINE",
-      "vol_ratio": 1.78,
+      "vol_ratio": 1.76,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784854440303,
-      "capital": 758.41,
-      "roi": -24.16
-    },
     {
       "t": 1784854598463,
       "capital": 758.41,
@@ -1154,9 +1149,14 @@
       "t": 1784943510336,
       "capital": 760.93,
       "roi": -23.91
+    },
+    {
+      "t": 1784943660758,
+      "capital": 760.97,
+      "roi": -23.9
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T01:38:31.038200+00:00"
+  "updated": "2026-07-25T01:41:01.625987+00:00"
 }
