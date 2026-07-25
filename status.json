@@ -1,8 +1,8 @@
 {
-  "capital": 759.9,
+  "capital": 759.89,
   "capital_inicial": 1000.0,
   "roi": -24.01,
-  "cycle": 461,
+  "cycle": 462,
   "trades": 1442,
   "wr": 74.8,
   "grids": {
@@ -45,7 +45,7 @@
     },
     {
       "coin": "WLD",
-      "horas_restantes": 2.4,
+      "horas_restantes": 2.3,
       "wr_reciente": 80.0
     }
   ],
@@ -91,7 +91,7 @@
     "XPL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "WLD": {
       "nivel": "VERDE",
@@ -111,7 +111,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "SUI": {
       "nivel": "VERDE",
@@ -141,7 +141,7 @@
     "kPEPE": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "TAO": {
       "nivel": "VERDE",
@@ -167,17 +167,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.16,
+      "vol_ratio": 1.13,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784934648892,
-      "capital": 761.17,
-      "roi": -23.88
-    },
     {
       "t": 1784934814584,
       "capital": 761.16,
@@ -1172,9 +1167,14 @@
       "t": 1785008643164,
       "capital": 759.9,
       "roi": -24.01
+    },
+    {
+      "t": 1785008881986,
+      "capital": 759.89,
+      "roi": -24.01
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T19:44:04.187665+00:00"
+  "updated": "2026-07-25T19:48:03.716983+00:00"
 }
