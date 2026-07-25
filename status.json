@@ -1,25 +1,25 @@
 {
-  "capital": 759.23,
+  "capital": 760.19,
   "capital_inicial": 1000.0,
-  "roi": -24.08,
-  "cycle": 413,
-  "trades": 1410,
+  "roi": -23.98,
+  "cycle": 414,
+  "trades": 1411,
   "wr": 74.8,
   "grids": {
     "GRASS": {
       "center": 0.33426,
-      "pnl": -0.77,
-      "size_usd": 303.69,
+      "pnl": -0.51,
+      "size_usd": 304.08,
       "activas": 0,
       "tp": 0,
       "sl": 19,
       "long": 24,
-      "short": 61
+      "short": 62
     },
     "JTO": {
       "center": 0.59851,
       "pnl": 0,
-      "size_usd": 296.96,
+      "size_usd": 299.2,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -29,7 +29,7 @@
     "WLD": {
       "center": 0.34633,
       "pnl": 0,
-      "size_usd": 296.96,
+      "size_usd": 299.2,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -50,7 +50,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -144,7 +144,7 @@
     },
     "kBONK": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "KAITO": {
@@ -156,17 +156,12 @@
   "watchlist": [
     {
       "coin": "SAGA",
-      "vol_ratio": 1.25,
-      "mov": 0.03
+      "vol_ratio": 1.2,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784909503030,
-      "capital": 836.23,
-      "roi": -16.38
-    },
     {
       "t": 1784910286735,
       "capital": 836.73,
@@ -1161,9 +1156,14 @@
       "t": 1784998057764,
       "capital": 759.23,
       "roi": -24.08
+    },
+    {
+      "t": 1784998220138,
+      "capital": 760.19,
+      "roi": -23.98
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T16:47:39.246179+00:00"
+  "updated": "2026-07-25T16:50:21.005561+00:00"
 }
