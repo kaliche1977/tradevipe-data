@@ -1,25 +1,25 @@
 {
-  "capital": 760.19,
+  "capital": 760.21,
   "capital_inicial": 1000.0,
   "roi": -23.98,
-  "cycle": 414,
-  "trades": 1411,
+  "cycle": 415,
+  "trades": 1412,
   "wr": 74.8,
   "grids": {
     "GRASS": {
       "center": 0.33426,
-      "pnl": -0.51,
+      "pnl": -0.25,
       "size_usd": 304.08,
       "activas": 0,
       "tp": 0,
       "sl": 19,
       "long": 24,
-      "short": 62
+      "short": 63
     },
     "JTO": {
       "center": 0.59851,
       "pnl": 0,
-      "size_usd": 299.2,
+      "size_usd": 300.83,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -29,7 +29,7 @@
     "WLD": {
       "center": 0.34633,
       "pnl": 0,
-      "size_usd": 299.2,
+      "size_usd": 300.83,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -85,7 +85,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "DOGE": {
       "nivel": "AMBER",
@@ -105,7 +105,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0009
     },
     "XMR": {
       "nivel": "VERDE",
@@ -120,7 +120,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
@@ -156,17 +156,12 @@
   "watchlist": [
     {
       "coin": "SAGA",
-      "vol_ratio": 1.2,
+      "vol_ratio": 1.18,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784910286735,
-      "capital": 836.73,
-      "roi": -16.33
-    },
     {
       "t": 1784913084341,
       "capital": 835.94,
@@ -1161,9 +1156,14 @@
       "t": 1784998220138,
       "capital": 760.19,
       "roi": -23.98
+    },
+    {
+      "t": 1784998380132,
+      "capital": 760.21,
+      "roi": -23.98
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T16:50:21.005561+00:00"
+  "updated": "2026-07-25T16:53:01.003286+00:00"
 }
