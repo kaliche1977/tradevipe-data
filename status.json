@@ -1,25 +1,25 @@
 {
-  "capital": 760.23,
+  "capital": 760.19,
   "capital_inicial": 1000.0,
   "roi": -23.98,
-  "cycle": 416,
-  "trades": 1413,
+  "cycle": 417,
+  "trades": 1414,
   "wr": 74.8,
   "grids": {
     "GRASS": {
       "center": 0.33426,
-      "pnl": 0.01,
-      "size_usd": 304.09,
+      "pnl": 0.27,
+      "size_usd": 304.07,
       "activas": 0,
       "tp": 0,
       "sl": 19,
       "long": 24,
-      "short": 64
+      "short": 65
     },
     "JTO": {
       "center": 0.59851,
       "pnl": 0,
-      "size_usd": 301.91,
+      "size_usd": 302.64,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -29,7 +29,7 @@
     "WLD": {
       "center": 0.34633,
       "pnl": 0,
-      "size_usd": 301.91,
+      "size_usd": 302.64,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -100,7 +100,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0003
     },
     "SUI": {
       "nivel": "VERDE",
@@ -144,7 +144,7 @@
     },
     "kBONK": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "KAITO": {
@@ -162,11 +162,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784913820760,
-      "capital": 835.46,
-      "roi": -16.45
-    },
     {
       "t": 1784914554189,
       "capital": 835.05,
@@ -1161,9 +1156,14 @@
       "t": 1784998540685,
       "capital": 760.23,
       "roi": -23.98
+    },
+    {
+      "t": 1784998702861,
+      "capital": 760.19,
+      "roi": -23.98
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-25T16:55:41.566430+00:00"
+  "updated": "2026-07-25T16:58:23.552483+00:00"
 }
