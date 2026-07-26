@@ -1,25 +1,25 @@
 {
-  "capital": 753.8,
+  "capital": 753.82,
   "capital_inicial": 1000.0,
   "roi": -24.62,
-  "cycle": 549,
-  "trades": 1518,
+  "cycle": 550,
+  "trades": 1520,
   "wr": 74.0,
   "grids": {
     "GRASS": {
       "center": 0.34158,
-      "pnl": 1.36,
-      "size_usd": 240.98,
+      "pnl": 1.7,
+      "size_usd": 245.59,
       "activas": 0,
       "tp": 0,
       "sl": 25,
-      "long": 32,
-      "short": 79
+      "long": 33,
+      "short": 80
     },
     "TAO": {
       "center": 197.76,
       "pnl": 0.46,
-      "size_usd": 213.17,
+      "size_usd": 217.26,
       "activas": 0,
       "tp": 0,
       "sl": 14,
@@ -29,7 +29,7 @@
     "ADA": {
       "center": 0.16496,
       "pnl": -0.08,
-      "size_usd": 301.52,
+      "size_usd": 301.53,
       "activas": 1,
       "tp": 0,
       "sl": 11,
@@ -45,12 +45,12 @@
     },
     {
       "coin": "SUI",
-      "horas_restantes": 3.6,
+      "horas_restantes": 3.5,
       "wr_reciente": 50.0
     },
     {
       "coin": "XPL",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.2,
       "wr_reciente": 30.0
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 0.3,
+      "horas_restantes": 0.2,
       "wr_reciente": 60.0
     }
   ],
@@ -146,7 +146,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0009
     },
     "VVV": {
       "nivel": "VERDE",
@@ -166,7 +166,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0054
+      "funding": 0.0055
     },
     "kBONK": {
       "nivel": "VERDE",
@@ -176,17 +176,12 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784961116373,
-      "capital": 760.93,
-      "roi": -23.91
-    },
     {
       "t": 1784961740505,
       "capital": 760.85,
@@ -1181,9 +1176,14 @@
       "t": 1785104964626,
       "capital": 753.8,
       "roi": -24.62
+    },
+    {
+      "t": 1785105141222,
+      "capital": 753.82,
+      "roi": -24.62
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-26T22:29:25.616695+00:00"
+  "updated": "2026-07-26T22:32:22.091709+00:00"
 }
