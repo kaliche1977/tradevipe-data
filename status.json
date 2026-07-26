@@ -1,9 +1,9 @@
 {
-  "capital": 761.79,
+  "capital": 764.48,
   "capital_inicial": 1000.0,
-  "roi": -23.82,
-  "cycle": 498,
-  "trades": 1452,
+  "roi": -23.55,
+  "cycle": 499,
+  "trades": 1453,
   "wr": 74.5,
   "grids": {
     "FARTCOIN": {
@@ -38,13 +38,13 @@
     },
     "GRASS": {
       "center": 0.34002,
-      "pnl": 0,
-      "size_usd": 304.72,
+      "pnl": 0.3,
+      "size_usd": 305.79,
       "activas": 0,
       "tp": 0,
       "sl": 21,
       "long": 25,
-      "short": 67
+      "short": 68
     }
   },
   "bloqueados": [],
@@ -60,12 +60,12 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0018
+      "funding": 0.0002
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0013
     },
     "LIT": {
       "nivel": "VERDE",
@@ -115,12 +115,12 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0004
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0017
     },
     "JTO": {
       "nivel": "VERDE",
@@ -130,7 +130,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.001
     },
     "VVV": {
       "nivel": "VERDE",
@@ -160,23 +160,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.68,
+      "vol_ratio": 1.64,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784941139321,
-      "capital": 760.92,
-      "roi": -23.91
-    },
     {
       "t": 1784941293103,
       "capital": 760.94,
@@ -1171,9 +1166,14 @@
       "t": 1785074635502,
       "capital": 761.79,
       "roi": -23.82
+    },
+    {
+      "t": 1785075277246,
+      "capital": 764.48,
+      "roi": -23.55
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-26T14:03:56.405217+00:00"
+  "updated": "2026-07-26T14:14:39.106908+00:00"
 }
