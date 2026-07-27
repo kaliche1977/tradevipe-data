@@ -1,15 +1,15 @@
 {
-  "capital": 751.32,
+  "capital": 751.37,
   "capital_inicial": 1000.0,
-  "roi": -24.87,
-  "cycle": 587,
-  "trades": 1557,
+  "roi": -24.86,
+  "cycle": 588,
+  "trades": 1559,
   "wr": 73.8,
   "grids": {
     "VVV": {
       "center": 13.78,
       "pnl": 0,
-      "size_usd": 273.57,
+      "size_usd": 280.41,
       "activas": 0,
       "tp": 0,
       "sl": 16,
@@ -19,7 +19,7 @@
     "JTO": {
       "center": 0.58602,
       "pnl": 0,
-      "size_usd": 273.57,
+      "size_usd": 280.41,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -28,13 +28,13 @@
     },
     "PUMP": {
       "center": 0.001995,
-      "pnl": 1.97,
-      "size_usd": 294.09,
-      "activas": 0,
+      "pnl": 3.98,
+      "size_usd": 300.55,
+      "activas": 1,
       "tp": 0,
       "sl": 25,
-      "long": 67,
-      "short": 61
+      "long": 68,
+      "short": 62
     }
   },
   "bloqueados": [
@@ -45,12 +45,12 @@
     },
     {
       "coin": "NEAR",
-      "horas_restantes": 3.9,
+      "horas_restantes": 3.8,
       "wr_reciente": 40.0
     },
     {
       "coin": "SUI",
-      "horas_restantes": 1.8,
+      "horas_restantes": 1.7,
       "wr_reciente": 50.0
     },
     {
@@ -60,12 +60,12 @@
     },
     {
       "coin": "WLD",
-      "horas_restantes": 2.9,
+      "horas_restantes": 2.8,
       "wr_reciente": 40.0
     },
     {
       "coin": "XPL",
-      "horas_restantes": 1.5,
+      "horas_restantes": 1.4,
       "wr_reciente": 30.0
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 3.6,
+      "horas_restantes": 3.5,
       "wr_reciente": 60.0
     }
   ],
@@ -145,8 +145,8 @@
     },
     "SUI": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0003
+      "score": 1,
+      "funding": 0.0006
     },
     "XMR": {
       "nivel": "VERDE",
@@ -191,23 +191,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0052
+      "funding": 0.0053
     }
   },
   "watchlist": [
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.73,
-      "mov": 0.03
+      "vol_ratio": 1.77,
+      "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784983243061,
-      "capital": 760.95,
-      "roi": -23.91
-    },
     {
       "t": 1784984046923,
       "capital": 760.88,
@@ -1202,9 +1197,14 @@
       "t": 1785111385960,
       "capital": 751.32,
       "roi": -24.87
+    },
+    {
+      "t": 1785111575348,
+      "capital": 751.37,
+      "roi": -24.86
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-27T00:16:26.763267+00:00"
+  "updated": "2026-07-27T00:19:36.378962+00:00"
 }
