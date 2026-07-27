@@ -21,17 +21,17 @@
   "bloqueados": [
     {
       "coin": "NEAR",
-      "horas_restantes": 2.8,
+      "horas_restantes": 2.7,
       "wr_reciente": 20.0
     },
     {
       "coin": "PUMP",
-      "horas_restantes": 3.1,
+      "horas_restantes": 3.0,
       "wr_reciente": 50.0
     },
     {
       "coin": "HYPE",
-      "horas_restantes": 6.9,
+      "horas_restantes": 6.8,
       "wr_reciente": 70.0
     },
     {
@@ -163,17 +163,12 @@
   "watchlist": [
     {
       "coin": "NIL",
-      "vol_ratio": 1.81,
-      "mov": 0.04
+      "vol_ratio": 1.68,
+      "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785102924404,
-      "capital": 753.8,
-      "roi": -24.62
-    },
     {
       "t": 1785103320992,
       "capital": 753.72,
@@ -1168,9 +1163,14 @@
       "t": 1785164589011,
       "capital": 721.85,
       "roi": 3.12
+    },
+    {
+      "t": 1785164782512,
+      "capital": 721.85,
+      "roi": 3.12
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-27T15:03:09.854666+00:00"
+  "updated": "2026-07-27T15:06:23.257478+00:00"
 }
