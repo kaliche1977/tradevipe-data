@@ -1,25 +1,25 @@
 {
-  "capital": 749.81,
+  "capital": 750.32,
   "capital_inicial": 1000.0,
-  "roi": -25.02,
-  "cycle": 616,
-  "trades": 1618,
+  "roi": -24.97,
+  "cycle": 617,
+  "trades": 1620,
   "wr": 74.5,
   "grids": {
     "PUMP": {
       "center": 0.001995,
-      "pnl": 34.89,
-      "size_usd": 299.92,
+      "pnl": 35.59,
+      "size_usd": 300.13,
       "activas": 0,
       "tp": 0,
       "sl": 26,
       "long": 81,
-      "short": 80
+      "short": 81
     },
     "DOGE": {
       "center": 0.073121,
       "pnl": 0.03,
-      "size_usd": 299.92,
+      "size_usd": 300.13,
       "activas": 0,
       "tp": 0,
       "sl": 14,
@@ -29,8 +29,8 @@
     "KAITO": {
       "center": 1.1759,
       "pnl": 0,
-      "size_usd": 243.81,
-      "activas": 0,
+      "size_usd": 271.87,
+      "activas": 1,
       "tp": 0,
       "sl": 12,
       "long": 41,
@@ -38,13 +38,13 @@
     },
     "kPEPE": {
       "center": 0.002948,
-      "pnl": 0,
-      "size_usd": 243.81,
+      "pnl": 0.55,
+      "size_usd": 292.25,
       "activas": 0,
       "tp": 0,
       "sl": 18,
       "long": 25,
-      "short": 39
+      "short": 40
     }
   },
   "bloqueados": [
@@ -55,7 +55,7 @@
     },
     {
       "coin": "NEAR",
-      "horas_restantes": 2.5,
+      "horas_restantes": 2.4,
       "wr_reciente": 40.0
     },
     {
@@ -80,12 +80,12 @@
     },
     {
       "coin": "WLD",
-      "horas_restantes": 1.5,
+      "horas_restantes": 1.4,
       "wr_reciente": 40.0
     },
     {
       "coin": "XPL",
-      "horas_restantes": 0.1,
+      "horas_restantes": 0.0,
       "wr_reciente": 30.0
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "coin": "kBONK",
-      "horas_restantes": 2.2,
+      "horas_restantes": 2.1,
       "wr_reciente": 60.0
     }
   ],
@@ -145,7 +145,7 @@
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "DOGE": {
@@ -175,7 +175,7 @@
     },
     "JTO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "ADA": {
@@ -217,11 +217,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1784998702861,
-      "capital": 760.19,
-      "roi": -23.98
-    },
     {
       "t": 1784998860878,
       "capital": 759.57,
@@ -1216,9 +1211,14 @@
       "t": 1785116430071,
       "capital": 749.81,
       "roi": -25.02
+    },
+    {
+      "t": 1785116596043,
+      "capital": 750.32,
+      "roi": -24.97
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-27T01:40:30.826766+00:00"
+  "updated": "2026-07-27T01:43:16.781523+00:00"
 }
