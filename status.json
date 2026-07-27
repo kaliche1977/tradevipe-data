@@ -54,7 +54,7 @@
   "bloqueados": [
     {
       "coin": "NEAR",
-      "horas_restantes": 5.9,
+      "horas_restantes": 5.8,
       "wr_reciente": 20.0
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 3.4,
+      "horas_restantes": 3.3,
       "wr_reciente": 60.0
     }
   ],
@@ -197,11 +197,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785080228133,
-      "capital": 758.56,
-      "roi": -24.14
-    },
     {
       "t": 1785081206679,
       "capital": 759.05,
@@ -1196,9 +1191,14 @@
       "t": 1785153400293,
       "capital": 748.34,
       "roi": -25.17
+    },
+    {
+      "t": 1785153454165,
+      "capital": 748.34,
+      "roi": -25.17
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-27T11:56:40.963661+00:00"
+  "updated": "2026-07-27T11:57:34.784683+00:00"
 }
