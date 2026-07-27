@@ -1,12 +1,17 @@
 {
   "capital": 721.23,
-  "capital_inicial": 1000.0,
-  "roi": -27.88,
-  "cycle": 778,
-  "trades": 1713,
-  "wr": 73.9,
+  "capital_inicial": 700.0,
+  "roi": 3.03,
+  "cycle": 732,
+  "trades": 1715,
+  "wr": 73.8,
   "grids": {},
   "bloqueados": [
+    {
+      "coin": "LDO",
+      "horas_restantes": 1.7,
+      "wr_reciente": 80.0
+    },
     {
       "coin": "HYPE",
       "horas_restantes": 3.3,
@@ -20,7 +25,7 @@
     "AAVE": 0.15,
     "SUI": 0.1
   },
-  "alerta_nivel": "AMBER",
+  "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "HYPE": {
       "nivel": "AMBER",
@@ -136,11 +141,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785117476435,
-      "capital": 749.85,
-      "roi": -25.01
-    },
     {
       "t": 1785117638149,
       "capital": 749.02,
@@ -1135,9 +1135,14 @@
       "t": 1785177485350,
       "capital": 721.23,
       "roi": -27.88
+    },
+    {
+      "t": 1785177498342,
+      "capital": 721.23,
+      "roi": 3.03
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-27T18:38:06.918987+00:00"
+  "updated": "2026-07-27T18:38:19.072424+00:00"
 }
