@@ -1,8 +1,8 @@
 {
-  "capital": 721.1,
+  "capital": 721.13,
   "capital_inicial": 1000.0,
   "roi": -27.89,
-  "cycle": 739,
+  "cycle": 740,
   "trades": 1713,
   "wr": 73.9,
   "grids": {},
@@ -78,8 +78,8 @@
       "funding": 0.0013
     },
     "DOGE": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "LDO": {
@@ -90,17 +90,17 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "SUI": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0008
+      "funding": 0.0007
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0041
+      "funding": 0.0036
     },
     "JTO": {
       "nivel": "VERDE",
@@ -146,11 +146,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785109090790,
-      "capital": 751.9,
-      "roi": -24.81
-    },
     {
       "t": 1785109248914,
       "capital": 751.9,
@@ -1145,9 +1140,14 @@
       "t": 1785170149190,
       "capital": 721.1,
       "roi": -27.89
+    },
+    {
+      "t": 1785170336874,
+      "capital": 721.13,
+      "roi": -27.89
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-27T16:35:50.108001+00:00"
+  "updated": "2026-07-27T16:38:57.874011+00:00"
 }
