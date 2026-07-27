@@ -1,8 +1,8 @@
 {
-  "capital": 755.87,
+  "capital": 743.4,
   "capital_inicial": 1000.0,
-  "roi": -24.41,
-  "cycle": 705,
+  "roi": -25.66,
+  "cycle": 706,
   "trades": 1709,
   "wr": 74.0,
   "grids": {
@@ -54,7 +54,7 @@
   "bloqueados": [
     {
       "coin": "NEAR",
-      "horas_restantes": 4.1,
+      "horas_restantes": 3.9,
       "wr_reciente": 20.0
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "coin": "GRASS",
-      "horas_restantes": 1.5,
+      "horas_restantes": 1.4,
       "wr_reciente": 60.0
     }
   ],
@@ -140,7 +140,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
@@ -155,12 +155,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0028
+      "funding": 0.0029
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0004
+      "funding": 0.0003
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -175,33 +175,28 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0046
+      "funding": 0.0028
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0004
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0007
     }
   },
   "watchlist": [
     {
       "coin": "NIL",
-      "vol_ratio": 3.92,
-      "mov": 0.08
+      "vol_ratio": 3.45,
+      "mov": 0.07
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785092285575,
-      "capital": 753.93,
-      "roi": -24.61
-    },
     {
       "t": 1785092925261,
       "capital": 753.93,
@@ -1196,9 +1191,14 @@
       "t": 1785159902140,
       "capital": 755.87,
       "roi": -24.41
+    },
+    {
+      "t": 1785160567035,
+      "capital": 743.4,
+      "roi": -25.66
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-27T13:45:02.931278+00:00"
+  "updated": "2026-07-27T13:56:07.823462+00:00"
 }
