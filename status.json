@@ -1,9 +1,9 @@
 {
-  "capital": 721.59,
+  "capital": 722.07,
   "capital_inicial": 1000.0,
-  "roi": -27.84,
-  "cycle": 713,
-  "trades": 1713,
+  "roi": -27.79,
+  "cycle": 712,
+  "trades": 1712,
   "wr": 73.9,
   "grids": {},
   "bloqueados": [
@@ -55,7 +55,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0008
+      "funding": 0.0009
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -80,7 +80,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -157,11 +157,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785099573416,
-      "capital": 753.95,
-      "roi": -24.6
-    },
     {
       "t": 1785100222335,
       "capital": 753.93,
@@ -1156,9 +1151,14 @@
       "t": 1785163776740,
       "capital": 721.59,
       "roi": -27.84
+    },
+    {
+      "t": 1785163780398,
+      "capital": 722.07,
+      "roi": -27.79
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-27T14:49:37.441641+00:00"
+  "updated": "2026-07-27T14:49:41.261159+00:00"
 }
