@@ -1,15 +1,15 @@
 {
-  "capital": 720.7,
+  "capital": 720.69,
   "capital_inicial": 1000.0,
   "roi": -27.93,
-  "cycle": 849,
+  "cycle": 850,
   "trades": 1718,
   "wr": 73.9,
   "grids": {},
   "bloqueados": [
     {
       "coin": "NEAR",
-      "horas_restantes": 4.9,
+      "horas_restantes": 4.8,
       "wr_reciente": 10.0
     }
   ],
@@ -65,12 +65,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0037
+      "funding": 0.0038
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0004
+      "funding": 0.0003
     },
     "LDO": {
       "nivel": "VERDE",
@@ -79,7 +79,7 @@
     },
     "AAVE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "SUI": {
@@ -105,7 +105,7 @@
     "VVV": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0033
+      "funding": 0.0036
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -130,17 +130,12 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0046
+      "funding": 0.0051
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785160761997,
-      "capital": 723.09,
-      "roi": -27.69
-    },
     {
       "t": 1785161237869,
       "capital": 722.25,
@@ -1135,9 +1130,14 @@
       "t": 1785203297088,
       "capital": 720.7,
       "roi": -27.93
+    },
+    {
+      "t": 1785203464935,
+      "capital": 720.69,
+      "roi": -27.93
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T01:48:17.724979+00:00"
+  "updated": "2026-07-28T01:51:05.559546+00:00"
 }
