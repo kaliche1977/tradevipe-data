@@ -1,11 +1,42 @@
 {
-  "capital": 642.41,
-  "capital_inicial": 640.0,
-  "roi": 0.38,
-  "cycle": 809,
+  "capital": 642.22,
+  "capital_inicial": 1000.0,
+  "roi": -35.78,
+  "cycle": 810,
   "trades": 1724,
   "wr": 73.6,
-  "grids": {},
+  "grids": {
+    "SOL": {
+      "center": 73.189,
+      "pnl": 0,
+      "size_usd": 256.89,
+      "activas": 0,
+      "tp": 0,
+      "sl": 14,
+      "long": 20,
+      "short": 27
+    },
+    "DOGE": {
+      "center": 0.070051,
+      "pnl": 0,
+      "size_usd": 256.89,
+      "activas": 0,
+      "tp": 0,
+      "sl": 15,
+      "long": 28,
+      "short": 22
+    },
+    "FARTCOIN": {
+      "center": 0.12459,
+      "pnl": 0,
+      "size_usd": 256.89,
+      "activas": 0,
+      "tp": 2,
+      "sl": 20,
+      "long": 38,
+      "short": 51
+    }
+  },
   "bloqueados": [],
   "pesos": {
     "ZEC": 0.2631197097944377,
@@ -125,11 +156,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785177498342,
-      "capital": 721.23,
-      "roi": 3.03
-    },
     {
       "t": 1785177737283,
       "capital": 721.27,
@@ -1124,9 +1150,14 @@
       "t": 1785235799749,
       "capital": 642.41,
       "roi": 0.38
+    },
+    {
+      "t": 1785235912680,
+      "capital": 642.22,
+      "roi": -35.78
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T10:50:00.645505+00:00"
+  "updated": "2026-07-28T10:51:53.677076+00:00"
 }
