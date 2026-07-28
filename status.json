@@ -1,24 +1,18 @@
 {
   "capital": 720.71,
-  "capital_inicial": 1000.0,
-  "roi": -27.93,
-  "cycle": 832,
-  "trades": 1718,
-  "wr": 73.9,
+  "capital_inicial": 700.0,
+  "roi": 2.96,
+  "cycle": 759,
+  "trades": 1717,
+  "wr": 73.8,
   "grids": {},
-  "bloqueados": [
-    {
-      "coin": "NEAR",
-      "horas_restantes": 5.8,
-      "wr_reciente": 10.0
-    }
-  ],
+  "bloqueados": [],
   "pesos": {
-    "HYPE": 0.3,
-    "ZEC": 0.25,
+    "ZEC": 0.3,
+    "AAVE": 0.25,
     "LDO": 0.2,
-    "AAVE": 0.15,
-    "SUI": 0.1
+    "SUI": 0.15,
+    "NEAR": 0.1
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
@@ -136,11 +130,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785150620370,
-      "capital": 748.34,
-      "roi": -25.17
-    },
     {
       "t": 1785151112207,
       "capital": 749.0,
@@ -1135,9 +1124,14 @@
       "t": 1785199856313,
       "capital": 720.71,
       "roi": -27.93
+    },
+    {
+      "t": 1785199858202,
+      "capital": 720.71,
+      "roi": 2.96
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T00:50:56.906829+00:00"
+  "updated": "2026-07-28T00:50:58.823014+00:00"
 }
