@@ -1,32 +1,11 @@
 {
-  "capital": 641.47,
-  "capital_inicial": 1000.0,
-  "roi": -35.85,
-  "cycle": 814,
-  "trades": 1727,
-  "wr": 73.7,
-  "grids": {
-    "DOGE": {
-      "center": 0.070051,
-      "pnl": 0,
-      "size_usd": 256.59,
-      "activas": 0,
-      "tp": 0,
-      "sl": 15,
-      "long": 28,
-      "short": 22
-    },
-    "FARTCOIN": {
-      "center": 0.12459,
-      "pnl": 0.9,
-      "size_usd": 256.59,
-      "activas": 0,
-      "tp": 2,
-      "sl": 20,
-      "long": 41,
-      "short": 51
-    }
-  },
+  "capital": 641.12,
+  "capital_inicial": 640.0,
+  "roi": 0.18,
+  "cycle": 813,
+  "trades": 1724,
+  "wr": 73.6,
+  "grids": {},
   "bloqueados": [],
   "pesos": {
     "ZEC": 0.2631197097944377,
@@ -146,11 +125,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785179310861,
-      "capital": 721.19,
-      "roi": 3.03
-    },
     {
       "t": 1785179977953,
       "capital": 721.16,
@@ -1145,9 +1119,14 @@
       "t": 1785238337327,
       "capital": 641.47,
       "roi": -35.85
+    },
+    {
+      "t": 1785238371958,
+      "capital": 641.12,
+      "roi": 0.18
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T11:32:17.961831+00:00"
+  "updated": "2026-07-28T11:32:52.759096+00:00"
 }
