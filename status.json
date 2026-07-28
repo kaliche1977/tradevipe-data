@@ -1,22 +1,39 @@
 {
-  "capital": 717.49,
-  "capital_inicial": 1000.0,
-  "roi": -28.25,
-  "cycle": 877,
-  "trades": 1721,
-  "wr": 73.9,
-  "grids": {},
-  "bloqueados": [
-    {
-      "coin": "NEAR",
-      "horas_restantes": 3.4,
-      "wr_reciente": 10.0
+  "capital": 719.19,
+  "capital_inicial": 700.0,
+  "roi": 2.74,
+  "cycle": 771,
+  "trades": 1717,
+  "wr": 73.8,
+  "grids": {
+    "PUMP": {
+      "center": 0.002033,
+      "pnl": 0,
+      "size_usd": 515.7,
+      "margin_usd": 171.9,
+      "activas": 0,
+      "tp": 0,
+      "sl": 31,
+      "long": 90,
+      "short": 109
+    },
+    "VVV": {
+      "center": 12.628,
+      "pnl": 0,
+      "size_usd": 240.66,
+      "margin_usd": 80.22,
+      "activas": 1,
+      "tp": 1,
+      "sl": 19,
+      "long": 34,
+      "short": 34
     }
-  ],
+  },
+  "bloqueados": [],
   "pesos": {
     "PUMP": 0.3,
-    "VVV": 0.25,
-    "KAITO": 0.2,
+    "KAITO": 0.25,
+    "VVV": 0.2,
     "FARTCOIN": 0.15,
     "JTO": 0.1
   },
@@ -55,7 +72,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "XPL": {
       "nivel": "VERDE",
@@ -136,17 +153,12 @@
   "watchlist": [
     {
       "coin": "REZ",
-      "vol_ratio": 1.35,
-      "mov": 0.03
+      "vol_ratio": 1.77,
+      "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785167696641,
-      "capital": 721.76,
-      "roi": 3.11
-    },
     {
       "t": 1785167768399,
       "capital": 721.76,
@@ -1141,9 +1153,14 @@
       "t": 1785208567894,
       "capital": 717.49,
       "roi": -28.25
+    },
+    {
+      "t": 1785208702853,
+      "capital": 719.19,
+      "roi": 2.74
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T03:16:08.524052+00:00"
+  "updated": "2026-07-28T03:18:24.884332+00:00"
 }
