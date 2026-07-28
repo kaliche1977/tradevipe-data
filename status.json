@@ -1,11 +1,42 @@
 {
-  "capital": 642.7,
-  "capital_inicial": 640.0,
-  "roi": 0.42,
-  "cycle": 806,
+  "capital": 642.82,
+  "capital_inicial": 1000.0,
+  "roi": -35.72,
+  "cycle": 807,
   "trades": 1724,
   "wr": 73.6,
-  "grids": {},
+  "grids": {
+    "SOL": {
+      "center": 73.182,
+      "pnl": 0,
+      "size_usd": 257.13,
+      "activas": 0,
+      "tp": 0,
+      "sl": 14,
+      "long": 20,
+      "short": 27
+    },
+    "DOGE": {
+      "center": 0.070082,
+      "pnl": 0,
+      "size_usd": 257.13,
+      "activas": 0,
+      "tp": 0,
+      "sl": 15,
+      "long": 28,
+      "short": 22
+    },
+    "FARTCOIN": {
+      "center": 0.1243,
+      "pnl": 0,
+      "size_usd": 257.13,
+      "activas": 0,
+      "tp": 2,
+      "sl": 20,
+      "long": 38,
+      "short": 51
+    }
+  },
   "bloqueados": [],
   "pesos": {
     "ZEC": 0.2631197097944377,
@@ -19,7 +50,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -54,12 +85,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0005
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0002
     },
     "LDO": {
       "nivel": "VERDE",
@@ -69,12 +100,12 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0011
     },
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "XMR": {
       "nivel": "VERDE",
@@ -89,12 +120,12 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0019
     },
     "kPEPE": {
       "nivel": "VERDE",
@@ -104,7 +135,7 @@
     "TAO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0016
+      "funding": 0.0015
     },
     "GRASS": {
       "nivel": "VERDE",
@@ -125,11 +156,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785176342280,
-      "capital": 721.21,
-      "roi": -27.88
-    },
     {
       "t": 1785176606388,
       "capital": 721.21,
@@ -1124,9 +1150,14 @@
       "t": 1785233855064,
       "capital": 642.7,
       "roi": 0.42
+    },
+    {
+      "t": 1785233995800,
+      "capital": 642.82,
+      "roi": -35.72
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T10:17:36.072502+00:00"
+  "updated": "2026-07-28T10:19:57.041414+00:00"
 }
