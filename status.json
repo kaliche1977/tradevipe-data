@@ -1,24 +1,18 @@
 {
-  "capital": 720.74,
-  "capital_inicial": 1000.0,
-  "roi": -27.93,
-  "cycle": 821,
-  "trades": 1718,
-  "wr": 73.9,
+  "capital": 720.73,
+  "capital_inicial": 700.0,
+  "roi": 2.96,
+  "cycle": 755,
+  "trades": 1717,
+  "wr": 73.8,
   "grids": {},
-  "bloqueados": [
-    {
-      "coin": "NEAR",
-      "horas_restantes": 6.7,
-      "wr_reciente": 10.0
-    }
-  ],
+  "bloqueados": [],
   "pesos": {
-    "HYPE": 0.3,
-    "ZEC": 0.25,
+    "ZEC": 0.3,
+    "AAVE": 0.25,
     "LDO": 0.2,
-    "AAVE": 0.15,
-    "SUI": 0.1
+    "SUI": 0.15,
+    "NEAR": 0.1
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
@@ -30,7 +24,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0029
+      "funding": 0.0027
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -45,7 +39,7 @@
     "NEAR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0011
     },
     "FARTCOIN": {
       "nivel": "VERDE",
@@ -65,12 +59,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0003
+      "funding": 0.0005
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0011
     },
     "LDO": {
       "nivel": "VERDE",
@@ -85,7 +79,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0021
+      "funding": 0.002
     },
     "XMR": {
       "nivel": "VERDE",
@@ -100,7 +94,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "VVV": {
       "nivel": "VERDE",
@@ -110,12 +104,12 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "TAO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0018
+      "funding": 0.0005
     },
     "GRASS": {
       "nivel": "VERDE",
@@ -130,23 +124,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0027
+      "funding": 0.0014
     }
   },
   "watchlist": [
     {
       "coin": "REZ",
-      "vol_ratio": 1.12,
+      "vol_ratio": 1.13,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785144449856,
-      "capital": 748.12,
-      "roi": -25.19
-    },
     {
       "t": 1785144581372,
       "capital": 748.13,
@@ -1141,9 +1130,14 @@
       "t": 1785196857110,
       "capital": 720.74,
       "roi": -27.93
+    },
+    {
+      "t": 1785196879835,
+      "capital": 720.73,
+      "roi": 2.96
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T00:00:57.768644+00:00"
+  "updated": "2026-07-28T00:01:20.485806+00:00"
 }
