@@ -1,35 +1,35 @@
 {
-  "capital": 641.15,
+  "capital": 641.17,
   "capital_inicial": 640.0,
   "roi": 0.18,
-  "cycle": 829,
-  "trades": 1728,
+  "cycle": 830,
+  "trades": 1732,
   "wr": 73.6,
   "grids": {
     "SOL": {
       "center": 72.623,
-      "pnl": 0,
-      "size_usd": 255.91,
+      "pnl": 0.35,
+      "size_usd": 256.05,
       "activas": 0,
       "tp": 0,
       "sl": 14,
       "long": 20,
-      "short": 27
+      "short": 28
     },
     "LIT": {
       "center": 2.1924,
-      "pnl": 0.65,
-      "size_usd": 256.46,
+      "pnl": 0.45,
+      "size_usd": 256.47,
       "activas": 0,
       "tp": 0,
-      "sl": 24,
+      "sl": 25,
       "long": 61,
-      "short": 40
+      "short": 41
     },
     "NEAR": {
       "center": 1.6384,
       "pnl": 0,
-      "size_usd": 255.91,
+      "size_usd": 256.05,
       "activas": 0,
       "tp": 0,
       "sl": 16,
@@ -38,19 +38,19 @@
     },
     "FARTCOIN": {
       "center": 0.12224,
-      "pnl": 0.73,
-      "size_usd": 255.91,
+      "pnl": 2.61,
+      "size_usd": 256.05,
       "activas": 0,
       "tp": 2,
       "sl": 20,
-      "long": 39,
-      "short": 51
+      "long": 40,
+      "short": 52
     }
   },
   "bloqueados": [
     {
       "coin": "JTO",
-      "horas_restantes": 5.5,
+      "horas_restantes": 5.3,
       "wr_reciente": 20.0
     }
   ],
@@ -66,7 +66,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0011
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -101,7 +101,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.002
+      "funding": 0.0021
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -115,13 +115,13 @@
     },
     "AAVE": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0009
+      "score": 1,
+      "funding": 0.0012
     },
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0004
     },
     "XMR": {
       "nivel": "VERDE",
@@ -151,7 +151,7 @@
     "TAO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0007
     },
     "GRASS": {
       "nivel": "VERDE",
@@ -172,11 +172,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785191336758,
-      "capital": 721.47,
-      "roi": -27.85
-    },
     {
       "t": 1785191842076,
       "capital": 721.32,
@@ -1171,9 +1166,14 @@
       "t": 1785249371201,
       "capital": 641.15,
       "roi": 0.18
+    },
+    {
+      "t": 1785250144906,
+      "capital": 641.17,
+      "roi": 0.18
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T14:36:16.002693+00:00"
+  "updated": "2026-07-28T14:49:06.043542+00:00"
 }
