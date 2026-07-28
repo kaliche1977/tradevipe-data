@@ -2,14 +2,14 @@
   "capital": 639.62,
   "capital_inicial": 1000.0,
   "roi": -36.04,
-  "cycle": 817,
+  "cycle": 818,
   "trades": 1725,
   "wr": 73.6,
   "grids": {
     "DOGE": {
       "center": 0.069856,
       "pnl": 0,
-      "size_usd": 236.48,
+      "size_usd": 254.21,
       "activas": 0,
       "tp": 0,
       "sl": 15,
@@ -19,7 +19,7 @@
     "FARTCOIN": {
       "center": 0.12411,
       "pnl": 0,
-      "size_usd": 193.04,
+      "size_usd": 207.52,
       "activas": 0,
       "tp": 2,
       "sl": 20,
@@ -29,7 +29,7 @@
     "SOL": {
       "center": 73.183,
       "pnl": 0,
-      "size_usd": 193.04,
+      "size_usd": 207.52,
       "activas": 0,
       "tp": 0,
       "sl": 14,
@@ -39,7 +39,7 @@
     "GRASS": {
       "center": 0.32831,
       "pnl": 0,
-      "size_usd": 207.52,
+      "size_usd": 223.08,
       "activas": 0,
       "tp": 0,
       "sl": 29,
@@ -54,13 +54,7 @@
       "wr_reciente": 20.0
     }
   ],
-  "pesos": {
-    "ZEC": 0.27172747136330533,
-    "SOL": 0.11843011322253857,
-    "DOGE": 0.16878434748063298,
-    "FARTCOIN": 0.2969542475004966,
-    "GRASS": 0.14410382043302655
-  },
+  "pesos": {},
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "SOL": {
@@ -116,7 +110,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0014
     },
     "XMR": {
       "nivel": "VERDE",
@@ -146,7 +140,7 @@
     "TAO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0009
     },
     "GRASS": {
       "nivel": "VERDE",
@@ -167,11 +161,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785184287222,
-      "capital": 721.17,
-      "roi": -27.88
-    },
     {
       "t": 1785184856448,
       "capital": 721.23,
@@ -1166,9 +1155,14 @@
       "t": 1785240919943,
       "capital": 639.62,
       "roi": -36.04
+    },
+    {
+      "t": 1785240990713,
+      "capital": 639.62,
+      "roi": -36.04
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T12:15:20.694752+00:00"
+  "updated": "2026-07-28T12:16:31.586199+00:00"
 }
