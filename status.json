@@ -1,20 +1,26 @@
 {
-  "capital": 720.64,
-  "capital_inicial": 700.0,
-  "roi": 2.95,
-  "cycle": 765,
-  "trades": 1717,
-  "wr": 73.8,
+  "capital": 720.65,
+  "capital_inicial": 1000.0,
+  "roi": -27.93,
+  "cycle": 855,
+  "trades": 1718,
+  "wr": 73.9,
   "grids": {},
-  "bloqueados": [],
+  "bloqueados": [
+    {
+      "coin": "NEAR",
+      "horas_restantes": 4.6,
+      "wr_reciente": 10.0
+    }
+  ],
   "pesos": {
-    "ZEC": 0.3,
-    "AAVE": 0.25,
+    "HYPE": 0.3,
+    "ZEC": 0.25,
     "LDO": 0.2,
-    "SUI": 0.15,
-    "NEAR": 0.1
+    "AAVE": 0.15,
+    "SUI": 0.1
   },
-  "alerta_nivel": "VERDE",
+  "alerta_nivel": "AMBER",
   "alerta_detalles": {
     "HYPE": {
       "nivel": "VERDE",
@@ -59,7 +65,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.003
+      "funding": 0.0029
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -79,7 +85,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0011
     },
     "XMR": {
       "nivel": "VERDE",
@@ -94,17 +100,17 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0016
+      "funding": 0.0014
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0033
+      "funding": 0.0031
     },
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0024
+      "funding": 0.0022
     },
     "TAO": {
       "nivel": "VERDE",
@@ -124,17 +130,12 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0083
+      "funding": 0.0085
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785163522892,
-      "capital": 722.22,
-      "roi": -27.78
-    },
     {
       "t": 1785163706378,
       "capital": 722.22,
@@ -1129,9 +1130,14 @@
       "t": 1785204294725,
       "capital": 720.64,
       "roi": 2.95
+    },
+    {
+      "t": 1785204308324,
+      "capital": 720.65,
+      "roi": -27.93
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-28T02:04:55.294028+00:00"
+  "updated": "2026-07-28T02:05:08.865283+00:00"
 }
