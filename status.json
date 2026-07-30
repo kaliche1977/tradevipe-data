@@ -2,7 +2,7 @@
   "capital": 635.85,
   "capital_inicial": 640.0,
   "roi": -0.65,
-  "cycle": 883,
+  "cycle": 884,
   "trades": 1762,
   "wr": 73.3,
   "grids": {
@@ -63,7 +63,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0009
     },
     "XPL": {
       "nivel": "VERDE",
@@ -73,12 +73,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0004
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0001
     },
     "LDO": {
       "nivel": "VERDE",
@@ -97,13 +97,13 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0015
+      "score": 0,
+      "funding": 0.0118
     },
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0005
     },
     "ADA": {
       "nivel": "VERDE",
@@ -118,7 +118,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0012
     },
     "TAO": {
       "nivel": "VERDE",
@@ -128,27 +128,22 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0067
+      "funding": 0.0013
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0062
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785201434707,
-      "capital": 720.56,
-      "roi": -27.94
-    },
     {
       "t": 1785201605669,
       "capital": 720.58,
@@ -1143,9 +1138,14 @@
       "t": 1785437538865,
       "capital": 635.85,
       "roi": -0.65
+    },
+    {
+      "t": 1785438249209,
+      "capital": 635.85,
+      "roi": -0.65
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-30T18:52:23.337037+00:00"
+  "updated": "2026-07-30T19:04:10.350597+00:00"
 }
