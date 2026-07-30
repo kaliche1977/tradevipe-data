@@ -2,17 +2,11 @@
   "capital": 632.56,
   "capital_inicial": 1000.0,
   "roi": -36.74,
-  "cycle": 878,
+  "cycle": 879,
   "trades": 1759,
   "wr": 73.3,
   "grids": {},
-  "bloqueados": [
-    {
-      "coin": "GRASS",
-      "horas_restantes": 0.1,
-      "wr_reciente": 40.0
-    }
-  ],
+  "bloqueados": [],
   "pesos": {
     "FARTCOIN": 0.4,
     "PUMP": 0.4,
@@ -28,12 +22,12 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0013
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     },
     "LIT": {
       "nivel": "VERDE",
@@ -83,12 +77,12 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "JTO": {
       "nivel": "VERDE",
@@ -108,7 +102,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0013
     },
     "TAO": {
       "nivel": "VERDE",
@@ -118,27 +112,22 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0037
+      "funding": 0.0101
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0013
     },
     "KAITO": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0009
+      "score": 0,
+      "funding": 0.0013
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785200761346,
-      "capital": 720.66,
-      "roi": -27.93
-    },
     {
       "t": 1785200930518,
       "capital": 720.41,
@@ -1133,9 +1122,14 @@
       "t": 1785433817079,
       "capital": 632.56,
       "roi": -36.74
+    },
+    {
+      "t": 1785434458549,
+      "capital": 632.56,
+      "roi": -36.74
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-30T17:50:17.982123+00:00"
+  "updated": "2026-07-30T18:00:59.546257+00:00"
 }
