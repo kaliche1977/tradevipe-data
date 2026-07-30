@@ -2,7 +2,7 @@
   "capital": 632.56,
   "capital_inicial": 1000.0,
   "roi": -36.74,
-  "cycle": 880,
+  "cycle": 881,
   "trades": 1759,
   "wr": 73.3,
   "grids": {},
@@ -112,12 +112,12 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0019
+      "funding": 0.0055
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0013
     },
     "KAITO": {
       "nivel": "VERDE",
@@ -128,11 +128,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785201097675,
-      "capital": 720.59,
-      "roi": -27.94
-    },
     {
       "t": 1785201266282,
       "capital": 720.64,
@@ -1127,9 +1122,14 @@
       "t": 1785435124007,
       "capital": 632.56,
       "roi": -36.74
+    },
+    {
+      "t": 1785435819737,
+      "capital": 632.56,
+      "roi": -36.74
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-30T18:12:06.668479+00:00"
+  "updated": "2026-07-30T18:23:40.633786+00:00"
 }
