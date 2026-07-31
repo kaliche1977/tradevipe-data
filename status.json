@@ -1,46 +1,46 @@
 {
-  "capital": 639.13,
+  "capital": 639.51,
   "capital_inicial": 640.0,
-  "roi": -0.14,
-  "cycle": 939,
-  "trades": 1784,
+  "roi": -0.08,
+  "cycle": 940,
+  "trades": 1788,
   "wr": 73.3,
   "grids": {
     "kBONK": {
       "center": 0.002857,
-      "pnl": 0,
+      "pnl": -0.0,
       "size_usd": 255.65,
       "activas": 0,
       "tp": 3,
-      "sl": 20,
-      "long": 42,
+      "sl": 21,
+      "long": 43,
       "short": 22
     },
     "FARTCOIN": {
       "center": 0.1221,
-      "pnl": 0,
-      "size_usd": 255.65,
+      "pnl": 0.0,
+      "size_usd": 255.8,
       "activas": 0,
       "tp": 5,
       "sl": 24,
-      "long": 40,
+      "long": 41,
       "short": 57
     },
     "XPL": {
       "center": 0.077732,
-      "pnl": 0,
-      "size_usd": 255.65,
+      "pnl": 0.38,
+      "size_usd": 255.8,
       "activas": 0,
       "tp": 2,
       "sl": 25,
-      "long": 54,
-      "short": 23
+      "long": 55,
+      "short": 24
     }
   },
   "bloqueados": [
     {
       "coin": "JTO",
-      "horas_restantes": 3.3,
+      "horas_restantes": 3.1,
       "wr_reciente": 20.0
     }
   ],
@@ -66,12 +66,12 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0003
     },
     "NEAR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0007
     },
     "FARTCOIN": {
       "nivel": "VERDE",
@@ -90,13 +90,13 @@
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0002
+      "score": 1,
+      "funding": 0.0004
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0004
     },
     "LDO": {
       "nivel": "VERDE",
@@ -111,7 +111,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "XMR": {
       "nivel": "VERDE",
@@ -120,7 +120,7 @@
     },
     "JTO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "ADA": {
@@ -156,28 +156,23 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0009
+      "funding": 0.0001
     }
   },
   "watchlist": [
     {
       "coin": "CFX",
-      "vol_ratio": 3.29,
-      "mov": 0.07
+      "vol_ratio": 2.68,
+      "mov": 0.05
     },
     {
       "coin": "ACE",
-      "vol_ratio": 1.75,
-      "mov": 0.04
+      "vol_ratio": 1.65,
+      "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785210747360,
-      "capital": 615.2,
-      "roi": -12.11
-    },
     {
       "t": 1785211444344,
       "capital": 642.8,
@@ -1172,9 +1167,14 @@
       "t": 1785474693825,
       "capital": 639.13,
       "roi": -0.14
+    },
+    {
+      "t": 1785475345963,
+      "capital": 639.51,
+      "roi": -0.08
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-31T05:11:34.490357+00:00"
+  "updated": "2026-07-31T05:22:26.592750+00:00"
 }
