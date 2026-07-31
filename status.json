@@ -1,15 +1,15 @@
 {
-  "capital": 633.84,
+  "capital": 633.86,
   "capital_inicial": 1000.0,
-  "roi": -36.62,
-  "cycle": 963,
+  "roi": -36.61,
+  "cycle": 964,
   "trades": 1796,
   "wr": 73.1,
   "grids": {
     "DOGE": {
       "center": 0.069875,
       "pnl": 0,
-      "size_usd": 196.89,
+      "size_usd": 188.26,
       "activas": 0,
       "tp": 1,
       "sl": 16,
@@ -19,7 +19,7 @@
     "VVV": {
       "center": 11.83,
       "pnl": 0,
-      "size_usd": 171.21,
+      "size_usd": 163.71,
       "activas": 0,
       "tp": 3,
       "sl": 21,
@@ -29,7 +29,7 @@
     "SOL": {
       "center": 73.135,
       "pnl": 0,
-      "size_usd": 253.54,
+      "size_usd": 253.55,
       "activas": 1,
       "tp": 0,
       "sl": 16,
@@ -39,7 +39,7 @@
     "TAO": {
       "center": 195.69,
       "pnl": 0,
-      "size_usd": 196.89,
+      "size_usd": 188.26,
       "activas": 0,
       "tp": 0,
       "sl": 14,
@@ -76,7 +76,7 @@
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0007
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -95,7 +95,7 @@
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "WLD": {
@@ -106,7 +106,7 @@
     "DOGE": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "LDO": {
       "nivel": "VERDE",
@@ -116,7 +116,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "SUI": {
       "nivel": "VERDE",
@@ -126,7 +126,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0008
     },
     "JTO": {
       "nivel": "VERDE",
@@ -166,23 +166,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0029
+      "funding": 0.0027
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.15,
+      "vol_ratio": 1.07,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785220108172,
-      "capital": 642.67,
-      "roi": -8.19
-    },
     {
       "t": 1785220114853,
       "capital": 642.67,
@@ -1177,9 +1172,14 @@
       "t": 1785526374644,
       "capital": 633.84,
       "roi": -36.62
+    },
+    {
+      "t": 1785526529440,
+      "capital": 633.86,
+      "roi": -36.61
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-31T19:32:55.290605+00:00"
+  "updated": "2026-07-31T19:35:30.058403+00:00"
 }
