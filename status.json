@@ -1,29 +1,49 @@
 {
-  "capital": 640.23,
-  "capital_inicial": 640.0,
-  "roi": 0.04,
-  "cycle": 949,
+  "capital": 633.9,
+  "capital_inicial": 1000.0,
+  "roi": -36.61,
+  "cycle": 950,
   "trades": 1791,
   "wr": 73.3,
-  "grids": {},
-  "bloqueados": [
-    {
-      "coin": "JTO",
-      "horas_restantes": 1.5,
-      "wr_reciente": 20.0
+  "grids": {
+    "DOGE": {
+      "center": 0.069875,
+      "pnl": 0,
+      "size_usd": 253.56,
+      "activas": 0,
+      "tp": 1,
+      "sl": 16,
+      "long": 28,
+      "short": 23
     },
-    {
-      "coin": "kBONK",
-      "horas_restantes": 2.6,
-      "wr_reciente": 50.0
+    "NEAR": {
+      "center": 1.693,
+      "pnl": 0,
+      "size_usd": 253.56,
+      "activas": 1,
+      "tp": 0,
+      "sl": 16,
+      "long": 28,
+      "short": 32
+    },
+    "XPL": {
+      "center": 0.075877,
+      "pnl": 0,
+      "size_usd": 253.56,
+      "activas": 0,
+      "tp": 2,
+      "sl": 25,
+      "long": 55,
+      "short": 24
     }
-  ],
+  },
+  "bloqueados": [],
   "pesos": {
-    "ZEC": 0.5161,
-    "NEAR": 0.2903,
-    "DOGE": 0.0645,
-    "SOL": 0.0645,
-    "XPL": 0.0645
+    "DOGE": 0.19678552374177483,
+    "NEAR": 0.18758225146718832,
+    "XPL": 0.1358305175173395,
+    "ZEC": 0.34777254134803487,
+    "SOL": 0.13202916592566244
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
@@ -32,29 +52,24 @@
       "score": 0,
       "funding": 0.0013
     },
-    "ZEC": {
-      "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0011
-    },
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.001
     },
     "NEAR": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "FARTCOIN": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "PUMP": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "XPL": {
@@ -65,16 +80,16 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0013
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0006
+      "score": 1,
+      "funding": 0.0013
     },
     "LDO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "AAVE": {
@@ -85,12 +100,12 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0013
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0013
+      "score": 2,
+      "funding": 0.026
     },
     "JTO": {
       "nivel": "VERDE",
@@ -99,7 +114,7 @@
     },
     "ADA": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "VVV": {
@@ -109,49 +124,33 @@
     },
     "kPEPE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "TAO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0052
+      "score": 0,
+      "funding": 0.0013
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0013
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0014
+      "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "CFX",
-      "vol_ratio": 4.13,
-      "mov": 0.08
-    },
-    {
-      "coin": "ACE",
-      "vol_ratio": 1.33,
-      "mov": 0.03
-    }
-  ],
+  "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785214311407,
-      "capital": 642.55,
-      "roi": -8.21
-    },
     {
       "t": 1785215004298,
       "capital": 642.55,
@@ -1146,9 +1145,14 @@
       "t": 1785481155666,
       "capital": 640.23,
       "roi": 0.04
+    },
+    {
+      "t": 1785519431023,
+      "capital": 633.9,
+      "roi": -36.61
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-07-31T06:59:16.315971+00:00"
+  "updated": "2026-07-31T17:37:12.062496+00:00"
 }
