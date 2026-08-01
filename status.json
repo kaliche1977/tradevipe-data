@@ -2,7 +2,7 @@
   "capital": 628.73,
   "capital_inicial": 1000.0,
   "roi": -37.13,
-  "cycle": 1190,
+  "cycle": 1191,
   "trades": 2009,
   "wr": 71.0,
   "grids": {
@@ -35,7 +35,7 @@
     },
     {
       "coin": "NEAR",
-      "horas_restantes": 3.1,
+      "horas_restantes": 3.0,
       "wr_reciente": 40.0
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "coin": "JTO",
-      "horas_restantes": 3.0,
+      "horas_restantes": 2.9,
       "wr_reciente": 20.0
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 2.3,
+      "horas_restantes": 2.2,
       "wr_reciente": 80.0
     },
     {
@@ -112,7 +112,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "XPL": {
       "nivel": "VERDE",
@@ -140,14 +140,14 @@
       "funding": 0.0013
     },
     "SUI": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0041
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0046
+      "funding": 0.0045
     },
     "JTO": {
       "nivel": "VERDE",
@@ -193,11 +193,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785539250702,
-      "capital": 633.95,
-      "roi": -36.61
-    },
     {
       "t": 1785539908955,
       "capital": 633.87,
@@ -1192,9 +1187,14 @@
       "t": 1785624709514,
       "capital": 628.73,
       "roi": -37.13
+    },
+    {
+      "t": 1785624849187,
+      "capital": 628.73,
+      "roi": -37.13
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-01T22:51:50.029995+00:00"
+  "updated": "2026-08-01T22:54:09.694009+00:00"
 }
