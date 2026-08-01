@@ -2,7 +2,7 @@
   "capital": 628.73,
   "capital_inicial": 1000.0,
   "roi": -37.13,
-  "cycle": 1177,
+  "cycle": 1178,
   "trades": 2009,
   "wr": 71.0,
   "grids": {
@@ -30,7 +30,7 @@
     },
     {
       "coin": "LIT",
-      "horas_restantes": 0.6,
+      "horas_restantes": 0.5,
       "wr_reciente": 40.0
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "coin": "AAVE",
-      "horas_restantes": 0.9,
+      "horas_restantes": 0.8,
       "wr_reciente": 50.0
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "coin": "FARTCOIN",
-      "horas_restantes": 2.9,
+      "horas_restantes": 2.8,
       "wr_reciente": 80.0
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "coin": "DOGE",
-      "horas_restantes": 0.6,
+      "horas_restantes": 0.5,
       "wr_reciente": 60.0
     }
   ],
@@ -137,7 +137,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "XPL": {
       "nivel": "VERDE",
@@ -167,12 +167,12 @@
     "SUI": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.004
+      "funding": 0.0041
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0054
+      "funding": 0.005
     },
     "JTO": {
       "nivel": "VERDE",
@@ -182,7 +182,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0003
     },
     "VVV": {
       "nivel": "VERDE",
@@ -212,17 +212,12 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0029
+      "funding": 0.0027
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785530662766,
-      "capital": 633.77,
-      "roi": -36.62
-    },
     {
       "t": 1785531304100,
       "capital": 633.68,
@@ -1217,9 +1212,14 @@
       "t": 1785622566566,
       "capital": 628.73,
       "roi": -37.13
+    },
+    {
+      "t": 1785622728017,
+      "capital": 628.73,
+      "roi": -37.13
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-01T22:16:07.412345+00:00"
+  "updated": "2026-08-01T22:18:48.924622+00:00"
 }
