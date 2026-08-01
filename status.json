@@ -1,51 +1,41 @@
 {
-  "capital": 631.74,
+  "capital": 632.3,
   "capital_inicial": 1000.0,
-  "roi": -36.83,
-  "cycle": 1106,
-  "trades": 1918,
+  "roi": -36.77,
+  "cycle": 1107,
+  "trades": 1923,
   "wr": 71.5,
   "grids": {
     "DOGE": {
       "center": 0.06866,
-      "pnl": 1.39,
-      "size_usd": 252.69,
+      "pnl": 2.79,
+      "size_usd": 252.92,
       "activas": 0,
       "tp": 1,
-      "sl": 22,
-      "long": 29,
-      "short": 38
+      "sl": 23,
+      "long": 30,
+      "short": 41
     },
     "LIT": {
       "center": 2.0458,
-      "pnl": 0,
-      "size_usd": 246.21,
+      "pnl": -0.25,
+      "size_usd": 252.92,
       "activas": 0,
       "tp": 0,
-      "sl": 26,
-      "long": 61,
+      "sl": 27,
+      "long": 62,
       "short": 41
-    },
-    "GRASS": {
-      "center": 0.30422,
-      "pnl": -0.05,
-      "size_usd": 229.03,
-      "activas": 0,
-      "tp": 2,
-      "sl": 38,
-      "long": 43,
-      "short": 108
     }
   },
   "bloqueados": [
     {
       "coin": "NEAR",
-      "horas_restantes": 7.2,
+      "horas_restantes": 7.1,
       "wr_reciente": 40.0
     },
     {
       "coin": "JTO",
-      "horas_restantes": 7.1,
+      "horas_restantes": 7.0,
       "wr_reciente": 20.0
     },
     {
@@ -60,26 +50,26 @@
     },
     {
       "coin": "SOL",
-      "horas_restantes": 2.8,
+      "horas_restantes": 2.7,
       "wr_reciente": 30.0
     },
     {
       "coin": "ADA",
-      "horas_restantes": 3.7,
+      "horas_restantes": 3.6,
       "wr_reciente": 60.0
     },
     {
       "coin": "XPL",
-      "horas_restantes": 3.9,
+      "horas_restantes": 3.8,
       "wr_reciente": 50.0
     }
   ],
   "pesos": {
-    "KAITO": 0.23545252637423658,
-    "SUI": 0.10508051082731816,
-    "JTO": 0.12301499167129373,
-    "ADA": 0.1364519711271516,
-    "PUMP": 0.4
+    "KAITO": 0.37067706842255943,
+    "LIT": 0.06556684798167764,
+    "GRASS": 0.14501145147437733,
+    "DOGE": 0.23970083023189237,
+    "VVV": 0.17904380188949326
   },
   "alerta_nivel": "AMBER",
   "alerta_detalles": {
@@ -90,7 +80,7 @@
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "NEAR": {
@@ -101,7 +91,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0044
+      "funding": 0.0039
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -116,32 +106,32 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "DOGE": {
-      "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.001
+      "nivel": "AMBER",
+      "score": 3,
+      "funding": 0.0011
     },
     "LDO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.002
+      "funding": 0.0021
     },
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "SUI": {
-      "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0
+      "nivel": "AMBER",
+      "score": 3,
+      "funding": 0.0001
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0036
+      "funding": 0.004
     },
     "JTO": {
       "nivel": "VERDE",
@@ -150,7 +140,7 @@
     },
     "ADA": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0005
     },
     "VVV": {
@@ -176,22 +166,17 @@
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0002
     },
     "KAITO": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0034
+      "funding": 0.0032
     }
   },
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785453931098,
-      "capital": 636.13,
-      "roi": -0.61
-    },
     {
       "t": 1785454556709,
       "capital": 636.56,
@@ -1186,9 +1171,14 @@
       "t": 1785609828561,
       "capital": 631.74,
       "roi": -36.83
+    },
+    {
+      "t": 1785610033951,
+      "capital": 632.3,
+      "roi": -36.77
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-01T18:43:50.827363+00:00"
+  "updated": "2026-08-01T18:47:15.545977+00:00"
 }
