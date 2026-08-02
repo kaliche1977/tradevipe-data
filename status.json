@@ -1,20 +1,20 @@
 {
-  "capital": 621.02,
+  "capital": 621.15,
   "capital_inicial": 640.0,
-  "roi": -2.96,
-  "cycle": 1228,
+  "roi": -2.95,
+  "cycle": 1229,
   "trades": 2018,
   "wr": 71.0,
   "grids": {},
   "bloqueados": [
     {
       "coin": "SUI",
-      "horas_restantes": 2.7,
+      "horas_restantes": 2.5,
       "wr_reciente": 40.0
     },
     {
       "coin": "DOGE",
-      "horas_restantes": 2.7,
+      "horas_restantes": 2.5,
       "wr_reciente": 60.0
     }
   ],
@@ -30,7 +30,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0007
     },
     "LIT": {
       "nivel": "VERDE",
@@ -70,7 +70,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.001
     },
     "SUI": {
       "nivel": "VERDE",
@@ -85,7 +85,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0
     },
     "VVV": {
       "nivel": "VERDE",
@@ -105,7 +105,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0014
+      "funding": 0.0013
     },
     "kBONK": {
       "nivel": "VERDE",
@@ -115,33 +115,28 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0266
+      "funding": 0.0271
     }
   },
   "watchlist": [
     {
       "coin": "NIL",
-      "vol_ratio": 3.27,
-      "mov": 0.07
+      "vol_ratio": 4.44,
+      "mov": 0.09
     },
     {
       "coin": "HYPER",
-      "vol_ratio": 2.5,
+      "vol_ratio": 2.42,
       "mov": 0.05
     },
     {
       "coin": "ACE",
-      "vol_ratio": 1.42,
+      "vol_ratio": 1.49,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785563691006,
-      "capital": 632.73,
-      "roi": -36.73
-    },
     {
       "t": 1785564325713,
       "capital": 632.42,
@@ -1136,9 +1131,14 @@
       "t": 1785700079719,
       "capital": 621.02,
       "roi": -2.96
+    },
+    {
+      "t": 1785700777260,
+      "capital": 621.15,
+      "roi": -2.95
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-02T19:48:00.735965+00:00"
+  "updated": "2026-08-02T19:59:38.371314+00:00"
 }
