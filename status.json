@@ -1,20 +1,20 @@
 {
-  "capital": 621.36,
+  "capital": 621.22,
   "capital_inicial": 640.0,
-  "roi": -2.91,
-  "cycle": 1236,
+  "roi": -2.93,
+  "cycle": 1237,
   "trades": 2018,
   "wr": 71.0,
   "grids": {},
   "bloqueados": [
     {
       "coin": "SUI",
-      "horas_restantes": 1.0,
+      "horas_restantes": 0.8,
       "wr_reciente": 40.0
     },
     {
       "coin": "DOGE",
-      "horas_restantes": 1.0,
+      "horas_restantes": 0.8,
       "wr_reciente": 60.0
     }
   ],
@@ -30,7 +30,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "LIT": {
       "nivel": "VERDE",
@@ -55,7 +55,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0007
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -70,7 +70,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0009
     },
     "SUI": {
       "nivel": "VERDE",
@@ -85,7 +85,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0007
     },
     "VVV": {
       "nivel": "VERDE",
@@ -115,28 +115,23 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0083
+      "funding": 0.0082
     }
   },
   "watchlist": [
     {
       "coin": "NIL",
-      "vol_ratio": 3.74,
+      "vol_ratio": 3.65,
       "mov": 0.07
     },
     {
       "coin": "HYPER",
-      "vol_ratio": 2.62,
-      "mov": 0.05
+      "vol_ratio": 2.86,
+      "mov": 0.06
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785568937512,
-      "capital": 634.9,
-      "roi": -36.51
-    },
     {
       "t": 1785569594492,
       "capital": 635.02,
@@ -1131,9 +1126,14 @@
       "t": 1785706211939,
       "capital": 621.36,
       "roi": -2.91
+    },
+    {
+      "t": 1785706863664,
+      "capital": 621.22,
+      "roi": -2.93
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-02T21:30:12.620600+00:00"
+  "updated": "2026-08-02T21:41:04.452085+00:00"
 }
