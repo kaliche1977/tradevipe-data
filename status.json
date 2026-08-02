@@ -1,11 +1,62 @@
 {
-  "capital": 622.01,
+  "capital": 621.62,
   "capital_inicial": 640.0,
-  "roi": -2.81,
-  "cycle": 1241,
+  "roi": -2.87,
+  "cycle": 1242,
   "trades": 2020,
   "wr": 71.0,
-  "grids": {},
+  "grids": {
+    "SOL": {
+      "center": 73.735,
+      "pnl": 0,
+      "size_usd": 248.65,
+      "activas": 0,
+      "tp": 0,
+      "sl": 20,
+      "long": 30,
+      "short": 29
+    },
+    "LIT": {
+      "center": 2.0428,
+      "pnl": 0,
+      "size_usd": 248.65,
+      "activas": 0,
+      "tp": 1,
+      "sl": 29,
+      "long": 64,
+      "short": 41
+    },
+    "FARTCOIN": {
+      "center": 0.12991,
+      "pnl": 0,
+      "size_usd": 248.65,
+      "activas": 0,
+      "tp": 6,
+      "sl": 30,
+      "long": 57,
+      "short": 74
+    },
+    "PUMP": {
+      "center": 0.002102,
+      "pnl": 0,
+      "size_usd": 248.65,
+      "activas": 0,
+      "tp": 1,
+      "sl": 41,
+      "long": 109,
+      "short": 125
+    },
+    "XPL": {
+      "center": 0.076088,
+      "pnl": 0,
+      "size_usd": 248.65,
+      "activas": 0,
+      "tp": 2,
+      "sl": 31,
+      "long": 58,
+      "short": 30
+    }
+  },
   "bloqueados": [],
   "pesos": {
     "FARTCOIN": 0.5161,
@@ -19,7 +70,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "LIT": {
       "nivel": "VERDE",
@@ -44,7 +95,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0005
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -74,7 +125,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.001
     },
     "VVV": {
       "nivel": "VERDE",
@@ -93,7 +144,7 @@
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "kBONK": {
@@ -104,28 +155,23 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0063
+      "funding": 0.006
     }
   },
   "watchlist": [
     {
       "coin": "HYPER",
-      "vol_ratio": 3.69,
+      "vol_ratio": 3.56,
       "mov": 0.07
     },
     {
       "coin": "NIL",
-      "vol_ratio": 2.48,
+      "vol_ratio": 2.46,
       "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785572220374,
-      "capital": 634.34,
-      "roi": -36.57
-    },
     {
       "t": 1785572873406,
       "capital": 634.75,
@@ -1120,9 +1166,14 @@
       "t": 1785709927794,
       "capital": 622.01,
       "roi": -2.81
+    },
+    {
+      "t": 1785710620085,
+      "capital": 621.62,
+      "roi": -2.87
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-02T22:32:08.271781+00:00"
+  "updated": "2026-08-02T22:43:40.616633+00:00"
 }
