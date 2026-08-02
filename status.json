@@ -1,25 +1,25 @@
 {
-  "capital": 620.88,
+  "capital": 620.7,
   "capital_inicial": 640.0,
-  "roi": -2.99,
+  "roi": -3.01,
   "cycle": 1246,
-  "trades": 2020,
+  "trades": 2021,
   "wr": 71.0,
   "grids": {
     "FARTCOIN": {
       "center": 0.12991,
-      "pnl": 0,
-      "size_usd": 248.35,
+      "pnl": -0.18,
+      "size_usd": 248.28,
       "activas": 0,
       "tp": 6,
-      "sl": 30,
-      "long": 57,
+      "sl": 31,
+      "long": 58,
       "short": 74
     },
     "PUMP": {
       "center": 0.002102,
       "pnl": 0,
-      "size_usd": 200.47,
+      "size_usd": 236.9,
       "activas": 0,
       "tp": 1,
       "sl": 41,
@@ -29,7 +29,7 @@
     "XPL": {
       "center": 0.076088,
       "pnl": 0,
-      "size_usd": 186.49,
+      "size_usd": 220.37,
       "activas": 0,
       "tp": 2,
       "sl": 31,
@@ -50,7 +50,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.0006
     },
     "LIT": {
       "nivel": "VERDE",
@@ -75,7 +75,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0008
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -105,7 +105,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0003
     },
     "VVV": {
       "nivel": "VERDE",
@@ -141,22 +141,17 @@
   "watchlist": [
     {
       "coin": "HYPER",
-      "vol_ratio": 2.73,
-      "mov": 0.05
+      "vol_ratio": 3.0,
+      "mov": 0.06
     },
     {
       "coin": "NIL",
-      "vol_ratio": 2.51,
+      "vol_ratio": 2.49,
       "mov": 0.05
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785576912129,
-      "capital": 634.35,
-      "roi": -36.56
-    },
     {
       "t": 1785577568015,
       "capital": 634.35,
@@ -1151,9 +1146,14 @@
       "t": 1785712720834,
       "capital": 620.88,
       "roi": -2.99
+    },
+    {
+      "t": 1785713231689,
+      "capital": 620.7,
+      "roi": -3.01
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-02T23:18:41.322546+00:00"
+  "updated": "2026-08-02T23:27:12.253727+00:00"
 }
