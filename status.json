@@ -1,20 +1,71 @@
 {
-  "capital": 619.32,
+  "capital": 618.94,
   "capital_inicial": 640.0,
-  "roi": -3.23,
-  "cycle": 1206,
+  "roi": -3.29,
+  "cycle": 1207,
   "trades": 2012,
   "wr": 70.9,
-  "grids": {},
+  "grids": {
+    "AAVE": {
+      "center": 91.682,
+      "pnl": 0,
+      "size_usd": 247.58,
+      "activas": 0,
+      "tp": 0,
+      "sl": 32,
+      "long": 69,
+      "short": 48
+    },
+    "WLD": {
+      "center": 0.31421,
+      "pnl": 0,
+      "size_usd": 247.58,
+      "activas": 0,
+      "tp": 0,
+      "sl": 33,
+      "long": 37,
+      "short": 61
+    },
+    "ADA": {
+      "center": 0.1903,
+      "pnl": 0,
+      "size_usd": 247.58,
+      "activas": 0,
+      "tp": 0,
+      "sl": 22,
+      "long": 38,
+      "short": 15
+    },
+    "kPEPE": {
+      "center": 0.002931,
+      "pnl": 0,
+      "size_usd": 247.58,
+      "activas": 0,
+      "tp": 0,
+      "sl": 25,
+      "long": 33,
+      "short": 40
+    },
+    "TAO": {
+      "center": 193.33,
+      "pnl": 0,
+      "size_usd": 247.58,
+      "activas": 0,
+      "tp": 0,
+      "sl": 18,
+      "long": 29,
+      "short": 21
+    }
+  },
   "bloqueados": [
     {
       "coin": "SUI",
-      "horas_restantes": 8.0,
+      "horas_restantes": 7.8,
       "wr_reciente": 40.0
     },
     {
       "coin": "DOGE",
-      "horas_restantes": 8.0,
+      "horas_restantes": 7.8,
       "wr_reciente": 60.0
     }
   ],
@@ -30,7 +81,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.001
     },
     "LIT": {
       "nivel": "VERDE",
@@ -55,7 +106,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0009
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -85,7 +136,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0011
     },
     "VVV": {
       "nivel": "VERDE",
@@ -121,22 +172,17 @@
   "watchlist": [
     {
       "coin": "HYPER",
-      "vol_ratio": 10.57,
-      "mov": 0.21
+      "vol_ratio": 9.9,
+      "mov": 0.2
     },
     {
       "coin": "NIL",
-      "vol_ratio": 4.53,
-      "mov": 0.09
+      "vol_ratio": 4.02,
+      "mov": 0.08
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785549599366,
-      "capital": 633.06,
-      "roi": -36.69
-    },
     {
       "t": 1785550246987,
       "capital": 632.57,
@@ -1131,9 +1177,14 @@
       "t": 1785680912323,
       "capital": 619.32,
       "roi": -3.23
+    },
+    {
+      "t": 1785681715799,
+      "capital": 618.94,
+      "roi": -3.29
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-02T14:28:33.234273+00:00"
+  "updated": "2026-08-02T14:41:56.926265+00:00"
 }
