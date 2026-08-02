@@ -1,20 +1,20 @@
 {
-  "capital": 621.07,
+  "capital": 621.01,
   "capital_inicial": 640.0,
-  "roi": -2.96,
-  "cycle": 1217,
+  "roi": -2.97,
+  "cycle": 1218,
   "trades": 2018,
   "wr": 71.0,
   "grids": {},
   "bloqueados": [
     {
       "coin": "SUI",
-      "horas_restantes": 4.8,
+      "horas_restantes": 4.7,
       "wr_reciente": 40.0
     },
     {
       "coin": "DOGE",
-      "horas_restantes": 4.8,
+      "horas_restantes": 4.7,
       "wr_reciente": 60.0
     }
   ],
@@ -115,33 +115,28 @@
     "KAITO": {
       "nivel": "AMBER",
       "score": 3,
-      "funding": 0.0253
+      "funding": 0.0235
     }
   },
   "watchlist": [
     {
       "coin": "HYPER",
-      "vol_ratio": 4.69,
+      "vol_ratio": 4.66,
       "mov": 0.09
     },
     {
       "coin": "ACE",
-      "vol_ratio": 1.14,
+      "vol_ratio": 1.17,
       "mov": 0.02
     },
     {
       "coin": "NIL",
-      "vol_ratio": 1.04,
+      "vol_ratio": 1.06,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785556641294,
-      "capital": 632.6,
-      "roi": -36.74
-    },
     {
       "t": 1785557274049,
       "capital": 632.55,
@@ -1136,9 +1131,14 @@
       "t": 1785692465806,
       "capital": 621.07,
       "roi": -2.96
+    },
+    {
+      "t": 1785692637661,
+      "capital": 621.01,
+      "roi": -2.97
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-02T17:41:07.114449+00:00"
+  "updated": "2026-08-02T17:43:58.464023+00:00"
 }
