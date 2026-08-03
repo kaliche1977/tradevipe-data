@@ -2,7 +2,7 @@
   "capital": 620.96,
   "capital_inicial": 640.0,
   "roi": -2.97,
-  "cycle": 1265,
+  "cycle": 1266,
   "trades": 2024,
   "wr": 71.0,
   "grids": {},
@@ -19,7 +19,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0001
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -28,8 +28,8 @@
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0002
+      "score": 0,
+      "funding": 0.0013
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -38,7 +38,7 @@
     },
     "FARTCOIN": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "PUMP": {
@@ -49,17 +49,17 @@
     "XPL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.002
+      "funding": 0.001
     },
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0003
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "LDO": {
       "nivel": "VERDE",
@@ -79,7 +79,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0013
     },
     "JTO": {
       "nivel": "VERDE",
@@ -119,28 +119,23 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0067
+      "funding": 0.0047
     }
   },
   "watchlist": [
     {
       "coin": "NIL",
-      "vol_ratio": 2.88,
-      "mov": 0.06
+      "vol_ratio": 3.28,
+      "mov": 0.07
     },
     {
       "coin": "HYPER",
-      "vol_ratio": 2.72,
-      "mov": 0.05
+      "vol_ratio": 1.78,
+      "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785591876392,
-      "capital": 633.83,
-      "roi": -36.62
-    },
     {
       "t": 1785592558418,
       "capital": 633.74,
@@ -1135,9 +1130,14 @@
       "t": 1785727787150,
       "capital": 620.96,
       "roi": -2.97
+    },
+    {
+      "t": 1785729659401,
+      "capital": 620.96,
+      "roi": -2.97
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-03T03:29:47.981928+00:00"
+  "updated": "2026-08-03T04:01:00.790566+00:00"
 }
