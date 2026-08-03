@@ -1,8 +1,8 @@
 {
-  "capital": 611.84,
+  "capital": 611.86,
   "capital_inicial": 640.0,
   "roi": -4.4,
-  "cycle": 1338,
+  "cycle": 1339,
   "trades": 2065,
   "wr": 71.4,
   "grids": {},
@@ -34,7 +34,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0015
+      "funding": 0.0016
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -49,7 +49,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -64,7 +64,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0001
     },
     "SUI": {
       "nivel": "VERDE",
@@ -120,17 +120,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.13,
+      "vol_ratio": 1.14,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785617212839,
-      "capital": 629.36,
-      "roi": -37.06
-    },
     {
       "t": 1785617395537,
       "capital": 629.32,
@@ -1125,9 +1120,14 @@
       "t": 1785779285803,
       "capital": 611.84,
       "roi": -4.4
+    },
+    {
+      "t": 1785779444062,
+      "capital": 611.86,
+      "roi": -4.4
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-03T17:48:06.481111+00:00"
+  "updated": "2026-08-03T17:50:44.681639+00:00"
 }
