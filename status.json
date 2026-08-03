@@ -157,22 +157,17 @@
     },
     {
       "coin": "ACE",
-      "vol_ratio": 2.97,
+      "vol_ratio": 2.98,
       "mov": 0.06
     },
     {
       "coin": "HYPER",
-      "vol_ratio": 1.75,
+      "vol_ratio": 1.76,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785608728314,
-      "capital": 631.6,
-      "roi": -36.84
-    },
     {
       "t": 1785608925369,
       "capital": 631.78,
@@ -1167,9 +1162,14 @@
       "t": 1785757935379,
       "capital": 619.87,
       "roi": -3.15
+    },
+    {
+      "t": 1785757953653,
+      "capital": 619.87,
+      "roi": -3.15
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-03T11:52:17.240311+00:00"
+  "updated": "2026-08-03T11:52:35.212921+00:00"
 }
