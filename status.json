@@ -1,8 +1,8 @@
 {
-  "capital": 611.49,
+  "capital": 611.56,
   "capital_inicial": 640.0,
-  "roi": -4.45,
-  "cycle": 1348,
+  "roi": -4.44,
+  "cycle": 1349,
   "trades": 2065,
   "wr": 71.4,
   "grids": {},
@@ -10,8 +10,8 @@
   "pesos": {
     "FARTCOIN": 0.5161,
     "SOL": 0.2903,
-    "NEAR": 0.0645,
     "PUMP": 0.0645,
+    "XPL": 0.0645,
     "LIT": 0.0645
   },
   "alerta_nivel": "VERDE",
@@ -26,19 +26,14 @@
       "score": 0,
       "funding": 0.0013
     },
-    "NEAR": {
+    "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
       "funding": 0.0013
     },
-    "FARTCOIN": {
-      "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0054
-    },
     "PUMP": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "XPL": {
@@ -54,17 +49,17 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0002
     },
     "LDO": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0009
     },
     "SUI": {
       "nivel": "VERDE",
@@ -73,27 +68,22 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
-    },
-    "JTO": {
-      "nivel": "VERDE",
       "score": 0,
       "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
+      "score": 0,
+      "funding": 0.0005
     },
     "VVV": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "TAO": {
@@ -104,14 +94,9 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0037
     },
     "kBONK": {
-      "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0013
-    },
-    "KAITO": {
       "nivel": "VERDE",
       "score": 0,
       "funding": 0.0013
@@ -120,17 +105,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.63,
-      "mov": 0.03
+      "vol_ratio": 1.19,
+      "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785618884172,
-      "capital": 628.72,
-      "roi": -37.13
-    },
     {
       "t": 1785619043930,
       "capital": 628.54,
@@ -1125,9 +1105,14 @@
       "t": 1785783820882,
       "capital": 611.49,
       "roi": -4.45
+    },
+    {
+      "t": 1785796366517,
+      "capital": 611.56,
+      "roi": -4.44
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-03T19:03:41.557240+00:00"
+  "updated": "2026-08-03T22:32:49.029263+00:00"
 }
