@@ -2,14 +2,14 @@
   "capital": 621.3,
   "capital_inicial": 640.0,
   "roi": -2.92,
-  "cycle": 1270,
+  "cycle": 1271,
   "trades": 2026,
   "wr": 71.0,
   "grids": {},
   "bloqueados": [
     {
       "coin": "KAITO",
-      "horas_restantes": 7.8,
+      "horas_restantes": 7.6,
       "wr_reciente": 20.0
     }
   ],
@@ -25,7 +25,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0005
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -50,7 +50,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0003
     },
     "XPL": {
       "nivel": "VERDE",
@@ -60,7 +60,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0012
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -80,7 +80,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0004
     },
     "XMR": {
       "nivel": "VERDE",
@@ -90,7 +90,7 @@
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0007
     },
     "ADA": {
       "nivel": "VERDE",
@@ -119,19 +119,19 @@
     },
     "kBONK": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0086
+      "funding": 0.0095
     }
   },
   "watchlist": [
     {
       "coin": "NIL",
-      "vol_ratio": 3.58,
+      "vol_ratio": 3.48,
       "mov": 0.07
     },
     {
@@ -142,11 +142,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785595381291,
-      "capital": 633.8,
-      "roi": -36.62
-    },
     {
       "t": 1785596075198,
       "capital": 633.76,
@@ -1141,9 +1136,14 @@
       "t": 1785733563566,
       "capital": 621.3,
       "roi": -2.92
+    },
+    {
+      "t": 1785734215826,
+      "capital": 621.3,
+      "roi": -2.92
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-03T05:06:04.260289+00:00"
+  "updated": "2026-08-03T05:16:56.499215+00:00"
 }
