@@ -2,7 +2,7 @@
   "capital": 612.0,
   "capital_inicial": 640.0,
   "roi": -4.38,
-  "cycle": 1311,
+  "cycle": 1312,
   "trades": 2065,
   "wr": 71.4,
   "grids": {
@@ -50,7 +50,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0003
+      "funding": 0.0001
     },
     "LIT": {
       "nivel": "VERDE",
@@ -65,7 +65,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0045
+      "funding": 0.004
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -79,13 +79,13 @@
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 0,
-      "funding": 0.0005
+      "score": 1,
+      "funding": 0.0001
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0012
     },
     "LDO": {
       "nivel": "VERDE",
@@ -95,7 +95,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0009
     },
     "SUI": {
       "nivel": "VERDE",
@@ -114,8 +114,8 @@
     },
     "ADA": {
       "nivel": "AMBER",
-      "score": 4,
-      "funding": 0.0013
+      "score": 3,
+      "funding": 0.0012
     },
     "VVV": {
       "nivel": "VERDE",
@@ -151,11 +151,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785612221698,
-      "capital": 630.4,
-      "roi": -36.96
-    },
     {
       "t": 1785612421808,
       "capital": 629.99,
@@ -1150,9 +1145,14 @@
       "t": 1785772983852,
       "capital": 612.0,
       "roi": -4.38
+    },
+    {
+      "t": 1785773300796,
+      "capital": 612.0,
+      "roi": -4.38
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-03T16:03:05.134500+00:00"
+  "updated": "2026-08-03T16:08:21.958306+00:00"
 }
