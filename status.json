@@ -2,67 +2,36 @@
   "capital": 620.88,
   "capital_inicial": 640.0,
   "roi": -2.99,
-  "cycle": 1249,
+  "cycle": 1250,
   "trades": 2020,
   "wr": 71.0,
-  "grids": {
-    "PUMP": {
-      "center": 0.002102,
-      "pnl": 0,
-      "size_usd": 248.35,
-      "activas": 0,
-      "tp": 1,
-      "sl": 41,
-      "long": 109,
-      "short": 125
-    },
-    "XPL": {
-      "center": 0.076088,
-      "pnl": 0,
-      "size_usd": 248.35,
-      "activas": 0,
-      "tp": 2,
-      "sl": 31,
-      "long": 58,
-      "short": 30
-    },
-    "SOL": {
-      "center": 73.521,
-      "pnl": 0,
-      "size_usd": 248.35,
-      "activas": 0,
-      "tp": 0,
-      "sl": 20,
-      "long": 30,
-      "short": 29
-    },
-    "FARTCOIN": {
-      "center": 0.12832,
-      "pnl": 0,
-      "size_usd": 248.35,
-      "activas": 0,
-      "tp": 6,
-      "sl": 30,
-      "long": 57,
-      "short": 74
-    }
-  },
+  "grids": {},
   "bloqueados": [],
   "pesos": {
-    "FARTCOIN": 0.5161,
-    "PUMP": 0.2903,
-    "XPL": 0.0645,
-    "SOL": 0.0645,
-    "LIT": 0.0645
+    "PUMP": 0.5161,
+    "kPEPE": 0.2903,
+    "JTO": 0.0645,
+    "KAITO": 0.0645,
+    "XPL": 0.0645
   },
   "alerta_nivel": "VERDE",
   "alerta_detalles": {
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0007
+      "funding": 0.0006
+    },
+    "ZEC": {
+      "nivel": "VERDE",
+      "score": 1,
+      "funding": 0.0013
     },
     "LIT": {
+      "nivel": "VERDE",
+      "score": 0,
+      "funding": 0.0013
+    },
+    "NEAR": {
       "nivel": "VERDE",
       "score": 0,
       "funding": 0.0013
@@ -112,6 +81,11 @@
       "score": 0,
       "funding": 0.0013
     },
+    "JTO": {
+      "nivel": "VERDE",
+      "score": 0,
+      "funding": 0.0013
+    },
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
@@ -145,28 +119,28 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0105
+      "funding": 0.0115
     }
   },
   "watchlist": [
     {
       "coin": "HYPER",
-      "vol_ratio": 3.63,
-      "mov": 0.07
+      "vol_ratio": 5.34,
+      "mov": 0.11
     },
     {
       "coin": "NIL",
-      "vol_ratio": 2.48,
+      "vol_ratio": 2.28,
       "mov": 0.05
+    },
+    {
+      "coin": "CASHCAT",
+      "vol_ratio": 1.66,
+      "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785581138907,
-      "capital": 634.35,
-      "roi": -36.56
-    },
     {
       "t": 1785581796337,
       "capital": 634.35,
@@ -1161,9 +1135,14 @@
       "t": 1785714679046,
       "capital": 620.88,
       "roi": -2.99
+    },
+    {
+      "t": 1785715243791,
+      "capital": 620.88,
+      "roi": -2.99
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-02T23:51:19.545233+00:00"
+  "updated": "2026-08-03T00:00:44.470620+00:00"
 }
