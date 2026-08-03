@@ -1,38 +1,48 @@
 {
-  "capital": 616.15,
+  "capital": 612.0,
   "capital_inicial": 640.0,
-  "roi": -3.73,
-  "cycle": 1310,
+  "roi": -4.38,
+  "cycle": 1311,
   "trades": 2065,
   "wr": 71.4,
   "grids": {
+    "NEAR": {
+      "center": 1.7435,
+      "pnl": 10.42,
+      "size_usd": 244.8,
+      "activas": 0,
+      "tp": 5,
+      "sl": 18,
+      "long": 47,
+      "short": 35
+    },
     "SOL": {
-      "center": 73.574,
-      "pnl": 6.51,
-      "size_usd": 246.46,
+      "center": 73.534,
+      "pnl": 0,
+      "size_usd": 244.8,
       "activas": 0,
       "tp": 0,
       "sl": 21,
       "long": 46,
       "short": 29
     },
-    "NEAR": {
-      "center": 1.7435,
-      "pnl": 10.42,
-      "size_usd": 246.46,
+    "FARTCOIN": {
+      "center": 0.12903,
+      "pnl": 0,
+      "size_usd": 244.8,
       "activas": 0,
-      "tp": 5,
-      "sl": 18,
-      "long": 47,
-      "short": 35
+      "tp": 6,
+      "sl": 30,
+      "long": 57,
+      "short": 74
     }
   },
   "bloqueados": [],
   "pesos": {
     "FARTCOIN": 0.5161,
-    "PUMP": 0.2903,
-    "SOL": 0.0645,
+    "SOL": 0.2903,
     "NEAR": 0.0645,
+    "PUMP": 0.0645,
     "LIT": 0.0645
   },
   "alerta_nivel": "AMBER",
@@ -40,7 +50,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0004
+      "funding": 0.0003
     },
     "LIT": {
       "nivel": "VERDE",
@@ -55,7 +65,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0047
+      "funding": 0.0045
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -69,12 +79,12 @@
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0005
     },
     "DOGE": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0006
     },
     "LDO": {
@@ -138,20 +148,9 @@
       "funding": 0.0013
     }
   },
-  "watchlist": [
-    {
-      "coin": "ACE",
-      "vol_ratio": 1.75,
-      "mov": 0.04
-    }
-  ],
+  "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785612038629,
-      "capital": 629.47,
-      "roi": -37.05
-    },
     {
       "t": 1785612221698,
       "capital": 630.4,
@@ -1146,9 +1145,14 @@
       "t": 1785772388651,
       "capital": 616.15,
       "roi": -3.73
+    },
+    {
+      "t": 1785772983852,
+      "capital": 612.0,
+      "roi": -4.38
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-03T15:53:09.790900+00:00"
+  "updated": "2026-08-03T16:03:05.134500+00:00"
 }
