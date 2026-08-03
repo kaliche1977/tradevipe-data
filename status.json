@@ -1,29 +1,29 @@
 {
-  "capital": 615.84,
+  "capital": 616.47,
   "capital_inicial": 640.0,
-  "roi": -3.77,
-  "cycle": 1306,
-  "trades": 2032,
-  "wr": 70.9,
+  "roi": -3.68,
+  "cycle": 1307,
+  "trades": 2041,
+  "wr": 71.0,
   "grids": {
     "SOL": {
       "center": 73.574,
-      "pnl": 0,
-      "size_usd": 235.85,
+      "pnl": 1.58,
+      "size_usd": 246.59,
       "activas": 0,
       "tp": 0,
       "sl": 21,
-      "long": 30,
+      "long": 34,
       "short": 29
     },
     "NEAR": {
       "center": 1.7435,
-      "pnl": 0,
-      "size_usd": 235.85,
-      "activas": 1,
+      "pnl": 2.9,
+      "size_usd": 246.59,
+      "activas": 0,
       "tp": 5,
       "sl": 18,
-      "long": 30,
+      "long": 35,
       "short": 35
     }
   },
@@ -35,12 +35,12 @@
     "SOL": 0.0645,
     "LIT": 0.0645
   },
-  "alerta_nivel": "VERDE",
+  "alerta_nivel": "AMBER",
   "alerta_detalles": {
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.001
+      "funding": 0.0006
     },
     "LIT": {
       "nivel": "VERDE",
@@ -55,7 +55,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0048
+      "funding": 0.0053
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -70,12 +70,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0004
+      "funding": 0.0006
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0004
     },
     "LDO": {
       "nivel": "VERDE",
@@ -103,8 +103,8 @@
       "funding": 0.0013
     },
     "ADA": {
-      "nivel": "VERDE",
-      "score": 1,
+      "nivel": "AMBER",
+      "score": 3,
       "funding": 0.0013
     },
     "VVV": {
@@ -115,7 +115,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "TAO": {
       "nivel": "VERDE",
@@ -141,22 +141,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.7,
-      "mov": 0.03
-    },
-    {
-      "coin": "NIL",
-      "vol_ratio": 1.14,
-      "mov": 0.02
+      "vol_ratio": 1.79,
+      "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785611211846,
-      "capital": 628.51,
-      "roi": -37.15
-    },
     {
       "t": 1785611438315,
       "capital": 629.74,
@@ -1151,9 +1141,14 @@
       "t": 1785770254922,
       "capital": 615.84,
       "roi": -3.77
+    },
+    {
+      "t": 1785771522519,
+      "capital": 616.47,
+      "roi": -3.68
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-03T15:17:36.289660+00:00"
+  "updated": "2026-08-03T15:38:47.958512+00:00"
 }
