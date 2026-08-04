@@ -1,36 +1,15 @@
 {
-  "capital": 607.39,
+  "capital": 608.13,
   "capital_inicial": 640.0,
-  "roi": -5.09,
-  "cycle": 1451,
-  "trades": 2160,
+  "roi": -4.98,
+  "cycle": 1452,
+  "trades": 2161,
   "wr": 71.9,
-  "grids": {
-    "SOL": {
-      "center": 74.124,
-      "pnl": 0,
-      "size_usd": 242.96,
-      "activas": 0,
-      "tp": 0,
-      "sl": 21,
-      "long": 46,
-      "short": 29
-    },
-    "FARTCOIN": {
-      "center": 0.13268,
-      "pnl": 0,
-      "size_usd": 242.96,
-      "activas": 0,
-      "tp": 7,
-      "sl": 32,
-      "long": 57,
-      "short": 95
-    }
-  },
+  "grids": {},
   "bloqueados": [
     {
       "coin": "TAO",
-      "horas_restantes": 2.8,
+      "horas_restantes": 2.5,
       "wr_reciente": 20.0
     }
   ],
@@ -46,7 +25,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0006
     },
     "LIT": {
       "nivel": "VERDE",
@@ -55,22 +34,22 @@
     },
     "FARTCOIN": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
+      "score": 0,
+      "funding": 0.008
     },
     "PUMP": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 0,
       "funding": 0.0013
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "DOGE": {
@@ -81,7 +60,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0027
+      "funding": 0.006
     },
     "SUI": {
       "nivel": "VERDE",
@@ -90,13 +69,13 @@
     },
     "XMR": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0013
     },
     "VVV": {
       "nivel": "VERDE",
@@ -116,7 +95,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0042
+      "funding": 0.0013
     },
     "kBONK": {
       "nivel": "VERDE",
@@ -127,17 +106,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.22,
-      "mov": 0.02
+      "vol_ratio": 1.28,
+      "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785750227817,
-      "capital": 621.3,
-      "roi": -2.92
-    },
     {
       "t": 1785750955312,
       "capital": 621.3,
@@ -1132,9 +1106,14 @@
       "t": 1785869421370,
       "capital": 607.39,
       "roi": -5.09
+    },
+    {
+      "t": 1785870180735,
+      "capital": 608.13,
+      "roi": -4.98
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-04T18:50:22.212021+00:00"
+  "updated": "2026-08-04T19:03:01.681997+00:00"
 }
