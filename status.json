@@ -2,29 +2,29 @@
   "capital": 608.91,
   "capital_inicial": 640.0,
   "roi": -4.86,
-  "cycle": 1401,
-  "trades": 2119,
-  "wr": 71.5,
+  "cycle": 1402,
+  "trades": 2121,
+  "wr": 71.6,
   "grids": {
     "PUMP": {
       "center": 0.00224,
-      "pnl": 0.53,
+      "pnl": 1.05,
       "size_usd": 243.56,
       "activas": 0,
       "tp": 2,
       "sl": 41,
       "long": 109,
-      "short": 126
+      "short": 127
     },
     "XPL": {
       "center": 0.076715,
-      "pnl": 0.24,
-      "size_usd": 243.26,
+      "pnl": 0.47,
+      "size_usd": 243.49,
       "activas": 0,
       "tp": 2,
       "sl": 31,
       "long": 58,
-      "short": 31
+      "short": 32
     },
     "ADA": {
       "center": 0.1939,
@@ -50,7 +50,7 @@
   "bloqueados": [
     {
       "coin": "TAO",
-      "horas_restantes": 0.9,
+      "horas_restantes": 0.8,
       "wr_reciente": 30.0
     },
     {
@@ -62,8 +62,8 @@
   "pesos": {
     "kPEPE": 0.5161,
     "ZEC": 0.2903,
-    "ADA": 0.0645,
     "PUMP": 0.0645,
+    "ADA": 0.0645,
     "XPL": 0.0645
   },
   "alerta_nivel": "VERDE",
@@ -116,7 +116,7 @@
     "LDO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0007
+      "funding": 0.0008
     },
     "AAVE": {
       "nivel": "VERDE",
@@ -177,11 +177,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785684126594,
-      "capital": 620.84,
-      "roi": -2.99
-    },
     {
       "t": 1785685344251,
       "capital": 620.84,
@@ -1176,9 +1171,14 @@
       "t": 1785833627229,
       "capital": 608.91,
       "roi": -4.86
+    },
+    {
+      "t": 1785833730303,
+      "capital": 608.91,
+      "roi": -4.86
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-04T08:53:48.085362+00:00"
+  "updated": "2026-08-04T08:55:31.134135+00:00"
 }
