@@ -1,11 +1,62 @@
 {
-  "capital": 609.33,
+  "capital": 609.72,
   "capital_inicial": 640.0,
-  "roi": -4.79,
-  "cycle": 1408,
-  "trades": 2121,
+  "roi": -4.73,
+  "cycle": 1409,
+  "trades": 2123,
   "wr": 71.6,
-  "grids": {},
+  "grids": {
+    "PUMP": {
+      "center": 0.002234,
+      "pnl": 0,
+      "size_usd": 243.89,
+      "activas": 0,
+      "tp": 3,
+      "sl": 41,
+      "long": 109,
+      "short": 127
+    },
+    "XPL": {
+      "center": 0.07682,
+      "pnl": 0,
+      "size_usd": 243.89,
+      "activas": 0,
+      "tp": 2,
+      "sl": 31,
+      "long": 58,
+      "short": 32
+    },
+    "ADA": {
+      "center": 0.1947,
+      "pnl": 0,
+      "size_usd": 243.89,
+      "activas": 0,
+      "tp": 4,
+      "sl": 24,
+      "long": 39,
+      "short": 30
+    },
+    "TAO": {
+      "center": 190.09,
+      "pnl": 0,
+      "size_usd": 243.89,
+      "activas": 0,
+      "tp": 0,
+      "sl": 20,
+      "long": 29,
+      "short": 23
+    },
+    "kPEPE": {
+      "center": 0.002897,
+      "pnl": 0,
+      "size_usd": 243.89,
+      "activas": 0,
+      "tp": 4,
+      "sl": 28,
+      "long": 34,
+      "short": 65
+    }
+  },
   "bloqueados": [
     {
       "coin": "FARTCOIN",
@@ -70,7 +121,7 @@
     "LDO": {
       "nivel": "VERDE",
       "score": 2,
-      "funding": 0.0047
+      "funding": 0.0045
     },
     "AAVE": {
       "nivel": "VERDE",
@@ -131,17 +182,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.55,
+      "vol_ratio": 1.57,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785695958892,
-      "capital": 620.82,
-      "roi": -3.0
-    },
     {
       "t": 1785696876632,
       "capital": 620.84,
@@ -1136,9 +1182,14 @@
       "t": 1785839409170,
       "capital": 609.33,
       "roi": -4.79
+    },
+    {
+      "t": 1785839534715,
+      "capital": 609.72,
+      "roi": -4.73
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-04T10:30:09.943553+00:00"
+  "updated": "2026-08-04T10:32:15.594647+00:00"
 }
