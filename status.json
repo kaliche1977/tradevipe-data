@@ -2,30 +2,24 @@
   "capital": 607.77,
   "capital_inicial": 640.0,
   "roi": -5.04,
-  "cycle": 1422,
-  "trades": 2126,
-  "wr": 71.5,
+  "cycle": 1423,
+  "trades": 2128,
+  "wr": 71.6,
   "grids": {
     "PUMP": {
       "center": 0.00224,
       "pnl": 0,
       "size_usd": 243.11,
       "activas": 0,
-      "tp": 3,
-      "sl": 42,
+      "tp": 4,
+      "sl": 41,
       "long": 109,
-      "short": 126
+      "short": 127
     }
   },
-  "bloqueados": [
-    {
-      "coin": "kPEPE",
-      "horas_restantes": 6.2,
-      "wr_reciente": 70.0
-    }
-  ],
+  "bloqueados": [],
   "pesos": {
-    "FARTCOIN": 0.5161,
+    "kPEPE": 0.5161,
     "ADA": 0.2903,
     "PUMP": 0.0645,
     "TAO": 0.0645,
@@ -142,11 +136,6 @@
   "watchlist": [],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785713231689,
-      "capital": 620.7,
-      "roi": -3.01
-    },
     {
       "t": 1785713365659,
       "capital": 620.88,
@@ -1141,9 +1130,14 @@
       "t": 1785846873092,
       "capital": 607.77,
       "roi": -5.04
+    },
+    {
+      "t": 1785846876733,
+      "capital": 607.77,
+      "roi": -5.04
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-04T12:34:33.856173+00:00"
+  "updated": "2026-08-04T12:34:37.287546+00:00"
 }
