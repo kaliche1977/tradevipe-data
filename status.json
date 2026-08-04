@@ -1,9 +1,9 @@
 {
-  "capital": 608.92,
+  "capital": 608.94,
   "capital_inicial": 640.0,
-  "roi": -4.86,
-  "cycle": 1405,
-  "trades": 2120,
+  "roi": -4.85,
+  "cycle": 1406,
+  "trades": 2122,
   "wr": 71.6,
   "grids": {},
   "bloqueados": [
@@ -137,11 +137,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785692465806,
-      "capital": 621.07,
-      "roi": -2.96
-    },
     {
       "t": 1785692637661,
       "capital": 621.01,
@@ -1136,9 +1131,14 @@
       "t": 1785837073038,
       "capital": 608.92,
       "roi": -4.86
+    },
+    {
+      "t": 1785837132116,
+      "capital": 608.94,
+      "roi": -4.85
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-04T09:51:13.821038+00:00"
+  "updated": "2026-08-04T09:52:12.775526+00:00"
 }
