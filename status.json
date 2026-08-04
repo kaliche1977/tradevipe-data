@@ -1,32 +1,11 @@
 {
-  "capital": 611.33,
+  "capital": 610.55,
   "capital_inicial": 640.0,
-  "roi": -4.48,
-  "cycle": 1372,
-  "trades": 2067,
-  "wr": 71.4,
-  "grids": {
-    "ADA": {
-      "center": 0.19253,
-      "pnl": 0,
-      "size_usd": 244.53,
-      "activas": 0,
-      "tp": 1,
-      "sl": 23,
-      "long": 38,
-      "short": 16
-    },
-    "FARTCOIN": {
-      "center": 0.13273,
-      "pnl": 0,
-      "size_usd": 244.53,
-      "activas": 0,
-      "tp": 6,
-      "sl": 30,
-      "long": 57,
-      "short": 74
-    }
-  },
+  "roi": -4.6,
+  "cycle": 1373,
+  "trades": 2068,
+  "wr": 71.3,
+  "grids": {},
   "bloqueados": [],
   "pesos": {
     "FARTCOIN": 0.5161,
@@ -39,7 +18,7 @@
   "alerta_detalles": {
     "SOL": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "LIT": {
@@ -50,7 +29,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0022
+      "funding": 0.0025
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -80,7 +59,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0008
+      "funding": 0.001
     },
     "SUI": {
       "nivel": "VERDE",
@@ -115,7 +94,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0037
+      "funding": 0.0031
     },
     "kBONK": {
       "nivel": "VERDE",
@@ -126,17 +105,12 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.32,
+      "vol_ratio": 1.29,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785622878744,
-      "capital": 628.73,
-      "roi": -37.13
-    },
     {
       "t": 1785623029643,
       "capital": 628.73,
@@ -1131,9 +1105,14 @@
       "t": 1785810755269,
       "capital": 611.33,
       "roi": -4.48
+    },
+    {
+      "t": 1785811418059,
+      "capital": 610.55,
+      "roi": -4.6
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-04T02:32:36.070156+00:00"
+  "updated": "2026-08-04T02:43:38.706101+00:00"
 }
