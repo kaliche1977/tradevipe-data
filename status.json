@@ -1,51 +1,45 @@
 {
-  "capital": 607.83,
+  "capital": 607.86,
   "capital_inicial": 640.0,
-  "roi": -5.03,
-  "cycle": 1425,
-  "trades": 2127,
+  "roi": -5.02,
+  "cycle": 1426,
+  "trades": 2129,
   "wr": 71.6,
   "grids": {
     "PUMP": {
       "center": 0.002239,
-      "pnl": 0.06,
-      "size_usd": 234.24,
+      "pnl": 0.09,
+      "size_usd": 243.14,
       "activas": 0,
-      "tp": 3,
-      "sl": 42,
+      "tp": 4,
+      "sl": 41,
       "long": 110,
-      "short": 126
+      "short": 127
+    },
+    "ADA": {
+      "center": 0.19415,
+      "pnl": 0,
+      "size_usd": 243.14,
+      "activas": 0,
+      "tp": 4,
+      "sl": 24,
+      "long": 39,
+      "short": 33
     },
     "TAO": {
-      "center": 190.71,
+      "center": 190.76,
       "pnl": 0,
-      "size_usd": 191.22,
+      "size_usd": 243.14,
       "activas": 0,
       "tp": 0,
       "sl": 20,
       "long": 29,
       "short": 23
-    },
-    "ADA": {
-      "center": 0.19415,
-      "pnl": 0,
-      "size_usd": 243.13,
-      "activas": 0,
-      "tp": 4,
-      "sl": 25,
-      "long": 41,
-      "short": 30
     }
   },
-  "bloqueados": [
-    {
-      "coin": "kPEPE",
-      "horas_restantes": 5.4,
-      "wr_reciente": 70.0
-    }
-  ],
+  "bloqueados": [],
   "pesos": {
-    "FARTCOIN": 0.5161,
+    "kPEPE": 0.5161,
     "ADA": 0.2903,
     "PUMP": 0.0645,
     "TAO": 0.0645,
@@ -162,17 +156,12 @@
   "watchlist": [
     {
       "coin": "SKR",
-      "vol_ratio": 1.87,
+      "vol_ratio": 1.86,
       "mov": 0.04
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785716494292,
-      "capital": 620.87,
-      "roi": -2.99
-    },
     {
       "t": 1785717118997,
       "capital": 620.84,
@@ -1167,9 +1156,14 @@
       "t": 1785849758584,
       "capital": 607.83,
       "roi": -5.03
+    },
+    {
+      "t": 1785849776619,
+      "capital": 607.86,
+      "roi": -5.02
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-04T13:22:39.908748+00:00"
+  "updated": "2026-08-04T13:22:57.846166+00:00"
 }
