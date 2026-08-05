@@ -2,8 +2,8 @@
   "capital": 609.04,
   "capital_inicial": 640.0,
   "roi": -4.84,
-  "cycle": 1486,
-  "trades": 2164,
+  "cycle": 1487,
+  "trades": 2165,
   "wr": 72.0,
   "grids": {
     "SOL": {
@@ -18,13 +18,13 @@
     },
     "NEAR": {
       "center": 1.7132,
-      "pnl": 0.42,
+      "pnl": 0.83,
       "size_usd": 243.62,
       "activas": 0,
       "tp": 6,
       "sl": 18,
       "long": 47,
-      "short": 36
+      "short": 37
     }
   },
   "bloqueados": [],
@@ -70,7 +70,7 @@
     "XPL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.001
+      "funding": 0.0013
     },
     "WLD": {
       "nivel": "VERDE",
@@ -90,7 +90,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "SUI": {
       "nivel": "VERDE",
@@ -100,17 +100,17 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "VVV": {
       "nivel": "VERDE",
@@ -146,27 +146,17 @@
   "watchlist": [
     {
       "coin": "SKR",
-      "vol_ratio": 6.43,
+      "vol_ratio": 6.37,
       "mov": 0.13
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.28,
-      "mov": 0.03
-    },
-    {
-      "coin": "ACE",
-      "vol_ratio": 1.12,
+      "vol_ratio": 1.16,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785774911454,
-      "capital": 612.0,
-      "roi": -4.38
-    },
     {
       "t": 1785775200468,
       "capital": 612.0,
@@ -1161,9 +1151,14 @@
       "t": 1785922903905,
       "capital": 609.04,
       "roi": -4.84
+    },
+    {
+      "t": 1785923611208,
+      "capital": 609.04,
+      "roi": -4.84
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-05T09:41:44.568116+00:00"
+  "updated": "2026-08-05T09:53:32.615240+00:00"
 }
