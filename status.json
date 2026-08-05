@@ -2,7 +2,7 @@
   "capital": 606.03,
   "capital_inicial": 640.0,
   "roi": -5.31,
-  "cycle": 1495,
+  "cycle": 1496,
   "trades": 2170,
   "wr": 71.9,
   "grids": {
@@ -30,7 +30,7 @@
   "bloqueados": [
     {
       "coin": "NEAR",
-      "horas_restantes": 3.8,
+      "horas_restantes": 3.6,
       "wr_reciente": 60.0
     }
   ],
@@ -66,7 +66,7 @@
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0015
     },
     "PUMP": {
       "nivel": "VERDE",
@@ -86,7 +86,7 @@
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0008
     },
     "LDO": {
       "nivel": "VERDE",
@@ -96,7 +96,7 @@
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0035
+      "funding": 0.0032
     },
     "SUI": {
       "nivel": "VERDE",
@@ -106,7 +106,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0013
     },
     "JTO": {
       "nivel": "VERDE",
@@ -116,7 +116,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0004
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
@@ -126,7 +126,7 @@
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0009
     },
     "TAO": {
       "nivel": "VERDE",
@@ -146,23 +146,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0023
+      "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "SKR",
-      "vol_ratio": 4.66,
+      "vol_ratio": 4.62,
       "mov": 0.09
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785777452668,
-      "capital": 611.99,
-      "roi": -4.38
-    },
     {
       "t": 1785777631257,
       "capital": 611.99,
@@ -1157,9 +1152,14 @@
       "t": 1785928158102,
       "capital": 606.03,
       "roi": -5.31
+    },
+    {
+      "t": 1785928821580,
+      "capital": 606.03,
+      "roi": -5.31
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-05T11:09:18.769132+00:00"
+  "updated": "2026-08-05T11:20:22.495505+00:00"
 }
