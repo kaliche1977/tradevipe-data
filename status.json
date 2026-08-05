@@ -1,25 +1,25 @@
 {
-  "capital": 602.98,
+  "capital": 602.93,
   "capital_inicial": 640.0,
-  "roi": -5.78,
-  "cycle": 1516,
-  "trades": 2180,
-  "wr": 71.9,
+  "roi": -5.79,
+  "cycle": 1517,
+  "trades": 2181,
+  "wr": 71.8,
   "grids": {
     "SOL": {
       "center": 74.193,
-      "pnl": 0,
-      "size_usd": 241.19,
+      "pnl": -0.06,
+      "size_usd": 241.17,
       "activas": 0,
       "tp": 1,
-      "sl": 21,
+      "sl": 22,
       "long": 46,
-      "short": 29
+      "short": 30
     },
     "kPEPE": {
       "center": 0.002878,
       "pnl": -0.01,
-      "size_usd": 209.03,
+      "size_usd": 241.17,
       "activas": 0,
       "tp": 5,
       "sl": 29,
@@ -30,13 +30,13 @@
   "bloqueados": [
     {
       "coin": "NEAR",
-      "horas_restantes": 0.8,
+      "horas_restantes": 0.6,
       "wr_reciente": 40.0
     }
   ],
   "pesos": {
-    "kPEPE": 0.5161,
-    "FARTCOIN": 0.2903,
+    "FARTCOIN": 0.5161,
+    "ADA": 0.2903,
     "ZEC": 0.0645,
     "SOL": 0.0645,
     "LIT": 0.0645
@@ -46,128 +46,123 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0011
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0002
     },
     "LIT": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "NEAR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "FARTCOIN": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "XPL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0002
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "LDO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0014
     },
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0002
     },
     "XMR": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0
+      "funding": 0.0035
     },
     "JTO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0001
     },
     "VVV": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "TAO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0075
     },
     "kBONK": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     },
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0
+      "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "SKR",
-      "vol_ratio": 1.38,
+      "vol_ratio": 1.46,
       "mov": 0.03
     },
     {
       "coin": "CASHCAT",
-      "vol_ratio": 1.01,
+      "vol_ratio": 1.16,
       "mov": 0.02
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785796559848,
-      "capital": 611.53,
-      "roi": -4.45
-    },
     {
       "t": 1785797221534,
       "capital": 611.5,
@@ -1162,9 +1157,14 @@
       "t": 1785964685822,
       "capital": 602.98,
       "roi": -5.78
+    },
+    {
+      "t": 1785965513510,
+      "capital": 602.93,
+      "roi": -5.79
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-05T21:18:06.870741+00:00"
+  "updated": "2026-08-05T21:31:54.041413+00:00"
 }
