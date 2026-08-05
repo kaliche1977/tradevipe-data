@@ -1,22 +1,11 @@
 {
-  "capital": 604.51,
+  "capital": 605.01,
   "capital_inicial": 640.0,
-  "roi": -5.55,
+  "roi": -5.47,
   "cycle": 1498,
-  "trades": 2170,
+  "trades": 2171,
   "wr": 71.9,
-  "grids": {
-    "SOL": {
-      "center": 74.178,
-      "pnl": 0,
-      "size_usd": 241.8,
-      "activas": 0,
-      "tp": 0,
-      "sl": 21,
-      "long": 46,
-      "short": 29
-    }
-  },
+  "grids": {},
   "bloqueados": [],
   "pesos": {
     "FARTCOIN": 0.5161,
@@ -142,11 +131,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785778295089,
-      "capital": 611.95,
-      "roi": -4.38
-    },
     {
       "t": 1785778469335,
       "capital": 611.9,
@@ -1141,9 +1125,14 @@
       "t": 1785951053087,
       "capital": 604.51,
       "roi": -5.55
+    },
+    {
+      "t": 1785951061038,
+      "capital": 605.01,
+      "roi": -5.47
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-05T17:30:53.622054+00:00"
+  "updated": "2026-08-05T17:31:01.723388+00:00"
 }
