@@ -1,36 +1,26 @@
 {
-  "capital": 602.93,
+  "capital": 603.71,
   "capital_inicial": 640.0,
-  "roi": -5.79,
-  "cycle": 1504,
-  "trades": 2173,
+  "roi": -5.67,
+  "cycle": 1505,
+  "trades": 2174,
   "wr": 71.8,
   "grids": {
-    "SOL": {
-      "center": 74.468,
-      "pnl": 0,
-      "size_usd": 241.17,
-      "activas": 0,
-      "tp": 1,
-      "sl": 21,
-      "long": 46,
-      "short": 29
-    },
     "kPEPE": {
       "center": 0.002883,
-      "pnl": 0,
-      "size_usd": 241.17,
+      "pnl": 0.78,
+      "size_usd": 241.49,
       "activas": 0,
       "tp": 4,
       "sl": 28,
-      "long": 34,
+      "long": 35,
       "short": 66
     }
   },
   "bloqueados": [
     {
       "coin": "NEAR",
-      "horas_restantes": 3.6,
+      "horas_restantes": 3.4,
       "wr_reciente": 40.0
     }
   ],
@@ -76,12 +66,12 @@
     "XPL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0028
+      "funding": 0.0029
     },
     "WLD": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0011
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -91,12 +81,12 @@
     "LDO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0009
     },
     "AAVE": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0002
+      "funding": 0.0007
     },
     "SUI": {
       "nivel": "VERDE",
@@ -106,7 +96,7 @@
     "XMR": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0003
     },
     "JTO": {
       "nivel": "VERDE",
@@ -116,7 +106,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0023
+      "funding": 0.0015
     },
     "VVV": {
       "nivel": "VERDE",
@@ -136,7 +126,7 @@
     "GRASS": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0034
+      "funding": 0.0014
     },
     "kBONK": {
       "nivel": "VERDE",
@@ -146,23 +136,18 @@
     "KAITO": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0036
+      "funding": 0.0045
     }
   },
   "watchlist": [
     {
       "coin": "SKR",
-      "vol_ratio": 1.4,
+      "vol_ratio": 1.51,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785779444062,
-      "capital": 611.86,
-      "roi": -4.4
-    },
     {
       "t": 1785779602601,
       "capital": 611.83,
@@ -1157,9 +1142,14 @@
       "t": 1785954693650,
       "capital": 602.93,
       "roi": -5.79
+    },
+    {
+      "t": 1785955501652,
+      "capital": 603.71,
+      "roi": -5.67
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-08-05T18:31:34.470840+00:00"
+  "updated": "2026-08-05T18:45:02.510770+00:00"
 }
