@@ -1,35 +1,25 @@
 {
-  "capital": 352.12,
+  "capital": 352.78,
   "capital_inicial": 1000.0,
-  "roi": -64.79,
-  "cycle": 15,
-  "trades": 2061,
-  "wr": 90.9,
+  "roi": -64.72,
+  "cycle": 16,
+  "trades": 2072,
+  "wr": 90.8,
   "grids": {
-    "VVV": {
-      "center": 21.562,
-      "pnl": 9.16,
-      "size_usd": 133.53,
-      "activas": 0,
-      "tp": 0,
-      "sl": 4,
-      "long": 56,
-      "short": 70
-    },
     "XPL": {
       "center": 0.079213,
-      "pnl": 14.93,
-      "size_usd": 133.53,
+      "pnl": 21.72,
+      "size_usd": 118.9,
       "activas": 0,
       "tp": 0,
       "sl": 19,
-      "long": 141,
-      "short": 118
+      "long": 143,
+      "short": 122
     },
     "JTO": {
       "center": 0.444,
       "pnl": 0.52,
-      "size_usd": 140.85,
+      "size_usd": 141.11,
       "activas": 1,
       "tp": 0,
       "sl": 5,
@@ -47,6 +37,11 @@
       "coin": "TAO",
       "horas_restantes": 3.1,
       "wr_reciente": 60.0
+    },
+    {
+      "coin": "VVV",
+      "horas_restantes": 4.0,
+      "wr_reciente": 70.0
     }
   ],
   "pesos": {
@@ -59,26 +54,26 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0005
+      "funding": 0.0004
     },
     "SOL": {
       "nivel": "AMBER",
-      "score": 4,
+      "score": 3,
       "funding": 0.001
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "LIT": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 2,
       "funding": 0.0013
     },
     "NEAR": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 0,
       "funding": 0.0013
     },
     "FARTCOIN": {
@@ -89,17 +84,17 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0009
     },
     "XPL": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 0,
       "funding": 0.0013
     },
     "WLD": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0006
+      "funding": 0.0005
     },
     "DOGE": {
       "nivel": "AMBER",
@@ -108,17 +103,17 @@
     },
     "LDO": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "AAVE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0009
+      "funding": 0.0011
     },
     "SUI": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "XMR": {
@@ -132,60 +127,55 @@
       "funding": 0.0013
     },
     "ADA": {
-      "nivel": "AMBER",
-      "score": 4,
-      "funding": 0.0025
+      "nivel": "VERDE",
+      "score": 1,
+      "funding": 0.0023
     },
     "VVV": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "TAO": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "GRASS": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "kBONK": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "KAITO": {
       "nivel": "AMBER",
-      "score": 4,
+      "score": 3,
       "funding": 0.0013
     }
   },
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.66,
+      "vol_ratio": 1.64,
       "mov": 0.03
     },
     {
       "coin": "SOPH",
-      "vol_ratio": 1.44,
+      "vol_ratio": 1.39,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785810082924,
-      "capital": 611.35,
-      "roi": -4.48
-    },
     {
       "t": 1785810755269,
       "capital": 611.33,
@@ -1180,9 +1170,14 @@
       "t": 1789498455190,
       "capital": 352.12,
       "roi": -64.79
+    },
+    {
+      "t": 1789498619563,
+      "capital": 352.78,
+      "roi": -64.72
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-09-15T18:54:15.761511+00:00"
+  "updated": "2026-09-15T18:57:00.096046+00:00"
 }
