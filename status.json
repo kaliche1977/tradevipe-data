@@ -2,7 +2,7 @@
   "capital": 338.28,
   "capital_inicial": 1000.0,
   "roi": -66.17,
-  "cycle": 1,
+  "cycle": 2,
   "trades": 2005,
   "wr": 91.0,
   "grids": {},
@@ -13,17 +13,17 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0002
+      "funding": 0.0003
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0003
+      "funding": 0.0004
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0011
     },
     "LIT": {
       "nivel": "VERDE",
@@ -43,7 +43,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0013
+      "funding": 0.0012
     },
     "XPL": {
       "nivel": "VERDE",
@@ -53,12 +53,12 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0005
+      "funding": 0.0003
     },
     "DOGE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0001
+      "funding": 0.0002
     },
     "LDO": {
       "nivel": "VERDE",
@@ -73,7 +73,7 @@
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0011
     },
     "XMR": {
       "nivel": "VERDE",
@@ -88,7 +88,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0052
+      "funding": 0.0047
     },
     "VVV": {
       "nivel": "VERDE",
@@ -124,22 +124,17 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 4.41,
+      "vol_ratio": 4.31,
       "mov": 0.09
     },
     {
       "coin": "SOPH",
-      "vol_ratio": 1.35,
+      "vol_ratio": 1.33,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785801140902,
-      "capital": 611.52,
-      "roi": -4.45
-    },
     {
       "t": 1785801785039,
       "capital": 611.3,
@@ -1134,9 +1129,14 @@
       "t": 1789490931137,
       "capital": 338.28,
       "roi": -66.17
+    },
+    {
+      "t": 1789491543481,
+      "capital": 338.28,
+      "roi": -66.17
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-09-15T16:48:51.707802+00:00"
+  "updated": "2026-09-15T16:59:04.066326+00:00"
 }
