@@ -1,11 +1,32 @@
 {
-  "capital": 338.28,
+  "capital": 340.25,
   "capital_inicial": 1000.0,
-  "roi": -66.17,
-  "cycle": 2,
+  "roi": -65.97,
+  "cycle": 3,
   "trades": 2005,
   "wr": 91.0,
-  "grids": {},
+  "grids": {
+    "VVV": {
+      "center": 22.421,
+      "pnl": 0,
+      "size_usd": 136.1,
+      "activas": 0,
+      "tp": 0,
+      "sl": 2,
+      "long": 51,
+      "short": 51
+    },
+    "LIT": {
+      "center": 4.08,
+      "pnl": 0,
+      "size_usd": 136.1,
+      "activas": 1,
+      "tp": 0,
+      "sl": 4,
+      "long": 46,
+      "short": 60
+    }
+  },
   "bloqueados": [],
   "pesos": {},
   "alerta_nivel": "VERDE",
@@ -13,22 +34,22 @@
     "HYPE": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0003
+      "funding": 0.0032
     },
     "SOL": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0004
+      "funding": 0.0007
     },
     "ZEC": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0003
     },
     "LIT": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0013
+      "funding": 0.0023
     },
     "NEAR": {
       "nivel": "VERDE",
@@ -43,7 +64,7 @@
     "PUMP": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0012
+      "funding": 0.0029
     },
     "XPL": {
       "nivel": "VERDE",
@@ -53,7 +74,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0015
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -67,13 +88,13 @@
     },
     "AAVE": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "SUI": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0011
+      "funding": 0.0004
     },
     "XMR": {
       "nivel": "VERDE",
@@ -88,17 +109,17 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0047
+      "funding": 0.0022
     },
     "VVV": {
       "nivel": "VERDE",
-      "score": 1,
+      "score": 0,
       "funding": 0.0013
     },
     "kPEPE": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0013
+      "score": 0,
+      "funding": 0.0002
     },
     "TAO": {
       "nivel": "VERDE",
@@ -124,22 +145,17 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 4.31,
-      "mov": 0.09
+      "vol_ratio": 4.15,
+      "mov": 0.08
     },
     {
       "coin": "SOPH",
-      "vol_ratio": 1.33,
+      "vol_ratio": 1.25,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785801785039,
-      "capital": 611.3,
-      "roi": -4.48
-    },
     {
       "t": 1785802419656,
       "capital": 611.3,
@@ -1134,9 +1150,14 @@
       "t": 1789491543481,
       "capital": 338.28,
       "roi": -66.17
+    },
+    {
+      "t": 1789492221057,
+      "capital": 340.25,
+      "roi": -65.97
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-09-15T16:59:04.066326+00:00"
+  "updated": "2026-09-15T17:10:21.626906+00:00"
 }
