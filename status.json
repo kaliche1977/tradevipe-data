@@ -1,35 +1,35 @@
 {
-  "capital": 357.89,
+  "capital": 352.12,
   "capital_inicial": 1000.0,
-  "roi": -64.21,
-  "cycle": 14,
-  "trades": 2050,
+  "roi": -64.79,
+  "cycle": 15,
+  "trades": 2061,
   "wr": 90.9,
   "grids": {
     "VVV": {
       "center": 21.562,
-      "pnl": 8.64,
-      "size_usd": 133.86,
+      "pnl": 9.16,
+      "size_usd": 133.53,
       "activas": 0,
       "tp": 0,
-      "sl": 3,
+      "sl": 4,
       "long": 56,
-      "short": 65
+      "short": 70
     },
     "XPL": {
       "center": 0.079213,
-      "pnl": 9.9,
-      "size_usd": 133.86,
+      "pnl": 14.93,
+      "size_usd": 133.53,
       "activas": 0,
       "tp": 0,
       "sl": 19,
-      "long": 139,
-      "short": 114
+      "long": 141,
+      "short": 118
     },
     "JTO": {
       "center": 0.444,
       "pnl": 0.52,
-      "size_usd": 143.15,
+      "size_usd": 140.85,
       "activas": 1,
       "tp": 0,
       "sl": 5,
@@ -40,12 +40,12 @@
   "bloqueados": [
     {
       "coin": "LIT",
-      "horas_restantes": 2.5,
+      "horas_restantes": 2.4,
       "wr_reciente": 50.0
     },
     {
       "coin": "TAO",
-      "horas_restantes": 3.2,
+      "horas_restantes": 3.1,
       "wr_reciente": 60.0
     }
   ],
@@ -57,18 +57,18 @@
   "alerta_nivel": "AMBER",
   "alerta_detalles": {
     "HYPE": {
-      "nivel": "AMBER",
-      "score": 3,
-      "funding": 0.0009
+      "nivel": "VERDE",
+      "score": 1,
+      "funding": 0.0005
     },
     "SOL": {
       "nivel": "AMBER",
       "score": 4,
-      "funding": 0.0011
+      "funding": 0.001
     },
     "ZEC": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "LIT": {
@@ -83,13 +83,13 @@
     },
     "FARTCOIN": {
       "nivel": "AMBER",
-      "score": 5,
+      "score": 4,
       "funding": 0.0013
     },
     "PUMP": {
       "nivel": "VERDE",
-      "score": 1,
-      "funding": 0.0018
+      "score": 0,
+      "funding": 0.0013
     },
     "XPL": {
       "nivel": "VERDE",
@@ -98,13 +98,13 @@
     },
     "WLD": {
       "nivel": "VERDE",
-      "score": 2,
-      "funding": 0.0007
+      "score": 1,
+      "funding": 0.0006
     },
     "DOGE": {
       "nivel": "AMBER",
-      "score": 4,
-      "funding": 0.001
+      "score": 3,
+      "funding": 0.0011
     },
     "LDO": {
       "nivel": "VERDE",
@@ -112,33 +112,33 @@
       "funding": 0.0013
     },
     "AAVE": {
-      "nivel": "AMBER",
-      "score": 4,
-      "funding": 0.0008
+      "nivel": "VERDE",
+      "score": 1,
+      "funding": 0.0009
     },
     "SUI": {
-      "nivel": "AMBER",
-      "score": 4,
+      "nivel": "VERDE",
+      "score": 2,
       "funding": 0.0013
     },
     "XMR": {
-      "nivel": "AMBER",
-      "score": 3,
+      "nivel": "VERDE",
+      "score": 1,
       "funding": 0.0013
     },
     "JTO": {
-      "nivel": "AMBER",
-      "score": 3,
+      "nivel": "VERDE",
+      "score": 2,
       "funding": 0.0013
     },
     "ADA": {
       "nivel": "AMBER",
       "score": 4,
-      "funding": 0.0027
+      "funding": 0.0025
     },
     "VVV": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "kPEPE": {
@@ -148,7 +148,7 @@
     },
     "TAO": {
       "nivel": "VERDE",
-      "score": 2,
+      "score": 1,
       "funding": 0.0013
     },
     "GRASS": {
@@ -170,22 +170,17 @@
   "watchlist": [
     {
       "coin": "ACE",
-      "vol_ratio": 1.69,
+      "vol_ratio": 1.66,
       "mov": 0.03
     },
     {
       "coin": "SOPH",
-      "vol_ratio": 1.47,
+      "vol_ratio": 1.44,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785809422118,
-      "capital": 611.3,
-      "roi": -4.49
-    },
     {
       "t": 1785810082924,
       "capital": 611.35,
@@ -1180,9 +1175,14 @@
       "t": 1789498299287,
       "capital": 357.89,
       "roi": -64.21
+    },
+    {
+      "t": 1789498455190,
+      "capital": 352.12,
+      "roi": -64.79
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-09-15T18:51:39.791309+00:00"
+  "updated": "2026-09-15T18:54:15.761511+00:00"
 }
