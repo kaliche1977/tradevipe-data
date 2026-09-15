@@ -1,15 +1,15 @@
 {
-  "capital": 348.88,
+  "capital": 346.72,
   "capital_inicial": 1000.0,
-  "roi": -65.11,
-  "cycle": 54,
+  "roi": -65.33,
+  "cycle": 55,
   "trades": 2153,
   "wr": 90.9,
   "grids": {
     "XPL": {
       "center": 0.079213,
       "pnl": 65.67,
-      "size_usd": 139.55,
+      "size_usd": 138.69,
       "activas": 1,
       "tp": 0,
       "sl": 23,
@@ -19,7 +19,7 @@
     "JTO": {
       "center": 0.42285,
       "pnl": 0.89,
-      "size_usd": 139.55,
+      "size_usd": 136.06,
       "activas": 0,
       "tp": 0,
       "sl": 5,
@@ -29,8 +29,8 @@
     "kPEPE": {
       "center": 0.003372,
       "pnl": 16.98,
-      "size_usd": 139.55,
-      "activas": 0,
+      "size_usd": 136.06,
+      "activas": 1,
       "tp": 0,
       "sl": 3,
       "long": 30,
@@ -40,7 +40,7 @@
   "bloqueados": [
     {
       "coin": "ETC",
-      "horas_restantes": 6.9,
+      "horas_restantes": 6.7,
       "wr_reciente": 0
     }
   ],
@@ -59,7 +59,7 @@
     "SOL": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0003
+      "funding": 0.0005
     },
     "ZEC": {
       "nivel": "VERDE",
@@ -108,7 +108,7 @@
     },
     "AAVE": {
       "nivel": "VERDE",
-      "score": 0,
+      "score": 1,
       "funding": 0.0013
     },
     "SUI": {
@@ -171,11 +171,6 @@
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785837073038,
-      "capital": 608.92,
-      "roi": -4.86
-    },
     {
       "t": 1785837132116,
       "capital": 608.94,
@@ -1170,9 +1165,14 @@
       "t": 1789513926252,
       "capital": 348.88,
       "roi": -65.11
+    },
+    {
+      "t": 1789514559120,
+      "capital": 346.72,
+      "roi": -65.33
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-09-15T23:12:06.752821+00:00"
+  "updated": "2026-09-15T23:22:39.620809+00:00"
 }
