@@ -1,25 +1,25 @@
 {
-  "capital": 350.75,
+  "capital": 350.42,
   "capital_inicial": 1000.0,
-  "roi": -64.93,
-  "cycle": 27,
-  "trades": 2142,
+  "roi": -64.96,
+  "cycle": 28,
+  "trades": 2144,
   "wr": 91.0,
   "grids": {
     "XPL": {
       "center": 0.079213,
-      "pnl": 66.09,
-      "size_usd": 98.71,
+      "pnl": 65.95,
+      "size_usd": 99.94,
       "activas": 0,
       "tp": 0,
-      "sl": 20,
+      "sl": 21,
       "long": 157,
-      "short": 152
+      "short": 154
     },
     "JTO": {
       "center": 0.444,
       "pnl": 0.52,
-      "size_usd": 87.32,
+      "size_usd": 93.82,
       "activas": 0,
       "tp": 0,
       "sl": 5,
@@ -29,7 +29,7 @@
     "kPEPE": {
       "center": 0.003372,
       "pnl": 16.98,
-      "size_usd": 140.3,
+      "size_usd": 140.17,
       "activas": 1,
       "tp": 0,
       "sl": 3,
@@ -104,7 +104,7 @@
     "WLD": {
       "nivel": "VERDE",
       "score": 0,
-      "funding": 0.0001
+      "funding": 0.0
     },
     "DOGE": {
       "nivel": "VERDE",
@@ -139,7 +139,7 @@
     "ADA": {
       "nivel": "VERDE",
       "score": 1,
-      "funding": 0.0031
+      "funding": 0.003
     },
     "VVV": {
       "nivel": "VERDE",
@@ -175,17 +175,12 @@
   "watchlist": [
     {
       "coin": "SAGA",
-      "vol_ratio": 1.4,
+      "vol_ratio": 1.33,
       "mov": 0.03
     }
   ],
   "modo_real": true,
   "historial": [
-    {
-      "t": 1785818976045,
-      "capital": 611.45,
-      "roi": -4.46
-    },
     {
       "t": 1785819651854,
       "capital": 608.1,
@@ -1180,9 +1175,14 @@
       "t": 1789504622798,
       "capital": 350.75,
       "roi": -64.93
+    },
+    {
+      "t": 1789504771493,
+      "capital": 350.42,
+      "roi": -64.96
     }
   ],
   "panico": false,
   "bot_activo": true,
-  "updated": "2026-09-15T20:37:03.321076+00:00"
+  "updated": "2026-09-15T20:39:31.986545+00:00"
 }
